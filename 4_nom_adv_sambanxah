@@ -1,0 +1,31 @@
+0,kopi,kim,nom. sg. m.,1,karwa,7
+1,dvitIyena,dvitIya,i. sg. m.,2,upapaxasambanxah,3
+2,saha,saha,adv.,4,sambanxah,0 ####### nom_adv_sambanxah #######
+3,na,na,part.,6,sambanxah,5
+4,atizWat,sTA,impft. [1] ac. sg. 3,7,samucciwam,6
+5,na,na,part.,8,sambanxah,6
+6,ca,ca,conj.,9,,
+7,avadat,vad,impft. [1] ac. sg. 3,10,samucciwam,6
+
+0,aham,asmad,nom. sg. *,0,karwa,8
+1,punaH,punar,adv.,1,sambanxah,0 ####### nom_adv_sambanxah #######
+2,yuzmAkam,yuzmad,nom. sg. n.,5,karwa,3
+3,prekzamARAnAm,Ikz,ppr. [1] md.,8,bavalakranasapwami_samanakalah,8
+4,eva,eva,ind.,9,sambanxah,3
+5,enam,ena,acc. sg. m.,10,viseranam,6
+6,kumAravfzasenam,vfzasena,acc. sg. m.,12,karma,8
+7,smartavyaSezam,Seza,acc. sg. m.,14,karmasamanaxikaranam,8
+8,karomi,kf,pr. [8] ac. sg. 1,17,,
+
+0,kintu,ca,adv.,0,sambanxah,2 ####### nom_adv_sambanxah #######
+1,vAYCitamudrAH,mudrA,nom. pl. f.,13,karwqsamanaxikaranam,3
+2,kim,kim,nom. sg. n.,6,waxarwyam,3
+3,dadyAm,dA,opt. [3] ac. sg. 1,7,,
+
+0,kintu,ca,adv.,0,sambanxah,4 ####### nom_adv_sambanxah #######
+1,aham,asmad,nom. sg. *,1,karwa,5
+2,samayAt,samaya,abl. sg. m.,2,upapaxasambanxah,3
+3,pUrvam,pUrva,loc. sg. m.,3,axikaranam,4
+4,prAptaH,Ap,nom. sg. m.,6,karwqsamanaxikaranam,5
+5,Asam,as,impft. [2] ac. sg. 1,12,,
+

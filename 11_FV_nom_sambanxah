@@ -1,0 +1,144 @@
+0,praRayavatA,praRaya,inst. sg. m.,1,karwa,5
+1,sumaDyamAyAH,sumaDyamA,g. sg. f.,4,rartisambanxah,2
+2,aDikarRaM,karRa,conj.,8,axikaranam,5
+3,samadanaM,tad,nom. sg. n.,12,viseranam,5
+4,kusume,kusuma,loc. sg. n.,15,viseranam,5
+5,avataMsite,vac,pp. . sg. ,22,purvakalah,14
+6,sati,as,nom. sg. n.,24,sambanxah,5 ####### FV_nom_sambanxah #######
+7,sapadi,sapadi,conj.,25,viseranam,9
+8,laGutAM,laGutA,acc. sg. f.,26,karma,9
+9,vrajat,vraj,nom. sg. n.,28,bavalakranasapwami_samanakalah,14
+10,api,api,conj.,29,sambanxah,9
+11,sapatnyAH,sapatnI,g. sg. f.,31,rartisambanxah,12
+12,hiraRmayamaRqanaM,maRqana,nom. sg. n.,36,karwa,14
+13,BAraH,BAra,nom. sg. m.,37,karwqsamanaxikaranam,14
+14,baBUva,BU,pft. ac. sg. 3,39,,
+
+0,nataBruvA,BrU,inst. sg. f.,2,karwa,3
+1,AnABeH,nABi,abl. sg. f.,0,sambanxah,3
+2,sarasi,saras,loc. sg. n.,3,axikaranam,3
+3,avagAQe,gAh,pp. . sg. ,9,bavalakranasapwami_samanakalah,11
+4,sati,as,nom. sg. n.,11,sambanxah,3 ####### FV_nom_sambanxah #######
+5,aTa,aTa,conj.,12,sambanxah,11
+6,payasaH,payas,g. sg. n.,13,rartisambanxah,7
+7,cApalyAt,cApalya,abl. sg. n.,15,hewuh,8
+8,taraNgahastEH,hasta,inst. pl. m.,16,karwa,11
+9,ucCrAyi,ucCrAyin,nom. sg. n.,17,viseranam,10
+10,stanayugam,yuga,nom. sg. n.,19,karma,11
+11,aDyarohi,ruh,impft. ac. sg. 3,21,samucciwam,17
+12,aTavA,aTavA,conj.,23,sambanxah,16
+13,labDasparSAnAm,sparSa,g. pl. m.,24,rartisambanxah,14
+14,kutaH,kutas,conj.,26,hewuh,15
+15,vyavasTA,vyavasTA,nom. sg. f.,70,karwa,16
+16,Bavati,BU,pr. ac. sg. 3,29,samucciwam,17
+17,ca,ca,conj.,30,,
+
+0,upahAsyaH,hAsya,nom. sg. m.,0,karwa,2
+1,kaH,kim,nom. sg. m.,1,sambanxah,2 ####### FV_nom_sambanxah #######
+2,Bavati,BU,pr. [1] ac. sg. 3,3,,
+
+0,paraH,para,nom. sg. m.,18,karwa,2
+1,Apadi,Apad,loc. sg. f.,2,axikaranam,2
+2,gamyaH,gama,nom. sg. m.,4,prawiyogi,3
+3,iti,iti,conj.,5,anuyogi,4
+4,nItiH,nIti,nom. sg. f.,6,karwa,9
+5,yat,yad,nom. sg. n.,20,viseranam,6
+6,tat,tad,nom. sg. n.,9,sambanxah,9 ####### FV_nom_sambanxah #######
+7,mAninaH,mAnin,g. sg. m.,12,rartisambanxah,8
+8,hriye,hrI,dat. sg. f.,16,prayojanam,9
+9,Bavati,BU,pr. ac. sg. 3,17,,
+
+0,cOraH,tad,nom. sg. m.,0,viseranam,1
+1,vfdDaH,vfdDa,nom. sg. m.,1,karwa,3
+2,yadi,yad,conj.,2,sambanxah,3
+3,kArye,kf,ca. pr. ps. sg. 1,3,,
+4,iyam,dam,nom. sg. f.,4,sambanxah,3 ####### FV_nom_sambanxah #######
+
+0,aTa,aTa,conj.,0,sambanxah,13
+1,atra,atra,conj.,1,axikaranam,13
+2,saKIBiH,saKI,inst. pl. f.,2,karwa,3
+3,kaTite,vac,pp. . sg. ,8,purvakalah,10
+4,sati,as,nom. sg. n.,10,sambanxah,3 ####### FV_nom_sambanxah #######
+5,kila,kila,conj.,11,sambanxah,6
+6,kzaRaM,kzaRa,conj.,12,viseranam,10
+7,sasamBramA,tad,nom. sg. f.,14,karwa,10
+8,aparA,aparA,nom. sg. f.,15,prawiyogi,9
+9,iva,iva,conj.,16,anuyogi,7
+10,BavantI,BU,nom. sg. n.,19,bavalakranasapwami_samanakalah,13
+11,SiTilitakusumAkulAgrapARiH,pARi,nom. sg. f.,20,viseranam,12
+12,pratipadAsaMyamitAMSukAvftaaNgI,aNgin,nom. sg. f.,21,karwa,13
+13,asTita,sTA,impft. md. sg. 3,22,,
+
+0,pariacCe,acCa,loc. sg. n.,3,viseranam,1
+1,sarasi,saras,loc. sg. n.,6,axikaranam,4
+2,payoBiH,payas,inst. pl. n.,7,karanam,4
+3,aMSuke,aMSuka,loc. sg. n.,10,karwa,4
+4,hfte,hf,pp. . sg. ,16,purvakalah,16
+5,sati,as,nom. sg. n.,18,sambanxah,4 ####### FV_nom_sambanxah #######
+6,suratagurO,guru,loc. sg. m.,19,viseranam,7
+7,lolAkze,rAjan,loc. sg. m.,20,karwa,8
+8,sati,as,nom. sg. n.,22,purvakalah,16
+9,apatrapizRoH,tad,g. sg. f.,23,viseranam,10
+10,suSroRyAH,suSroRI,g. sg. f.,24,rartisambanxah,11
+11,abjinI,abjinI,nom. sg. f.,26,karwa,16
+12,drutam,drutam,conj.,29,kriyaviseranam,16
+13,vIcihastanyastena,asta,inst. sg. n.,31,viseranam,14
+14,dalavasanena,vasana,inst. sg. n.,33,karanam,16
+15,saKItvam,saKI,acc. sg. n.,35,karma,16
+16,akfta,kf,impft. md. sg. 3,38,,
+
+0,pratiyuvatO,yuvati,loc. sg. f.,1,viseranam,2
+1,vratativitatiBiH,vitati,inst. pl. f.,2,karanam,7
+2,tirohitAyAM,devI,loc. sg. f.,3,axikaranam,7
+3,priyaH,priya,nom. sg. m.,4,karwa,7
+4,priyAyAH,priyA,g. sg. f.,6,rartisambanxah,5
+5,vadanaM,vadana,acc. sg. n.,7,karma,7
+6,yat,yad,acc. sg. n.,27,viseranam,5
+7,aDayat,DA,impft . ac. sg. 3,10,samucciwam,11
+8,tad,tad,nom. sg. n.,11,sambanxah,10 ####### FV_nom_sambanxah #######
+9,aDarAvalopanftyatkaravalayasvanitena,svanita,inst. sg. n.,15,karwa,10
+10,vivavre,vf,pft. md. sg. 3,16,samucciwam,11
+11,ca,ca,conj.,18,,
+
+0,anyA,anyA,nom. sg. f.,3,viseranam,2
+1,abalA,abalA,nom. sg. f.,5,viseranam,2
+2,tadaMsapIWadvayanihitoBayapARipallavA,pallava,nom. sg. f.,7,karwa,8
+3,satI,as,nom. sg. n.,8,sambanxah,8 ####### FV_nom_sambanxah #######
+4,laGulalitapadaM,pad,acc. sg. m.,11,viseranam,7
+5,sakaWinakucacUcukapraRodaM,tad,acc. sg. m.,12,viseranam,7
+6,savilAsaM,savilAsa,acc. sg. m.,14,viseranam,7
+7,priyam,priya,acc. sg. m.,15,karma,8
+8,anviyAya,i,pft. ac. sg. 3,33,,
+
+0,taTA,taTA,conj.,2,sambanxah,9
+1,api,api,conj.,11,sambanxah,0
+2,te,yuzmad,g. sg. n.,9,rartisambanxah,3
+3,mayi,asmad,loc. sg. n.,10,axikaranam,9
+4,api,api,conj.,0,sambanxah,3
+5,guruH,guru,nom. sg. m.,13,prawiyogi,6
+6,iti,iti,conj.,14,anuyogi,7
+7,yat,yad,nom. sg. n.,29,sambanxah,10
+8,gOravam,gOrava,nom. sg. n.,18,karwa,9
+9,asti,as,pr. ac. sg. 3,19,samucciwam,15
+10,tat,tad,nom. sg. n.,21,sambanxah,14 ####### FV_nom_sambanxah #######
+11,jalpataH,jalp,g. sg. m.,22,viseranam,12
+12,mama,asmad,g. sg. n.,23,rartisambanxah,13
+13,prayojakakartftvam,kartf,nom. sg. n.,34,karwa,14
+14,upEti,i,pr. ac. sg. 3,26,samucciwam,15
+15,ca,ca,conj.,27,,
+
+0,ekadA,ekadA,loc. sg. m.,1,axikaranam,13
+1,yadA,yadA,loc. sg. m.,15,axikaranam,13
+2,saH,tad,nom. sg. m.,2,viseranam,6
+3,saBAyAm,saBA,loc. sg. f.,3,axikaranam,4
+4,upAviSat,viS,impft. [6] ac. sg. 3,4,sambanxah,13
+5,ekaH,eka,loc. sg. m.,5,axikaranam,11
+6,rAjapuruzaH,puruza,nom. sg. m.,7,sambanxah,13 ####### FV_nom_sambanxah #######
+7,ekam,eka,acc. sg. m.,8,karwa,13
+8,SiSum,SiSu,acc. sg. m.,11,viseranam,9
+9,bAhuByAm,bAhu,acc. sg. m.,14,sambanxah,11
+10,nItvA,nI,abs.,16,karanam,11
+11,tatra,tra,pft. md. sg. 3,17,purvakalah,13
+12,tadA,tadA,loc. sg. m.,18,axikaranam,13
+13,AgacCat,gam,impft. [1] ac. sg. 3,0,,
+

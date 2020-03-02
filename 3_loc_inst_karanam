@@ -1,0 +1,45 @@
+0,praRayini,praRayin,loc. sg. m.,0,karwa,6
+1,sudfSaH,sudfS,g. sg. f.,10,rartisambanxah,2
+2,dfSaH,dfS,abl. sg. f.,21,apaxanam,6
+3,kOsumaM,tad,acc. sg. m.,22,viseranam,4
+4,parAgam,parAga,acc. sg. m.,23,karma,6
+5,Ananaanilena,anila,inst. sg. m.,24,karanam,6 ####### loc_inst_karanam #######
+6,vinayati,nI,loc. sg. m.,25,purvakalah,15
+7,sati,as,nom. sg. n.,27,sambanxah,6
+8,tat,tad,conj.,29,sambanxah,6
+9,ahitayuvateH,yuvati,g. sg. f.,31,rartisambanxah,10
+10,akzRoH,akzi,g. sg. n.,33,rartisambanxah,11
+11,dvayam,dvaya,nom. sg. n.,36,karma,15
+12,api,api,conj.,37,sambanxah,11
+13,rozarajoBiH,rajas,inst. pl. m.,39,karwa,15
+14,aBIkzRam,aBIkzRam,conj.,42,viseranam,15
+15,ApupUre,vac,pft. md. sg. 3,43,,
+
+0,vahati,vah,loc. sg. m.,0,viseranam,1
+1,jale,jala,loc. sg. m.,1,axikaranam,0
+2,kaTam,kaTam,adv.,7,kriyaviseranam,0
+3,mfttikayA,mfttikA,i. sg. f.,8,karanam,0 ####### loc_inst_karanam #######
+4,setubanDaH,banDa,nom. sg. m.,10,karwa,0
+
+0,dAnaM,dAna,acc. sg. n.,0,karma,1
+1,dadati,dA,loc. sg. m.,3,bavalakranasapwami_samanakalah,19
+2,api,api,conj.,4,sambanxah,1
+3,sahasA,sahasA,conj.,8,viseranam,5
+4,jalEH,jala,inst. pl. n.,10,karanam,5 ####### loc_inst_karanam #######
+5,aDirUQe,ruh,loc. sg. m.,16,bavalakranasapwami_samanakalah,19
+6,sati,as,loc. sg. m.,18,sambanxah,5
+7,vidyamAnagatiH,gati,nom. sg. m.,19,karwa,10
+8,kaH,kim,nom. sg. m.,20,viseranam,7
+9,Asitum,As,inf.,21,purvakalah,10
+10,utsAheta,saha,nom. sg. n.,22,samucciwam,20
+11,yad,yad,conj.,23,sambanxah,19
+12,mimaNkzoH,tad,nom. sg. n.,24,viseranam,13
+13,dantinaH,dantin,g. sg. m.,25,rartisambanxah,14
+14,kawakawAhatawAt,tawa,abl. sg. m.,26,apaxanam,19
+15,alInAM,ali,g. pl. m.,27,rartisambanxah,16
+16,pawalEH,pawala,inst. pl. n.,28,karwa,19
+17,paritaH,ca,conj.,29,sambanxah,19
+18,maNkzu,maNkzu,conj.,30,viseranam,19
+19,udapAti,pat,impft. ac. sg. ,34,samucciwam,20
+20,ca,ca,conj.,35,,
+

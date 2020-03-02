@@ -1,0 +1,38 @@
+0,param,para,nom. sg. m.,2,viseranam,2
+1,yadA,yadA,adv.,3,sambanxah,8
+2,saH,tad,nom. sg. m.,4,karwa,7
+3,svIyAm,svIya,acc. sg. f.,5,viseranam,4
+4,cOryakaraRapravfttim,pravftti,acc. sg. f.,8,karma,7
+5,na,na,part.,11,sambanxah,7
+6,eva,eva,prep.,12,sambanxah,5
+7,paryatyajat,tyaj,impft. [1] ac. sg. 3,24,prawiyogi,8 ####### adv_FV_prawiyogi #######
+8,tadA,tadA,adv.,14,anuyogi,11
+9,sA,tad,nom. sg. f.,15,karwa,11
+10,putram,putra,acc. sg. m.,16,karma,11
+11,upadizwavatI,diS,pp.,19,,
+
+0,ekadA,ekadA,loc. sg. m.,0,axikaranam,7
+1,yadA,yadA,adv.,1,,
+2,rAmaH,rAma,nom. sg. m.,2,samucciwam,4
+3,lakzmaRaH,lakzmaRa,nom. sg. m.,3,samucciwam,4
+4,ca,ca,conj.,10,karwa,7
+5,ASrame,ASrama,loc. sg. m.,6,axikaranam,7
+6,na,na,part.,13,sambanxah,7
+7,AstAm,As,impft. [2] ac. du. 3,15,prawiyogi,1 ####### adv_FV_prawiyogi #######
+8,laNkAdeSasya,deSa,loc. sg. m.,17,axikaranam,15
+9,rAmasya,rAma,g. sg. m.,24,rartisambanxah,11
+10,nfpaH,nfpa,nom. sg. m.,20,viseranam,11
+11,rAvaRaH,rAvaRa,nom. sg. m.,21,karwa,15
+12,rAmasya,rAma,g. sg. n.,19,rartisambanxah,13
+13,ASramAt,ASrama,abl. sg. m.,22,apaxanam,15
+14,sItAm,sItA,acc. sg. f.,26,karma,15
+15,aharat,hf,impft. [1] ac. sg. 3,27,prawiyogi,1 ####### adv_FV_prawiyogi #######
+
+0,tena,tan,pft. md. sg. 3,2,prawiyogi,2 ####### adv_FV_prawiyogi #######
+1,eva,eva,prep.,4,sambanxah,2
+2,saha,saha,adv.,5,anuyogi,5
+3,BAzaRaSrotari,Srotf,loc. sg. m.,8,axikaranam,5
+4,api,api,conj.,9,sambanxah,3
+5,virAmaH,virAma,nom. sg. m.,11,karwa,6
+6,lagnaH,lag,pp.,12,,
+

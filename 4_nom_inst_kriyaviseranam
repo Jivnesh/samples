@@ -1,0 +1,52 @@
+0,iti,iti,conj.,0,sambanxah,1
+1,vicintayan,tad,nom. sg. m.,1,bavalakranasapwami_samanakalah,10
+2,saH,tad,nom. sg. m.,2,karwa,10
+3,ekadA,ekadA,conj.,3,axikaranam,10
+4,tO,tad,acc. du. m.,4,viseranam,5
+5,vfzaBO,vfzaBa,acc. du. m.,6,karma,10
+6,SfMgAByAm,SfNga,inst. du. n.,10,karanam,9
+7,parasparam,paraspara,nom. sg. n.,13,kriyaviseranam,9
+8,snehena,sneha,inst. sg. m.,14,kriyaviseranam,9 ####### nom_inst_kriyaviseranam #######
+9,krIqantO,tad,nom. du. m.,47,karmasamanaxikaranam,10
+10,apaSyat,dfS,impft . ac. sg. 3,17,,
+
+0,ekadA,da,loc. sg. m.,2,axikaranam,10
+1,AtmIyam,AtmIya,acc. sg. m.,4,viseranam,3
+2,imam,idam,acc. sg. m.,7,viseranam,3
+3,BAvam,BAva,acc. sg. m.,8,karma,10
+4,prakArAntareRa,antara,i. sg. m.,28,kriyaviseranam,8 ####### nom_inst_kriyaviseranam #######
+5,saH,tad,nom. sg. m.,11,karwa,10
+6,BagavataH,Baga,g. sg. n.,16,rartisambanxah,7
+7,sammuKe,sammuKa,loc. sg. m.,17,axikaranam,10
+8,prakatam,tad,nom. sg. n.,21,karmasamanaxikaranam,10
+9,api,api,prep.,23,sambanxah,8
+10,kftavAn,kf,ppa.,24,,
+
+0,tasmin,tad,loc. sg. n.,0,viseranam,1
+1,dine,dina,loc. sg. n.,4,axikaranam,11
+2,hastinApure,pura,loc. sg. m.,49,axikaranam,11
+3,SastrakOSalaparIkzAsparDAvasare,avasara,loc. sg. m.,69,axikaranam,11
+4,na,na,part.,16,sambanxah,7
+5,kasya,kim,g. sg. n.,17,rartisambanxah,7
+6,api,api,conj.,19,sambanxah,5
+7,viditaH,vid,nom. sg. m.,59,viseranam,8
+8,tvam,yuzmad,nom. sg. *,22,karwa,11
+9,DEryeRa,tad,i. sg. n.,23,kriyaviseranam,11 ####### nom_inst_kriyaviseranam #######
+10,sparDABUmim,BUmi,acc. sg. f.,25,karma,11
+11,AgataH,gam,nom. sg. m.,26,prawiyogi,12
+12,iti,iti,part.,27,anuyogi,13
+13,idam,dam,acc. sg. n.,28,karma,16
+14,dfQam,dfh,adv.,31,kriyaviseranam,16
+15,aham,asmad,nom. sg. *,32,karwa,16
+16,smarAmi,smf,pr. [1] ac. sg. 1,33,,
+
+0,yadfcCayA,yadfcCA,inst. sg. f.,1,kriyaviseranam,4 ####### nom_inst_kriyaviseranam #######
+1,svayaM,svayam,conj.,3,sambanxah,8
+2,suradEtyarakzasAm,rakzas,g. pl. n.,5,rartisambanxah,3
+3,anugrahAvagrahayoH,avagraha,g. du. m.,93,rartisambanxah,4
+4,viDAtA,viDAtf,nom. sg. m.,17,viseranam,5
+5,asO,adas,nom. sg. m.,37,karwa,8
+6,aBirAdDadevatAvitIrRavIryAtiSayAn,tad,acc. pl. m.,21,viseranam,7
+7,daSAnanAdIn,Adi,acc. pl. m.,73,karma,8
+8,hasati,has,pr. ac. sg. 3,24,,
+

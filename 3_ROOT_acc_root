@@ -1,0 +1,27 @@
+0,sarvatra,sarvatra,loc. sg. m.,0,axikaranam,7
+1,prakArAntareRa,antara,i. sg. m.,12,karanam,7
+2,tava,yuzmad,g. sg. *,3,rartisambanxah,3
+3,sadAcAritA,car,acc. sg. f.,5,samucciwam,6
+4,SucitA,Suc,acc. pl. f.,7,samucciwam,6
+5,eva,eva,prep.,8,sambanxah,6
+6,ca,ca,conj.,9,karma,7
+7,pramARitA,diS,acc. pl. f.,10,, ####### ROOT_acc_root #######
+8,iti,iti,part.,11,sambanxah,7
+
+0,senApatiH,pat,nom. sg. m.,1,karwa,4
+1,kim,kim,acc. sg. n.,2,karma,2
+2,kftvA,kf,abs.,4,purvakalah,4
+3,pracalitaH,calita,loc. sg. m.,5,axikaranam,4
+4,agre,agra,acc. du. n.,6,, ####### ROOT_acc_root #######
+
+0,BAratarAzwriyA,rAzwriya,nom. pl. f.,3,viseranam,1
+1,janatA,jana,nom. pl. f.,5,karwa,4
+2,yAdfSIm,yAdfS,acc. sg. f.,6,, ####### ROOT_acc_root #######
+3,viSvabanDutAm,banDu,acc. sg. f.,8,karma,4
+4,vAYCati,vAYC,pr. [1] ac. sg. 3,9,prawiyogi,2
+5,tAm,tad,acc. sg. f.,10,viseranam,6
+6,viSvabanDutAm,banDu,acc. sg. f.,12,karma,7
+7,prAcArayat,car,ca. impft. ac. sg. 3,13,prawiyogi,2
+8,asmAkam,asmad,g. pl. *,14,rartisambanxah,9
+9,rAzwradevatA,deva,nom. sg. f.,16,karwa,7
+

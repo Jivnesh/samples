@@ -1,0 +1,70 @@
+0,tadA,tadA,conj.,0,axikaranam,3 ####### Ind_Ind_axikaranam #######
+1,mfgAH,mfga,nom. pl. m.,3,karwa,4
+2,tasmin,tad,loc. sg. n.,4,axikaranam,3
+3,viSvasya,Svas,conj.,7,purvakalah,4
+4,pratyAgatAH,gam,pp. . pl. ,10,,
+
+0,rasikA,rasa,nom. sg. n.,0,karwa,10
+1,sA,tad,nom. sg. f.,1,viseranam,0
+2,kA,kim,nom. sg. f.,2,viseranam,0
+3,ekAnte,ekAnta,conj.,10,axikaranam,5 ####### Ind_Ind_axikaranam #######
+4,tatsamparkaM,samparka,acc. sg. m.,11,karma,5
+5,prApya,Ap,conj.,13,purvakalah,10
+6,purA,purA,conj.,15,axikaranam,10
+7,kAM,kim,acc. sg. f.,16,viseranam,8
+8,mohanalIlAM,lIlA,acc. sg. f.,17,karma,10
+9,na,na,conj.,18,sambanxah,10
+10,kurute,kf,pr. md. sg. 3,20,,
+
+0,yadi,yadi,conj.,0,samucciwam,7
+1,ahaM,asmad,nom. sg. *.,1,samucciwam,7
+2,tatra,tatra,conj.,2,axikaranam,5 ####### Ind_Ind_axikaranam #######
+3,kAYcit,cit,acc. sg. f.,4,viseranam,4
+4,sahAyatAM,sahAya,acc. sg. f.,5,karma,5
+5,kartuM,kf,conj.,6,prayojanam,6
+6,SaknuyAm,Sak,opt. ac. sg. 1,7,samucciwam,7
+7,ca,ca,conj.,8,,
+
+0,nijayuvatO,yuvati,loc. sg. f.,0,karwa,2
+1,vanAt,vana,abl. sg. n.,1,apaxanam,2
+2,AyAntyAM,yA,nom. sg. n.,2,purvakalah,14
+3,saSaNkam,SaNkA,nom. sg. n.,4,viseranam,7
+4,aparaSiKaRqinIM,SiKaRqinI,acc. sg. f.,5,karma,7
+5,barhARAM,barha,g. pl. m.,6,rartisambanxah,6
+6,BareRa,Bara,inst. sg. m.,9,hewuh,7
+7,vyavadaDataM,DA,nom. sg. n.,10,viseranam,8
+8,mayUraM,mayUra,acc. sg. m.,11,karma,10
+9,puraH,puras,conj.,13,axikaranam,10 ####### Ind_Ind_axikaranam #######
+10,Alokya,ca,conj.,14,purvakalah,14
+11,kAminyaH,kAminI,nom. pl. f.,15,karwa,14
+12,narezu,nara,loc. pl. m.,16,axikaranam,14
+13,anArjavaM,anArjava,acc. sg. n.,20,karma,14
+14,SradaDuH,DA,impft. ps. pl. 3,21,,
+
+0,tadA,tadA,conj.,0,axikaranam,4 ####### Ind_Ind_axikaranam #######
+1,vfdDA,vfdDA,nom. sg. f.,3,karwa,5
+2,BikzukaM,Bikzuka,acc. sg. m.,4,karma,5
+3,kiM,kim,nom. sg. n.,6,karma,4
+4,kartuM,kf,conj.,7,prayojanam,5
+5,kaTitavatI,vac,pp. . sg. ,10,,
+
+0,sAyam,sAyam,conj.,1,axikaranam,4 ####### Ind_Ind_axikaranam #######
+1,api,api,conj.,2,sambanxah,0
+2,gfhaM,gfha,acc. sg. n.,4,prawiyogi,3
+3,prati,prati,conj.,6,anuyogi,4
+4,nivftya,vf,conj.,7,purvakalah,7
+5,eva,eva,conj.,8,sambanxah,4
+6,BojanaM,Bojana,acc. sg. n.,9,karma,7
+7,kftavAn,kft,pp. . sg. ,11,,
+
+0,kintu,ca,conj.,0,samucciwam,9
+1,tatra,tatra,conj.,1,axikaranam,5 ####### Ind_Ind_axikaranam #######
+2,nirJarAn,nirJara,acc. pl. m.,2,karma,5
+3,api,api,conj.,3,sambanxah,2
+4,SuzkAn,Suzka,acc. pl. m.,5,karma,5
+5,dfzwvA,dfS,conj.,6,purvakalah,8
+6,mahAtmAnam,mahAtman,acc. sg. m.,10,karma,7
+7,Agatya,gam,conj.,11,purvakalah,8
+8,avocat,vac,impft. ac. sg. 3,12,samucciwam,9
+9,ca,ca,conj.,13,,
+

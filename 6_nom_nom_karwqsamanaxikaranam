@@ -1,0 +1,79 @@
+0,SizyaH,Sizya,nom. sg. m.,0,karwa,13
+1,akasmAt,akasmAt,adv.,1,kriyaviseranam,3
+2,tatra,tatra,loc. sg. n.,4,axikaranam,6
+3,AyAntam,yA,acc. sg. m.,5,viseranam,5
+4,ekam,eka,acc. sg. m.,6,viseranam,5
+5,BayAnakasiMham,siMha,acc. sg. m.,10,karma,6
+6,dfzwvA,dfS,abs.,11,purvakalah,13
+7,BayAturaH,Atura,nom. sg. m.,49,karwqsamanaxikaranam,13 ####### nom_nom_karwqsamanaxikaranam #######
+8,samIpasTam,samIpa,loc. sg. m.,16,axikaranam,11
+9,eva,eva,prep.,17,sambanxah,8
+10,ekam,eka,nom. sg. n.,20,viseranam,11
+11,vfkzam,vfkza,acc. sg. m.,21,karma,13
+12,satvaram,satvara,adv.,24,kriyaviseranam,13
+13,ArUQavAn,tad,nom. sg. m.,25,samucciwam,15
+14,AtmAnam,Atman,acc. sg. *,26,karma,17
+15,ca,ca,conj.,28,,
+16,siMhAt,siMha,abl. sg. m.,29,apaxanam,17
+17,surakzitavAn,tad,nom. sg. m.,30,samucciwam,15
+
+0,bAlakaH,bAlaka,nom. sg. m.,0,karwa,3
+1,eva,eva,prep.,1,sambanxah,0
+2,tu,tu,conj.,2,sambanxah,0
+3,asti,as,pr. [2] ac. sg. 3,3,,
+4,saH,tad,nom. sg. m.,4,karwqsamanaxikaranam,0 ####### nom_nom_karwqsamanaxikaranam #######
+
+0,tAta,tAta,voc. sg. m.,0,samboxyah,15
+1,aham,asmad,nom. sg. *,1,karwa,15
+2,tu,tu,conj.,2,sambanxah,1
+3,kEScit,kim,i. pl. m.,4,viseranam,4
+4,durjanEH,durjana,i. pl. m.,6,karanam,5
+5,preritaH,tad,nom. sg. m.,8,karwqsamanaxikaranam,14 ####### nom_nom_karwqsamanaxikaranam #######
+6,samayataH,yam,g. sg. m.,9,upapaxasambanxah,7
+7,pUrvam,pUrva,loc. sg. m.,12,axikaranam,10
+8,eva,eva,prep.,13,sambanxah,7
+9,rAjyam,rAjya,acc. sg. m.,19,karma,10
+10,aDigrahItum,grah,inf.,21,prayojanam,14
+11,Bavantam,BU,acc. sg. m.,22,karma,12
+12,hantum,han,inf.,40,prayojanam,14
+13,vicAram,vicAra,acc. sg. m.,24,karma,14
+14,kftavAn,kf,nom. sg. m.,25,karwqsamanaxikaranam,15
+15,Asam,as,impft. [2] ac. sg. 1,42,,
+
+0,vAnarAH,vAnara,nom. pl. m.,0,karwa,2
+1,anukArakAH,anukAraka,nom. pl. m.,3,karwqsamanaxikaranam,0 ####### nom_nom_karwqsamanaxikaranam #######
+2,Bavanti,BU,pr. ac. pl. 3,4,karma,5
+3,iti,iti,conj.,5,sambanxah,5
+4,saH,tad,nom. sg. m.,6,karwa,5
+5,aboDat,buD,impft . ac. sg. 3,7,,
+
+0,tvam,yuzmad,nom. sg. n.,0,karwa,9
+1,ujJitaSramaH,Srama,nom. sg. m.,2,karwqsamanaxikaranam,2 ####### nom_nom_karwqsamanaxikaranam #######
+2,san,as,nom. sg. m.,3,bavalakranasapwami_samanakalah,9
+3,krameRa,krameRa,conj.,4,viseranam,9
+4,BuvanadvizAM,dviza,g. sg. m.,6,rartisambanxah,5
+5,pezwuM,piz,inf.,7,prayojanam,9
+6,svayam,svayam,conj.,9,viseranam,8
+7,eva,eva,conj.,10,sambanxah,6
+8,pravfttaH,vftta,nom. sg. m.,11,karwqsamanaxikaranam,9
+9,asi,as,pr. ac. sg. 2,12,samucciwam,17
+10,taTApi,api,conj.,56,sambanxah,16
+11,miTaH,miTas,conj.,16,sambanxah,16
+12,tvadABAzaRalolupaM,rama,nom. sg. n.,17,viseranam,13
+13,manaH,manas,nom. sg. n.,19,karwa,16
+14,mAM,asmad,acc. sg. n.,20,karma,16
+15,vAcAlatayA,vAcAla,inst. sg. f.,21,karanam,16
+16,yunakti,yuj,pr. ac. sg. 3,22,samucciwam,17
+17,ca,ca,conj.,23,,
+
+0,BAratIyAH,BAratIya,nom. pl. m.,0,viseranam,1
+1,vidvAMsaH,vidvas,nom. pl. m.,3,karwa,2
+2,kaTayanti,kaT,pr. [10] ac. pl. 3,4,,
+3,yat,yad,conj.,5,anuyogi,2
+4,BArataBUmiH,BUmi,nom. sg. f.,7,karwa,9
+5,eva,eva,prep.,8,sambanxah,4
+6,AryARAm,Arya,g. pl. m.,29,rartisambanxah,8
+7,mUlam,mUla,nom. sg. n.,11,viseranam,8
+8,nivAsasTAnam,sTAna,nom. sg. n.,14,karwqsamanaxikaranam,4 ####### nom_nom_karwqsamanaxikaranam #######
+9,AsIt,as,aor. [5] ac. sg. 3,16,prawiyogi,3
+

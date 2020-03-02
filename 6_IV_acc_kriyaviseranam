@@ -1,0 +1,64 @@
+0,vizaye,vizaya,loc. sg. m.,7,axikaranam,2
+1,praSnAn,praSna,acc. pl. m.,3,karma,2
+2,kftvA,kf,abs.,5,purvakalah,7
+3,ekA,eka,nom. sg. f.,4,viseranam,4
+4,saKI,tad,nom. sg. f.,6,karwa,7
+5,vizaye,vizaya,loc. sg. m.,0,axikaranam,7
+6,saduHKam,duHKa,acc. sg. m.,11,kriyaviseranam,7 ####### IV_acc_kriyaviseranam #######
+7,kaTitavatI,kaT,ppa.,16,,
+
+0,paRqitam,paRqita,acc. sg. m.,0,karma,3
+1,ca,ca,conj.,3,samucciwam,12
+2,sAdaram,sAdara,acc. sg. m.,4,kriyaviseranam,3 ####### IV_acc_kriyaviseranam #######
+3,praRamya,nam,abs.,7,samucciwam,5
+4,sammAnya,man,ca. abs.,8,samucciwam,5
+5,ca,ca,conj.,9,purvakalah,10
+6,saha,saha,acc. sg. n.,10,anuyogi,7
+7,AnItam,tad,acc. sg. m.,13,viseranam,8
+8,DanaDAnyam,DAnya,acc. sg. m.,39,karma,10
+9,taccaraRAravindayoH,aravinda,loc. du. m.,86,axikaranam,10
+10,samarpitavAn,vac,pp.,23,samucciwam,12
+11,tena,tad,i. sg. n.,24,prawiyogi,6
+12,ca,ca,conj.,26,,
+
+0,mantriRaH,mantrin,g. sg. m.,2,rartisambanxah,1
+1,anumatyA,anumati,i. sg. f.,24,karanam,7
+2,rAjA,rAjan,nom. sg. m.,8,karwa,7
+3,tam,tad,acc. sg. m.,12,viseranam,4
+4,yuvAnam,yuvan,acc. sg. m.,13,karma,7
+5,eva,eva,prep.,14,sambanxah,4
+6,svakIyapraDAnamantrirUpe,rUpa,acc. du. n.,18,kriyaviseranam,7 ####### IV_acc_kriyaviseranam #######
+7,niyuktavAn,vac,pp.,21,,
+8,iti,iti,part.,22,sambanxah,7
+
+0,yaTAsamayam,samaya,acc. sg. m.,1,kriyaviseranam,5 ####### IV_acc_kriyaviseranam #######
+1,tatra,tatra,loc. sg. n,2,axikaranam,5
+2,aRqeByaH,aRqa,abl. pl. m.,3,apaxanam,5
+3,catvAraH,catur,nom. pl. m.,7,viseranam,4
+4,SAvakAH,SAvaka,nom. pl. m.,8,karwa,5
+5,niHsftAH,sfta,pp.,11,,
+
+0,yuvakaH,yuvan,nom. sg. n.,1,karwa,8
+1,tat,tad,acc. sg. n.,3,viseranam,2
+2,Palam,Pala,acc. sg. n.,5,karma,8
+3,pUrvavat,pUrva,acc. sg. n.,8,kriyaviseranam,8 ####### IV_acc_kriyaviseranam #######
+4,eva,eva,prep.,9,sambanxah,3
+5,ekasyAH,eka,abl. sg. f.,11,viseranam,6
+6,veSyAyAH,tad,g. sg. f.,15,rartisambanxah,7
+7,haste,hasta,loc. sg. m.,16,axikaranam,8
+8,vikrItavAn,vikrIta,pp.,17,,
+
+0,sA,tad,nom. sg. f.,0,karwa,12
+1,pArSvataH,pArSva,abl. sg. n.,1,apaxanam,7
+2,eva,eva,prep.,2,sambanxah,1
+3,ekAm,eka,acc. sg. f.,3,viseranam,6
+4,bfhatIm,bfhatI,acc. sg. f.,4,viseranam,6
+5,sTUlAm,sTUla,acc. sg. f.,5,viseranam,6
+6,latAm,latA,acc. sg. f.,6,karma,7
+7,utpAwya,kf,ca. abs.,7,purvakalah,12
+8,rajjuvat,rajju,acc. sg. n.,9,kriyaviseranam,10 ####### IV_acc_kriyaviseranam #######
+9,kUpe,kUpa,loc. sg. m.,10,axikaranam,10
+10,lambayitvA,lamb,abs.,12,purvakalah,12
+11,vfkam,vfka,acc. sg. m.,13,karma,12
+12,kaTitavatI,kaT,ppa.,16,,
+

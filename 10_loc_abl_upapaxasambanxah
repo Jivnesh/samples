@@ -1,0 +1,115 @@
+0,kaRWe,kaRWa,loc. sg. m.,0,axikaranam,1
+1,pASayojanAt,yojana,abl. sg. m.,2,upapaxasambanxah,2 ####### loc_abl_upapaxasambanxah #######
+2,pUrvam,pUrva,loc. sg. m.,4,axikaranam,6
+3,tataH,tad,abl. pl. n.,22,apaxanam,4
+4,antimA,antima,acc. pl. f.,9,viseranam,5
+5,icCA,icCA,acc. pl. f.,11,karma,6
+6,pfzwA,pfzwa,pp.,13,,
+
+0,grAmAt,grAma,abl. sg. m.,0,upapaxasambanxah,1 ####### loc_abl_upapaxasambanxah #######
+1,bahiH,bahis,loc. sg. n.,2,axikaranam,4
+2,jaNgalasya,jaNgala,g. sg. m.,3,rartisambanxah,3
+3,SUnyapradeSe,pradeSa,loc. sg. m.,6,axikaranam,4
+4,Kanantam,Kan,acc. sg. m.,7,viseranam,5
+5,pitaram,pitf,acc. sg. m.,8,karma,6
+6,dfzwvA,dfS,abs.,9,purvakalah,9
+7,saptAzwavarzIyaH,varzIya,nom. sg. m.,11,viseranam,8
+8,putraH,putra,nom. sg. m.,12,karwa,9
+9,pfzwavAn,kf,ppa.,14,,
+
+0,nagarAt,nagara,abl. sg. m.,0,upapaxasambanxah,1 ####### loc_abl_upapaxasambanxah #######
+1,bahiH,bahis,loc. sg. n.,3,axikaranam,6
+2,ekasmin,eka,loc. sg. n.,5,viseranam,3
+3,upavane,upavana,loc. sg. n.,8,axikaranam,6
+4,kaScit,kim,nom. sg. m.,9,viseranam,5
+5,sannyAsI,tad,nom. sg. m.,11,karwa,6
+6,nivasati,vas,pr. [1] ac. sg. 3,12,,
+7,sma,sma,part.,13,sambanxah,6
+
+0,mattaH,asmad,abl. sg. *,0,upapaxasambanxah,1 ####### loc_abl_upapaxasambanxah #######
+1,paScAt,paSca,loc. sg. m.,2,axikaranam,6
+2,mama,asmad,g. sg. *,3,rartisambanxah,3
+3,pitfByaH,pitf,dat. pl. m.,5,sampraxanam,4
+4,piRqadAnam,Ana,acc. sg. m.,30,karma,6
+5,kaH,kim,nom. sg. m.,7,karwa,6
+6,karizyati,kf,fut. ac. sg. 3,8,,
+
+0,tIrTayAtrAprasaNge,prasaNga,loc. sg. m.,2,axikaranam,3
+1,ekA,eka,nom. sg. m.,3,viseranam,2
+2,sADumaRqalI,maRqalin,nom. sg. m.,5,karwa,7
+3,Agatya,gam,abs.,6,purvakalah,7
+4,grAmAt,grAma,abl. sg. m.,7,upapaxasambanxah,5 ####### loc_abl_upapaxasambanxah #######
+5,bahiH,bahis,loc. sg. m.,8,axikaranam,7
+6,viSrAmam,viSrAma,acc. sg. m.,10,karma,7
+7,kalpitavatI,vac,ca. pp.,13,,
+
+0,tasya,tad,g. sg. n.,1,rartisambanxah,1
+1,AvAsAt,AvAsa,abl. sg. m.,0,upapaxasambanxah,3 ####### loc_abl_upapaxasambanxah #######
+2,kiYcit,rAjan,loc. sg. m.,3,viseranam,3
+3,dUre,dUra,loc. sg. m.,4,axikaranam,10
+4,eva,eva,prep.,10,sambanxah,3
+5,ekaH,eka,nom. sg. m.,11,samucciwam,12
+6,nirDanaH,nirDana,nom. sg. m.,12,viseranam,7
+7,yuvA,yuvan,nom. sg. m.,13,karwa,10
+8,aDastAt,aDastAt,adv.,14,upapaxasambanxah,9
+9,vfkzasya,vfkza,abl. sg. m.,16,apaxanam,10
+10,nivasati,vas,pr. [1] ac. sg. 3,17,samucciwam,12
+11,sma,sma,part.,18,sambanxah,10
+12,ca,ca,conj.,19,,
+
+0,alpAt,alpa,abl. sg. m.,0,viseranam,1
+1,kAlAt,kAla,abl. sg. m.,3,upapaxasambanxah,2 ####### loc_abl_upapaxasambanxah #######
+2,paScAt,paSca,loc. sg. m.,5,axikaranam,5
+3,saH,tad,nom. sg. m.,7,viseranam,4
+4,nfpaH,nfpa,nom. sg. m.,8,karwa,5
+5,avadat,vad,impft. [1] ac. sg. 3,9,,
+6,he,he,ind.,10,sambanxah,17
+7,rAja-puruza,puruza,voc. sg. m.,11,samboxyah,17
+8,asinA,as,i. sg. m.,12,karanam,12
+9,SiSum,SiSu,acc. sg. m.,13,karma,12
+10,dvayoH,suBaga,loc. du. f.,19,viseranam,11
+11,KaRqayoH,KaRqa,loc. du. f.,24,axikaranam,17
+12,ekam,eka,acc. sg. m.,26,purvakalah,17
+13,ekam,eka,acc. du. f.,31,viseranam,15
+14,KaRqam,KaRqa,acc. du. f.,34,viseranam,15
+15,nArIByAm,nAra,acc. du. f.,37,karma,17
+16,yacCa,yam,imp. [1] ac. sg. 2,38,sampraxanam,17
+17,yat,yad,acc. sg. n.,64,karma,5
+18,kftvA,kf,abs.,40,sambanxah,5
+
+0,mama,asmad,g. sg. *,0,rartisambanxah,1
+1,anantaraputreByaH,putra,abl. pl. m.,3,upapaxasambanxah,2 ####### loc_abl_upapaxasambanxah #######
+2,pUrvam,pUrva,loc. sg. m.,5,axikaranam,8
+3,eva,eva,prep.,8,sambanxah,2
+4,tava,yuzmad,g. sg. *,9,rartisambanxah,7
+5,me,asmad,g. sg. *,10,rartisambanxah,6
+6,hfdi,hfdaya,loc. sg. n.,12,axikaranam,8
+7,sTAnam,sTAna,nom. sg. n.,14,karwa,8
+8,asti,as,pr. [2] ac. sg. 3,15,,
+
+0,tataH,tad,abl. sg. n.,56,apaxanam,2
+1,idam,idam,acc. sg. n.,37,karma,2
+2,jYAtvA,jYA,abs.,2,purvakalah,16
+3,yat,yad,conj.,3,samucciwam,17
+4,saH,tad,nom. sg. m.,4,karwa,16
+5,tu,tu,conj.,5,sambanxah,4
+6,rAtrO,rAtri,loc. sg. f.,6,axikaranam,7
+7,BuktvA,Buj,abs.,8,samucciwam,9
+8,pItvA,kf,abs.,10,samucciwam,9
+9,ca,ca,conj.,11,purvakalah,16
+10,gfhAt,gfha,abl. sg. n.,12,upapaxasambanxah,12 ####### loc_abl_upapaxasambanxah #######
+11,kiYcit,rAjan,loc. sg. m.,13,viseranam,12
+12,dUre,dUra,loc. sg. m.,14,axikaranam,16
+13,eva,eva,prep.,20,sambanxah,12
+14,svasambanDinaH,sambanDi,g. sg. m.,29,rartisambanxah,15
+15,inDanavipaRO,vipaRa,loc. sg. f.,33,axikaranam,16
+16,gataH,gam,pp.,34,samucciwam,17
+17,ca,ca,conj.,35,,
+
+0,kintu,ca,adv.,0,sambanxah,4
+1,aham,asmad,nom. sg. *,1,karwa,5
+2,samayAt,samaya,abl. sg. m.,2,upapaxasambanxah,3 ####### loc_abl_upapaxasambanxah #######
+3,pUrvam,pUrva,loc. sg. m.,3,axikaranam,4
+4,prAptaH,Ap,nom. sg. m.,6,karwqsamanaxikaranam,5
+5,Asam,as,impft. [2] ac. sg. 1,12,,
+

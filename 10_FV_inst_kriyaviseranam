@@ -1,0 +1,78 @@
+0,aham,asmad,nom. sg. *,0,karwa,4
+1,vyAjena,vyAja,i. sg. m.,1,kriyaviseranam,4 ####### FV_inst_kriyaviseranam #######
+2,tvAm,yuzmad,acc. sg. *,2,sambanxah,4
+3,svagfham,gfha,acc. sg. n.,4,sambanxah,4
+4,nayAmi,nI,pr. [1] ac. sg. 1,6,,
+
+0,aham,asmad,nom. sg. *,0,karwa,5
+1,tu,tu,conj.,1,sambanxah,0
+2,prativeSitayA,tad,i. sg. f.,8,kriyaviseranam,5 ####### FV_inst_kriyaviseranam #######
+3,Bavantam,BU,acc. sg. m.,3,karma,4
+4,yAcitvA,yAc,abs.,4,purvakalah,5
+5,paWAmi,paW,pr. [1] ac. sg. 1,5,,
+
+0,vfkzasya,vfkza,g. sg. m.,0,upapaxasambanxah,1
+1,aDaH,ca,conj.,1,axikaranam,4
+2,makaraH,makara,nom. sg. m.,2,karwa,7
+3,ciram,ciram,conj.,5,kriyaviseranam,4
+4,pratIkzAm,pratIkzA,acc. sg. f.,6,karma,5
+5,kftvA,kf,conj.,11,purvakalah,7
+6,uccEH,ucca,inst. pl. m.,9,kriyaviseranam,7 ####### FV_inst_kriyaviseranam #######
+7,avadat,vad,impft . ac. sg. 3,10,,
+
+0,tO,tad,nom. du. m.,1,karwa,3
+1,parIkzAyE,parIkzA,dat. sg. f.,2,waxarwyam,3
+2,yatnena,yatna,i. sg. m.,3,kriyaviseranam,3 ####### FV_inst_kriyaviseranam #######
+3,paWetAm,paW,opt. [1] ac. du. 3,5,,
+
+0,kfpayA,kfpA,i. sg. f.,0,kriyaviseranam,1 ####### FV_inst_kriyaviseranam #######
+1,kzamyatAm,kzam,ca. imp. ps. sg. 3,2,,
+2,mAm,asmad,acc. sg. *,3,karma,1
+3,tAvat,tAvat,adv.,4,sambanxah,1
+4,iti,t,part.,5,sambanxah,1
+
+0,na,na,part.,9,sambanxah,5
+1,aham,asmad,nom. sg. *,1,karwa,7
+2,adyAvaDiH,avaDi,loc. sg. m.,2,axikaranam,7
+3,ISvaram,ISvara,acc. sg. m.,3,karma,7
+4,apaSyam,paS,impft. [4] ac. sg. 1,6,sambanxah,7
+5,svacakzuzA,cakzus,i. sg. n.,8,karanam,6
+6,na,na,part.,0,sambanxah,7
+7,vA,vA,conj.,10,,
+8,cetasA,cetas,i. sg. n.,12,kriyaviseranam,9 ####### FV_inst_kriyaviseranam #######
+9,anvaBavam,Bava,impft. [1] ac. sg. 1,11,sambanxah,7
+
+0,mayUrAH,mayUra,nom. pl. m.,0,karwa,6
+1,AkASe,AkASa,loc. sg. n.,3,axikaranam,3
+2,meGAn,meGa,acc. pl. m.,4,karma,3
+3,paSyanti,dfS,pr. ac. pl. 3,5,samucciwam,6
+4,Anandena,Ananda,inst. sg. m.,7,kriyaviseranam,5 ####### FV_inst_kriyaviseranam #######
+5,nftyanti,nft,pr. ac. pl. 3,8,samucciwam,6
+6,ca,ca,conj.,9,,
+
+0,upari,upari,loc. sg. n.,1,axikaranam,1
+1,sTitaH,sTA,nom. sg. m.,2,viseranam,2
+2,siMhaH,siMha,nom. sg. m.,3,karwa,13
+3,yaTA,yaTA,conj.,5,sambanxah,8
+4,eva,eva,prep.,16,sambanxah,3
+5,SyAmam,SyAma,acc. sg. m.,6,karma,6
+6,nigrahItum,grah,acc. sg. n.,9,prayojanam,7
+7,udyataH,yam,nom. sg. m.,15,prawiyogi,3
+8,taTA,taTA,adv.,17,anuyogi,13
+9,eva,eva,prep.,4,sambanxah,8
+10,pratyutpannamatiH,mati,nom. sg. f.,19,viseranam,11
+11,SyAmaH,SyAma,nom. sg. m.,20,karwa,13
+12,uccEH,ucca,i. pl. m.,21,kriyaviseranam,13 ####### FV_inst_kriyaviseranam #######
+13,akaTayat,brU,impft. [10] ac. sg. 3,23,,
+
+0,mayA,asmad,i. sg. *,0,prawiyogi,1
+1,saha,saha,prep.,2,anuyogi,3
+2,kfpayA,kfpA,i. sg. f.,3,kriyaviseranam,3 ####### FV_inst_kriyaviseranam #######
+3,calatu,cal,imp. [1] ac. sg. 3,4,,
+4,tAvat,tAvat,adv.,5,sambanxah,3
+
+0,hariH,hari,nom. sg. m.,2,karwa,3
+1,prakftyA,prakfti,inst. sg. f.,4,kriyaviseranam,3 ####### FV_inst_kriyaviseranam #######
+2,sADuH,sADu,nom. sg. m.,5,karwqsamanaxikaranam,3
+3,vartate,vft,pr. . sg. 3,6,,
+

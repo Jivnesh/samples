@@ -1,0 +1,142 @@
+0,anujIvine,anujIvin,dat. sg. m.,0,sampraxanam,1 ####### FV_dat_sampraxanam #######
+1,kupyati,kup,pr. [4] ac. sg. 3,2,,
+2,BartA,Bartf,nom. sg. m.,3,karwa,1
+
+0,kfzRasya,kfzRa,g. sg. m.,0,rartisambanxah,1
+1,patnyE,patnI,dat. sg. f.,2,sampraxanam,3 ####### FV_dat_sampraxanam #######
+2,PalAni,Pala,nom. pl. n.,4,karwa,3
+3,rocante,ruc,pr. md. pl. 3,5,,
+
+0,gurumatsaracCidurayA,ya,inst. sg. f.,8,viseranam,2
+1,kAmyagirA,gir,inst. sg. f.,10,viseranam,2
+2,parapuzwayA,puzwa,inst. sg. f.,12,karwa,5
+3,priyasaKIsadfSaM,sadfS,nom. sg. n.,15,karma,5
+4,kimapi,api,conj.,18,sambanxah,3
+5,pratiboDitAH,buD,pp. . pl. ,22,viseranam,6
+6,aNganAH,aNganA,nom. pl. f.,24,karwa,10
+7,priyatamAya,priyatama,dat. sg. m.,25,sampraxanam,10 ####### FV_dat_sampraxanam #######
+8,ayAcitaM,ayAcita,acc. sg. n.,30,viseranam,9
+9,vapuH,vapus,acc. sg. n.,31,karma,10
+10,aduH,dA,impft. ac. pl. 3,35,,
+
+0,tfzitAya,tfzita,dat. sg. m.,1,sampraxanam,2 ####### FV_dat_sampraxanam #######
+1,jalam,jala,acc. sg. n.,3,karma,2
+2,yacCet,yam,opt. [1] ac. sg. 3,5,,
+
+0,tataH,tad,abl. pl. n.,19,apaxanam,3
+1,ca,ca,conj.,1,sambanxah,0
+2,leKanAya,hita,dat. sg. n.,2,sampraxanam,5 ####### FV_dat_sampraxanam #######
+3,prakASABAvaH,BAva,nom. sg. m.,4,karwa,5
+4,kazwam,kazwa,pp.,7,karma,5
+5,dadAti,dA,pr. [3] ac. sg. 3,8,,
+6,sma,sma,part.,9,sambanxah,5
+
+0,BikzAm,BikzA,acc. sg. f.,0,karma,1
+1,nizedDum,siD,inf.,1,prayojanam,5
+2,vaDvE,vaDU,dat. sg. f.,3,sampraxanam,5 ####### FV_dat_sampraxanam #######
+3,kaH,kim,nom. sg. m.,4,viseranam,4
+4,aDikAraH,aDikAra,nom. sg. m.,5,karma,5
+5,dattaH,dA,pr. [3] ac. du. 3,6,,
+
+0,tasya,tad,g. sg. n.,0,rartisambanxah,2
+1,ayam,dam,nom. sg. m.,2,viseranam,2
+2,vyavahAraH,vyavahAra,nom. sg. m.,3,karwa,5
+3,rameSAya,ISa,dat. sg. m.,21,sampraxanam,5 ####### FV_dat_sampraxanam #######
+4,nEva,na,part.,6,sambanxah,5
+5,arocata,ruc,impft. [1] md. sg. 3,7,,
+
+0,tatra,tatra,loc. sg. n.,0,axikaranam,8
+1,saH,tad,nom. sg. m.,1,karwa,8
+2,svapratizWAnurUpam,anurUpa,acc. sg. n.,52,viseranam,5
+3,eva,eva,prep.,7,sambanxah,2
+4,nAnAmizwAnnavyaYjanopetam,tad,acc. sg. n.,15,viseranam,5
+5,Bojanam,Bojana,acc. sg. n.,16,karma,8
+6,sarveByaH,sarva,dat. pl. m.,19,sampraxanam,8 ####### FV_dat_sampraxanam #######
+7,AhUteByaH,tad,dat. pl. m.,25,viseranam,6
+8,parivezayati,viz,ca. pr. ac. sg. 3,80,,
+9,sma,sma,part.,27,sambanxah,8
+
+0,arjunaH,arjuna,nom. sg. m.,0,viseranam,2
+1,kfzRasya,kfzRa,g. sg. m.,1,rartisambanxah,3
+2,arjunAya,arjuna,dat. sg. m.,3,sampraxanam,4 ####### FV_dat_sampraxanam #######
+3,mahAtmA,Atman,nom. sg. *,5,karwa,4
+4,asti,as,pr. [2] ac. sg. 3,6,,
+
+0,vizRave,vizRu,dat. sg. m.,0,sampraxanam,2 ####### FV_dat_sampraxanam #######
+1,pUjA,pUjA,nom. sg. f.,14,karwa,2
+2,rocate,ruc,pr. md. sg. 3,3,,
+
+0,kintu,ca,conj.,0,samucciwam,9
+1,asyAH,as,aor. [5] ac. sg. 3,2,viseranam,2
+2,vfdDAyAH,vfdDA,g. sg. f.,4,rartisambanxah,3
+3,pOtram,pOtra,acc. sg. m.,5,karma,4
+4,anvizya,iz,conj.,8,purvakalah,7
+5,asyE,asi,dat. sg. f.,9,sampraxanam,7 ####### FV_dat_sampraxanam #######
+6,saH,tad,nom. sg. m.,10,karwa,7
+7,deyaH,deya,pfp. . sg. ,13,samucciwam,9
+8,eva,eva,conj.,14,sambanxah,7
+9,ca,ca,conj.,15,,
+
+0,paScAt,paSca,loc. sg. m.,0,axikaranam,4
+1,parAvartanasamaye,samaya,loc. sg. m.,41,axikaranam,4
+2,imAm,idam,acc. sg. f.,5,karma,4
+3,mahyam,asmad,dat. sg. *,6,sampraxanam,4 ####### FV_dat_sampraxanam #######
+4,dadyAta,dA,opt. [3] ac. pl. 2,7,,
+
+0,svarRakAraH,svarRakAra,nom. sg. m.,0,karwa,5
+1,ABUzaRAni,uzaRa,acc. pl. n.,33,karma,2
+2,racayizyati,BU,fut. ac. sg. 3,2,samucciwam,5
+3,mahilAyE,mahilA,dat. sg. f.,3,sampraxanam,4 ####### FV_dat_sampraxanam #######
+4,dAsyati,dA,fut. ac. sg. 3,6,samucciwam,5
+5,ca,ca,conj.,7,,
+
+0,yena,yad,inst. sg. m.,1,hewuh,6
+1,coritam,corita,pp. . sg. ,2,viseranam,4
+2,sarvam,sarva,acc. sg. m.,3,viseranam,4
+3,api,api,conj.,6,sambanxah,2
+4,dravyam,dravya,acc. sg. m.,21,karma,6
+5,SrezWine,SrezWin,dat. sg. m.,13,sampraxanam,6 ####### FV_dat_sampraxanam #######
+6,militam,mil,pp. . sg. ,16,,
+
+0,tatra,tatra,loc. sg. m.,0,axikaranam,5
+1,aham,asmad,nom. sg. *,1,karwa,5
+2,tuByam,yuzmad,dat. sg. *,2,sampraxanam,5 ####### FV_dat_sampraxanam #######
+3,mama,asmad,g. sg. *,3,rartisambanxah,4
+4,hfdayam,hfdaya,nom. sg. n.,5,karma,5
+5,dAsyAmi,dA,fut. ac. sg. 1,8,,
+
+0,kintu,ca,adv.,0,sambanxah,2
+1,mAtApitroH,pitf,g. du. m.,34,rartisambanxah,2
+2,upasTitO,devI,loc. sg. f.,3,axikaranam,5
+3,tu,tu,conj.,4,sambanxah,2
+4,tayoH,tad,g. du. n.,6,rartisambanxah,5
+5,kUjanam,kUjana,nom. sg. n.,12,karwa,8
+6,iyat,ca,adv.,14,viseranam,7
+7,aDikam,aDika,adv.,17,kriyaviseranam,8
+8,Bavati,BU,pr. [1] ac. sg. 3,40,prawiyogi,10
+9,sma,sma,part.,19,sambanxah,8
+10,yat,yad,acc. sg. n.,41,anuyogi,11
+11,tat,tad,acc. sg. n.,21,karma,15
+12,mama,asmad,g. sg. *,23,rartisambanxah,13
+13,mitrapatnyE,patnI,dat. sg. f.,25,sampraxanam,15 ####### FV_dat_sampraxanam #######
+14,na,na,part.,26,sambanxah,15
+15,aBirocate,ruc,pr. [1] md. sg. 3,46,,
+16,sma,sma,part.,28,sambanxah,15
+
+0,tataH,tad,abl. pl. n.,8,apaxanam,4
+1,tuByam,yuzmad,dat. sg. *,1,sampraxanam,4 ####### FV_dat_sampraxanam #######
+2,yaTecCam,icCA,acc. sg. n.,18,viseranam,3
+3,Danam,Dana,acc. sg. n.,3,karma,4
+4,dApayizyAmi,dA,ca. fut. ac. sg. 1,5,,
+
+0,yadi,yad,conj.,0,sambanxah,6
+1,kutaScana,kutas,abl. sg. n.,3,apaxanam,5
+2,mahyam,asmad,dat. sg. *,4,sampraxanam,5 ####### FV_dat_sampraxanam #######
+3,pAdatrARayoH,trARa,g. du. n.,7,rartisambanxah,4
+4,vyavasTAm,vyavasTA,acc. sg. f.,8,karma,5
+5,kuryAH,kf,opt. [8] ac. sg. 2,9,prawiyogi,0
+6,tarhi,tarhi,adv.,10,anuyogi,9
+7,mahyam,asmad,dat. sg. *,11,sampraxanam,9 ####### FV_dat_sampraxanam #######
+8,suKakaram,kara,nom. sg. n.,34,karwa,9
+9,syAt,as,opt. [2] ac. sg. 3,35,,
+

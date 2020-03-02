@@ -1,0 +1,33 @@
+0,SlaTaSirasijapASapAtaBArAt,BAra,abl. sg. m.,0,prawiyogi,1
+1,iva,iva,conj.,9,anuyogi,2
+2,nitarAM,nitarAm,conj.,2,karma,5 ####### g_Ind_karma #######
+3,natimadBiH,tad,inst. pl. m.,4,viseranam,4
+4,aMsaBAgEH,BAga,inst. pl. m.,5,hewuh,12
+5,GanamahatAM,BUta,g. pl. n.,7,viseranam,6
+6,pakzmaRAM,pakzman,g. pl. n.,8,rartisambanxah,7
+7,BareRa,Bara,inst. sg. m.,11,prawiyogi,8
+8,iva,iva,conj.,1,anuyogi,9
+9,mukulitanayanEH,nayana,inst. pl. n.,12,viseranam,10
+10,muKaaravindEH,aravinda,inst. pl. n.,13,karanam,12
+11,nitambinIBiH,nitambinI,inst. pl. f.,14,karwa,12
+12,atami,tam,impft. ac. sg. 3,15,,
+
+0,antarjalaOGam,OGa,conj.,0,karma,1 ####### g_Ind_karma #######
+1,avagAQavataH,van,g. sg. m.,1,viseranam,2
+2,gajasya,gaja,g. sg. m.,2,rartisambanxah,3
+3,kapolO,kapola,acc. du. m.,3,karma,4
+4,hitvA,hA,abs.,6,purvakalah,17
+5,kzaRam,kzaRa,conj.,7,kriyaviseranam,17
+6,antarIkze,antarIkza,loc. sg. n.,15,axikaranam,17
+7,vitatapakzatiH,pakzati,nom. sg. m.,16,viseranam,8
+8,aligaRaH,gaRa,nom. sg. m.,17,karwa,17
+9,guRezu,guRa,loc. pl. m.,18,viseranam,10
+10,dravyaASrayezu,ASraya,loc. pl. m.,19,axikaranam,13
+11,api,api,conj.,20,sambanxah,10
+12,pfTak,pfTak,conj.,22,kriyaviseranam,13
+13,gataH,gam,nom. sg. m.,23,viseranam,15
+14,nIlaH,nIla,nom. sg. m.,24,viseranam,15
+15,varRaH,varRa,nom. sg. m.,25,prawiyogi,16
+16,iva,iva,conj.,26,anuyogi,8
+17,rarAja,rAj,pft. ac. sg. 3,28,,
+

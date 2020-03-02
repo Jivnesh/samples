@@ -1,0 +1,95 @@
+0,tantrAvApavidA,vid,inst. sg. m.,5,viseranam,3
+1,yogEH,yoga,inst. pl. m.,6,karwa,3
+2,maRqalAni,maRqala,acc. pl. n.,7,karma,3 ####### inst_acc_karma #######
+3,aDizWitA,sTA,inst. sg. m.,11,samucciwam,10
+4,narendreRa,narendra,inst. sg. m.,12,karanam,9
+5,SatravaH,Satru,nom. pl. m.,13,karwa,9
+6,PaRIndrAH,PaRIndra,nom. pl. m.,14,prawiyogi,7
+7,iva,iva,conj.,15,anuyogi,5
+8,sunigrahAH,graha,nom. pl. m.,16,karwqsamanaxikaranam,9
+9,Bavati,BU,pr. ac. sg. 3,17,samucciwam,10
+10,ca,ca,conj.,18,,
+
+0,BaktajanEH,jana,nom. pl. m.,2,karwa,2
+1,yatkiYcit,kim,acc. sg. n.,30,karma,2 ####### inst_acc_karma #######
+2,dattena,dA,i. sg. n.,7,karanam,4
+3,AtmAnam,Atman,acc. sg. *,8,karma,4
+4,DArayAmi,Df,ca. pr. ac. sg. 1,10,,
+5,ca,ca,conj.,11,sambanxah,4
+
+0,nIrEH,nIra,inst. pl. n.,0,karwa,10
+1,AsekAt,Aseka,abl. sg. m.,2,hewuh,2
+2,SItaArtiM,Arti,acc. sg. f.,3,karma,3 ####### inst_acc_karma #######
+3,balavadupeyuzA,tad,inst. sg. f.,6,prawiyogi,4
+4,iva,iva,conj.,4,anuyogi,6
+5,SiSirasamIrakampitena,kamp,pp. . sg. ,10,viseranam,6
+6,navAaMSukena,aMSuka,inst. sg. m.,11,karanam,10
+7,aBinavayOvanozmaBAjaH,BAj,nom. pl. f.,12,viseranam,8
+8,rAmARAM,rAma,g. pl. f.,15,rartisambanxah,9
+9,stanatawayoH,tawa,loc. du. m.,16,axikaranam,10
+10,ASlezi,Sliz,impft. md. sg. 3,18,,
+
+0,ezaH,etad,nom. sg. m.,24,karwa,12
+1,mahAntaM,tad,acc. sg. m.,1,viseranam,2
+2,puzpapawam,pawa,acc. sg. m.,2,karma,3
+3,AcCAdya,Ric,abs.,3,purvakalah,8
+4,antaravartiBiH,vartin,inst. pl. m.,4,viseranam,5
+5,gfhakapotaSiroDaraABEH,ABa,inst. pl. m.,5,karanam,8
+6,AguravIM,tad,acc. sg. f.,7,viseranam,7
+7,DUmaruciM,ruci,acc. sg. f.,8,karma,8 ####### inst_acc_karma #######
+8,daDAnEH,DA,inst. pl. m.,12,bavalakranasapwami_samanakalah,12
+9,navanIradAnAM,nIrada,g. pl. m.,17,rartisambanxah,10
+10,pawalEH,pawala,inst. pl. n.,18,karanam,12
+11,svANgAni,aNga,acc. pl. n.,47,karma,12
+12,DUpAyati,Aya,pr. ac. sg. 3,22,,
+13,iva,iva,conj.,23,sambanxah,12
+
+0,kawaBuvaM,BU,acc. sg. f.,3,karma,1
+1,kaRqUi,kaRqu,g. sg. m.,4,viseranam,2
+2,kariRaH,karin,g. sg. m.,7,rartisambanxah,3
+3,madena,mada,inst. sg. m.,9,karanam,7
+4,suganDiM,suganDi,acc. sg. m.,10,viseranam,6
+5,nagasya,naga,g. sg. m.,12,rartisambanxah,6
+6,skanDam,skanDa,acc. sg. m.,13,karma,7 ####### inst_acc_karma #######
+7,anulInavatA,lI,inst. sg. m.,17,bavalakranasapwami_samanakalah,13
+8,sTUlaindranIlaSakalaAvalikomalena,komala,inst. sg. m.,19,viseranam,10
+9,alinAM,alin,g. pl. m.,20,rartisambanxah,10
+10,valayena,valaya,inst. sg. n.,22,karwa,13
+11,kaRWe,kaRWa,loc. sg. m.,23,axikaranam,13
+12,guRatvaM,guRa,nom. sg. n.,25,karma,13
+13,Beje,Baj,pft. md. sg. 3,26,,
+
+0,hare,hari,voc. sg. m.,59,samboxyah,13
+1,rukmiRIM,rukmiRI,acc. sg. f.,6,karma,2 ####### inst_acc_karma #######
+2,haratA,hf,inst. sg. m.,7,viseranam,4
+3,cEdyaH,cEdya,nom. sg. m.,9,karma,5
+4,tvayA,yuzmad,inst. sg. n.,10,karwa,5
+5,viprakftaH,kf,nom. sg. m.,21,samucciwam,14
+6,taTAhi,api,conj.,23,sambanxah,5
+7,badDamUlasya,mUla,g. sg. m.,45,viseranam,8
+8,vErataroH,taru,g. sg. m.,27,rartisambanxah,9
+9,striyaH,strI,nom. pl. f.,30,karwa,13
+10,mahat,tad,nom. sg. n.,32,viseranam,11
+11,mUlaM,mUla,nom. sg. n.,34,karwqsamanaxikaranam,13
+12,hi,hi,conj.,35,sambanxah,13
+13,Bavanti,BU,pr. ac. pl. 3,36,samucciwam,14
+14,ca,ca,conj.,37,,
+
+0,uttizWamAnaH,sTA,nom. sg. m.,0,viseranam,1
+1,paraH,para,nom. sg. m.,29,karma,7
+2,tu,tu,conj.,3,sambanxah,1
+3,paTyam,paTya,acc. sg. m.,4,karma,4 ####### inst_acc_karma #######
+4,icCatA,iz,inst. sg. m.,8,viseranam,5
+5,puMsA,tad,inst. sg. m.,9,karwa,7
+6,na,na,conj.,10,sambanxah,7
+7,upekzyaH,Ikz,nom. sg. m.,11,samucciwam,16
+8,hi,hi,conj.,12,sambanxah,9
+9,vartsyantO,vfD,nom. du. m.,14,viseranam,12
+10,AmayaH,Amaya,nom. sg. m.,15,samucciwam,12
+11,saH,tad,nom. sg. m.,16,samucciwam,12
+12,ca,ca,conj.,17,karma,15
+13,SizwEH,Siz,inst. pl. m.,21,karwa,15
+14,samO,sama,nom. du. m.,23,karmasamanaxikaranam,15
+15,AmnAtO,mnA,nom. du. m.,25,samucciwam,16
+16,ca,ca,conj.,26,,
+

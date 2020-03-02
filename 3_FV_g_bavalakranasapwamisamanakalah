@@ -1,0 +1,47 @@
+0,iha,iha,conj.,0,axikaranam,16
+1,amUH,adas,nom. pl. f.,2,viseranam,2
+2,mahOzaDayaH,OzaDa,nom. pl. f.,58,karwa,16
+3,niyateH,niyati,g. sg. f.,6,rartisambanxah,4
+4,niyogAt,niyoga,abl. sg. m.,8,apaxanam,6
+5,tamasA,tamas,inst. sg. n.,11,karanam,6
+6,AsAditasya,sad,g. sg. m.,15,rartisambanxah,7
+7,punaH,punar,conj.,17,sambanxah,10
+8,apakrameRa,apakrama,inst. sg. m.,19,karanam,10
+9,kAlam,kAla,acc. sg. m.,21,karma,10
+10,AkANkzataH,kANkz,g. sg. m.,24,bavalakranasapwami_samanakalah,16 ####### FV_g_bavalakranasapwamisamanakalah #######
+11,tvizAM,tviz,g. pl. f.,26,rartisambanxah,12
+12,patyuH,pati,g. sg. m.,27,rartisambanxah,13
+13,parEH,para,inst. pl. m.,30,hewuh,14
+14,anaBiBUtaM,anaBiBUta,acc. sg. n.,34,viseranam,15
+15,kalatrasTAnaM,sTAna,acc. sg. n.,36,karma,16
+16,vahanti,vah,pr. ac. pl. 3,38,,
+
+0,maDukaraviwapAnam,pAna,nom. sg. n.,49,karwa,4
+1,itAH,i,acc. pl. f.,4,viseranam,3
+2,viwapaAnamitAH,mita,acc. pl. f.,9,viseranam,3
+3,tarupaNktIH,paNkti,acc. pl. f.,12,karma,4
+4,biBrataH,Bf,g. sg. m.,18,bavalakranasapwami_samanakalah,10 ####### FV_g_bavalakranasapwamisamanakalah #######
+5,asya,idam,g. sg. m.,20,rartisambanxah,6
+6,roDaH,roDa,nom. sg. m.,21,karwa,10
+7,galatA,gal,inst. sg. n.,23,viseranam,8
+8,paripAkapiSaNgalatArajasA,rajas,inst. sg. n.,24,karanam,10
+9,kapiSaM,kapiSa,acc. sg. n.,26,karma,10
+10,cakAsti,cakAs,pr. ac. sg. 3,28,,
+
+0,idDaM,inD,nom. sg. n.,2,viseranam,2
+1,tam,tad,acc. sg. m.,3,viseranam,2
+2,rAvaRam,rAvaRa,acc. sg. m.,4,karma,3
+3,ArADayitum,rAD,inf.,7,prayojanam,15
+4,parasya,para,g. sg. m.,8,rartisambanxah,5
+5,marmAviDaM,viDa,acc. sg. m.,13,viseranam,7
+6,nijaM,nija,acc. sg. m.,14,viseranam,7
+7,dvijihvatAdozaM,doza,acc. sg. m.,19,karma,8
+8,ujJatAM,tad,g. pl. m.,20,bavalakranasapwami_samanakalah,15 ####### FV_g_bavalakranasapwamisamanakalah #######
+9,PaRinAM,PaRin,g. pl. m.,21,rartisambanxah,10
+10,ajihmagAmiBiH,gAmin,inst. pl. m.,25,viseranam,12
+11,sakarRakEH,karRaka,inst. pl. m.,27,viseranam,12
+12,kulEH,kula,inst. pl. m.,28,karwa,15
+13,BujaNgatA,gam,nom. sg. f.,30,karma,15
+14,na,na,conj.,31,sambanxah,15
+15,Beje,Baj,pft. md. sg. 3,32,,
+

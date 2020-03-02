@@ -1,0 +1,56 @@
+0,SlaTaSirasijapASapAtaBArAt,BAra,abl. sg. m.,0,prawiyogi,1 ####### Ind_abl_prawiyogi #######
+1,iva,iva,conj.,9,anuyogi,2
+2,nitarAM,nitarAm,conj.,2,karma,5
+3,natimadBiH,tad,inst. pl. m.,4,viseranam,4
+4,aMsaBAgEH,BAga,inst. pl. m.,5,hewuh,12
+5,GanamahatAM,BUta,g. pl. n.,7,viseranam,6
+6,pakzmaRAM,pakzman,g. pl. n.,8,rartisambanxah,7
+7,BareRa,Bara,inst. sg. m.,11,prawiyogi,8
+8,iva,iva,conj.,1,anuyogi,9
+9,mukulitanayanEH,nayana,inst. pl. n.,12,viseranam,10
+10,muKaaravindEH,aravinda,inst. pl. n.,13,karanam,12
+11,nitambinIBiH,nitambinI,inst. pl. f.,14,karwa,12
+12,atami,tam,impft. ac. sg. 3,15,,
+
+0,vaDAt,vaDa,abl. sg. m.,0,prawiyogi,1 ####### Ind_abl_prawiyogi #######
+1,vinA,vinA,conj.,5,anuyogi,4
+2,ariH,ari,nom. sg. m.,2,karwa,4
+3,na,na,conj.,6,sambanxah,4
+4,SAmyati,Sam,pr. ac. sg. 3,7,,
+
+0,sAgarasya,sAgara,g. sg. m.,0,rartisambanxah,1
+1,mahormiBiH,Urmi,inst. pl. m.,1,karwa,6
+2,yacCAlam,SAla,acc. sg. m.,24,karma,4
+3,uttuNgatayA,uttuNga,inst. sg. f.,3,karanam,4
+4,vijetuM,ji,inf.,4,prayojanam,6
+5,dUrAt,dUra,abl. sg. m.,5,apaxanam,6
+6,udasTIyata,sTA,impft . md. sg. 3,7,samucciwam,12
+7,aByAsagatEH,gam,inst. pl. m.,10,viseranam,8
+8,vyAhatavAYCitArTEH,arTa,inst. pl. m.,13,karwa,11
+9,vrIqAt,vrIqa,abl. sg. m.,14,prawiyogi,10 ####### Ind_abl_prawiyogi #######
+10,iva,iva,conj.,15,anuyogi,5
+11,vililye,lI,pft. md. sg. 3,16,samucciwam,12
+12,ca,ca,conj.,18,,
+
+0,iti,iti,conj.,0,sambanxah,1
+1,gadantaM,gad,nom. sg. n.,1,viseranam,2
+2,praRayinam,praRayin,acc. sg. m.,2,karma,11
+3,anantaraM,anantaram,conj.,6,kriyaviseranam,11
+4,BujayugonnamanauccatarastanI,tad,nom. sg. f.,7,viseranam,5
+5,aNganA,aNganA,nom. sg. f.,9,karwa,11
+6,valiBayA,BayA,inst. sg. f.,11,viseranam,7
+7,udaraSriyA,SrI,inst. sg. f.,13,karanam,11
+8,aliBayAt,Baya,abl. sg. n.,14,prawiyogi,9 ####### Ind_abl_prawiyogi #######
+9,iva,iva,conj.,16,anuyogi,10
+10,raBasAt,raBasa,abl. sg. m.,17,hewuh,11
+11,sasvaje,svaYj,pft. md. sg. 3,19,,
+
+0,asmin,idam,loc. sg. m.,1,axikaranam,7
+1,saNkIrRakIcakavanasKalitaekabAlavicCedakAtaraDiyaH,DI,nom. pl. f.,3,viseranam,2
+2,camaryaH,camarI,nom. pl. f.,6,karwa,7
+3,mfduSvasanagarBatadIyaranDraniryatsvanaSrutisuKAt,suKa,abl. sg. n.,8,prawiyogi,4 ####### Ind_abl_prawiyogi #######
+4,iva,iva,conj.,9,anuyogi,2
+5,calituM,cal,inf.,10,prayojanam,7
+6,na,na,conj.,11,sambanxah,7
+7,utsahante,sah,pr. md. pl. 3,12,,
+

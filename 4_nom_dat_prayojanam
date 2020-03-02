@@ -1,0 +1,54 @@
+0,marut,marut,nom. sg. m.,0,karwa,7
+1,asakalakalikAkulIkftAlisKalanavikIrRavikAsikeSarARAm,tad,g. pl. m.,1,viseranam,7
+2,avaniruhAM,ruh,g. pl. m.,2,rartisambanxah,3
+3,rajaH,rajas,voc. sg. m.,4,karma,5
+4,vaDUByaH,vaDU,dat. pl. f.,6,prayojanam,5 ####### nom_dat_prayojanam #######
+5,samupaharan,hf,nom. sg. n.,7,bavalakranasapwami_samanakalah,7
+6,korakARi,kur,nom. sg. n.,9,karma,7
+7,vicakAra,kf,pft. ac. sg. 3,11,,
+
+0,vijayAya,vijaya,dat. sg. m.,0,prayojanam,1 ####### nom_dat_prayojanam #######
+1,saMramBaH,saMramBa,nom. sg. m.,2,samucciwam,5
+2,yaSasaH,yaSas,g. sg. n.,3,rartisambanxah,3
+3,ASA,ASa,nom. sg. f.,19,samucciwam,5
+4,dvezAveSaH,AveSa,nom. sg. m.,94,samucciwam,5
+5,ete,etad,nom. pl. m.,23,viseranam,6
+6,ca,ca,conj.,26,viseranam,8
+7,sarve,sarva,nom. pl. m.,27,viseranam,8
+8,svapnadfzwavizayAH,vizaya,nom. pl. m.,34,karwa,12
+9,praBAte,praBA,acc. du. f.,38,prawiyogi,10
+10,iva,va,part.,39,anuyogi,11
+11,miTyABUtAH,ABU,nom. pl. f.,42,karwqsamanaxikaranam,12
+12,santi,as,pr. [2] ac. pl. 3,43,,
+
+0,anekapAnAM,pA,g. pl. m.,0,rartisambanxah,1
+1,vigAQamadatAparujaH,ruja,g. sg. f.,4,rartisambanxah,2
+2,SamAya,Sama,dat. sg. m.,5,prayojanam,8 ####### nom_dat_prayojanam #######
+3,SanEH,ca,conj.,6,viseranam,8
+4,hastEH,hasta,inst. pl. m.,7,karwa,8
+5,anukapolaM,kapola,conj.,10,viseranam,7
+6,kIrRam,tad,nom. sg. n.,13,viseranam,7
+7,AkarRam,AkarRa,nom. sg. n.,16,karma,8
+8,ullasitaM,tad,nom. sg. n.,19,viseranam,10
+9,vikAsikASanIkASam,kASa,nom. sg. n.,25,viseranam,10
+10,ambu,ambu,nom. sg. n.,27,karwa,13
+11,sitacAmarasya,cAmara,g. sg. m.,28,rartisambanxah,12
+12,samatAm,samatA,acc. sg. f.,30,karma,13
+13,Apa,Ap,pft. ac. sg. 3,32,,
+
+0,bahiH,bahis,conj.,1,axikaranam,1
+1,sTitavate,sTA,dat. sg. m.,3,viseranam,3
+2,api,api,conj.,4,sambanxah,1
+3,anujIvijanAya,jana,dat. sg. m.,7,prayojanam,7 ####### nom_dat_prayojanam #######
+4,rAjYAM,rAjan,g. pl. m.,9,rartisambanxah,5
+5,cezwAviSezaM,viSeza,acc. sg. m.,10,karma,7
+6,spazwaM,spazwa,acc. sg. m.,13,kriyaviseranam,7
+7,nivedayantaH,vid,nom. pl. m.,14,bavalakranasapwami_samanakalah,14
+8,kalagiraH,gir,nom. pl. m.,18,viseranam,9
+9,vEtAlikAH,vEtAlika,nom. pl. m.,19,karwa,14
+10,avasarezu,avasara,loc. pl. m.,20,axikaranam,14
+11,sPuwapadaprakawaarTam,arTa,nom. sg. n.,21,prayojanam,14
+12,uccEH,ucca,conj.,23,kriyaviseranam,14
+13,BogAvalIH,diS,acc. pl. f.,26,karma,14
+14,peWuH,paW,pft. ac. pl. 3,27,,
+

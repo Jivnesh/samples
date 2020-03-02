@@ -1,0 +1,60 @@
+0,mahIpatiH,pat,nom. sg. m.,1,viseranam,1
+1,daSaraTaH,tad,nom. sg. m.,3,karwa,18
+2,tam,tad,acc. sg. m.,4,viseranam,12
+3,evaNguRasampannam,tad,acc. sg. m.,9,viseranam,12
+4,satyaparAkramam,parAkrama,acc. sg. m.,11,viseranam,12
+5,prakftInAm,prakft,g. pl. f.,12,rartisambanxah,6
+6,hitEH,hita,i. pl. n.,15,sambanxah,7
+7,yuktam,yukta,acc. sg. m.,19,viseranam,12
+8,jyezWaguREH,guRa,i. pl. m.,21,sambanxah,9
+9,yuktam,yukta,acc. sg. n.,22,viseranam,12
+10,jyEzWam,tad,acc. sg. m.,25,viseranam,12
+11,sUtam,sUta,acc. sg. m.,61,viseranam,12
+12,rAmam,rAma,acc. sg. m.,27,karma,18
+13,prakftipriyakAmyayA,kam,i. sg. f.,32,samucciwam,15
+14,prItyA,prIti,i. sg. f.,33,samucciwam,15
+15,ca,ca,conj.,34,hewuh,18 ####### FV_Ind_hewuh #######
+16,yOvarAjyena,yOvarAjya,i. sg. n.,35,sambanxah,17
+17,saMyoktum,yuj,acc. sg. m.,36,karma,18
+18,EcCat,iz,impft. [6] ac. sg. 3,37,,
+
+0,ataH,ca,conj.,0,hewuh,6 ####### FV_Ind_hewuh #######
+1,saH,tad,nom. sg. m.,1,karwa,6
+2,agneH,agni,g. sg. m.,2,upapaxasambanxah,3
+3,sadfSAni,sadfSa,acc. pl. n.,4,viseranam,5
+4,guYjAyAH,guYjA,g. sg. f.,7,rartisambanxah,5
+5,PalAni,Pala,acc. pl. n.,8,karma,6
+6,Anayati,nI,pr. ac. sg. 3,10,,
+
+0,ataH,ca,conj.,0,hewuh,3 ####### FV_Ind_hewuh #######
+1,saH,tad,nom. sg. m.,1,karwa,3
+2,SrAntaH,SrAnta,pp. . sg. ,2,karwqsamanaxikaranam,3
+3,aBavat,BU,impft . ac. sg. 3,3,,
+
+0,kiM,kim,conj.,1,hewuh,5 ####### FV_Ind_hewuh #######
+1,devyA,devI,inst. sg. f.,2,karwa,5
+2,parijanam,parijana,acc. sg. m.,3,karma,3
+3,atikramya,kram,conj.,4,purvakalah,5
+4,BavAn,BU,nom. sg. m.,6,karma,5
+5,sandizwaH,vac,pp. . sg. ,7,,
+
+0,ataH,ca,conj.,0,hewuh,4 ####### FV_Ind_hewuh #######
+1,mama,asmad,g. sg. *.,1,rartisambanxah,2
+2,patnI,patnI,nom. sg. f.,2,karwa,4
+3,mahyam,mahya,pfp. . sg. ,3,sampraxanam,4
+4,kupyati,kup,pr. ac. sg. 3,4,,
+
+0,Amravanasya,vana,g. sg. n.,0,rartisambanxah,1
+1,rajaH kaRAH,kaRa,nom. pl. m.,2,karwa,3
+2,smarahutASanamurmuracUrRatAM,cUrRa,acc. du. f.,5,karma,3
+3,daDuH,DA,pft. ac. pl. 3,7,prawiyogi,4
+4,iva,iva,conj.,8,anuyogi,12
+5,ataH,atas,conj.,9,hewuh,8 ####### FV_Ind_hewuh #######
+6,paritaH,ca,conj.,10,axikaranam,8
+7,upari,upari,conj.,12,axikaranam,12
+8,nipatitAH,pat,pp. . pl. ,15,viseranam,9
+9,te,tad,nom. pl. m.,18,karwa,12
+10,paTikavrajAn,vraj,acc. pl. m.,23,karma,12
+11,BfSaM,BfSam,conj.,26,viseranam,12
+12,paritepuH,tap,pft. ac. pl. 3,37,,
+

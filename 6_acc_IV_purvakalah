@@ -1,0 +1,56 @@
+0,senApatiH,pat,nom. sg. m.,1,karwa,4
+1,kim,kim,acc. sg. n.,2,karma,2
+2,kftvA,kf,abs.,4,purvakalah,4 ####### acc_IV_purvakalah #######
+3,pracalitaH,calita,loc. sg. m.,5,axikaranam,4
+4,agre,agra,acc. du. n.,6,,
+
+0,BavataH,BU,g. sg. n.,0,rartisambanxah,1
+1,pitA,rAjan,loc. sg. m.,1,prawiyogi,2
+2,iva,iva,part.,2,anuyogi,10
+3,pitAmahaprapitAmahAdayaH,Ada,nom. pl. m.,6,karwa,6
+4,yaTA,yaTA,conj.,8,sambanxah,7
+5,Agatya,gam,abs.,7,purvakalah,6 ####### acc_IV_purvakalah #######
+6,gatAH,gam,acc. pl. f.,11,prawiyogi,4
+7,taTA,taTA,adv.,12,anuyogi,10
+8,BavAn,Bava,nom. sg. m.,14,karwa,10
+9,api,api,conj.,15,sambanxah,10
+10,gamizyati,gam,fut. ac. sg. 3,17,,
+
+0,sanyAsI,as,nom. sg. m.,1,karwa,10
+1,saharzam,tad,adv.,3,kriyaviseranam,3
+2,tat,tad,acc. sg. n.,4,karma,3
+3,gfhItvA,grah,abs.,6,purvakalah,9 ####### acc_IV_purvakalah #######
+4,tatkzaRam,kzaRa,loc. sg. m.,8,axikaranam,9
+5,eva,eva,prep.,9,sambanxah,4
+6,tat,tad,acc. sg. n.,10,karma,9
+7,api,api,conj.,12,sambanxah,6
+8,gaNgAjale,jala,loc. sg. m.,15,axikaranam,9
+9,pravAhitam,vah,acc. sg. n.,23,karmasamanaxikaranam,10
+10,kftavAn,kf,ppa.,24,,
+
+0,sahasrasaNKyEH,tad,inst. pl. n.,1,viseranam,1
+1,SiroBiH,Siras,inst. pl. n.,2,karanam,3
+2,gaganaM,gagana,acc. sg. n.,3,karma,3
+3,vyApya,Ap,abs.,5,purvakalah,8 ####### acc_IV_purvakalah #######
+4,sahasrasaNKyEH,tad,inst. pl. n.,8,viseranam,5
+5,pAdEH,pAda,inst. pl. m.,9,karanam,7
+6,BuvaM,BU,acc. sg. f.,13,karma,7
+7,vyApya,Ap,abs.,14,purvakalah,8 ####### acc_IV_purvakalah #######
+8,vitizWamAnaM,sTA,acc. sg. m.,16,bavalakranasapwami_samanakalah,16
+9,vilocanasTAnagatauzRaraSminiSAkaraM,niSAkara,acc. sg. m.,21,viseranam,11
+10,sADu,sADu,conj.,23,viseranam,16
+11,hiraRyagarBam,garBa,acc. sg. m.,24,prawiyogi,12
+12,iva,iva,conj.,25,anuyogi,15
+13,asO,adas,nom. sg. m.,54,karwa,16
+14,giriM,giri,acc. sg. m.,28,viseranam,15
+15,rEvatakaM,rEvataka,acc. sg. m.,29,karma,16
+16,dadarSa,dfS,pft. ac. sg. 3,30,,
+
+0,mAm,asmad,acc. sg. *,0,karma,3
+1,ca,ca,conj.,1,sambanxah,3
+2,taTAviDAm,viDA,acc. sg. f.,3,karmasamanaxikaranam,3
+3,dfzwvA,dfS,abs.,4,purvakalah,4 ####### acc_IV_purvakalah #######
+4,stabDA,stabDa,acc. pl. f.,5,prawiyogi,5
+5,iva,iva,part.,8,anuyogi,6
+6,saYjAtA,jAta,pp.,9,,
+

@@ -1,0 +1,50 @@
+0,dalitakomalapawAlakuqmale,kuqmala,loc. sg. m.,0,viseranam,3
+1,nijavaDUSvasitaanuviDAyini,rAjan,loc. sg. m.,7,viseranam,3
+2,unmadaBramadalO,dala,loc. sg. m.,8,viseranam,3
+3,maruti,marut,loc. sg. m.,9,karwa,4
+4,vAti,vA,nom. sg. n.,10,purvakalah,8
+5,sati,as,loc. sg. m.,12,sambanxah,4 ####### nom_loc_sambanxah #######
+6,vilAsiBiH,vilAsin,inst. pl. m.,14,karwa,8
+7,madalOlyam,lOlya,nom. sg. n.,16,karma,8
+8,upaAdade,dA,pft. md. sg. 3,19,,
+
+0,tezu,tad,loc. pl. n.,0,sambanxah,1 ####### nom_loc_sambanxah #######
+1,ekA,eka,nom. sg. f.,2,viseranam,3
+2,zawsaptavarzIyA,varzIya,nom. sg. f.,18,viseranam,3
+3,bAlikA,bAlaka,nom. pl. f.,9,karwa,5
+4,api,ap,conj.,11,sambanxah,3
+5,AsIt,as,aor. [5] ac. sg. 3,13,,
+
+0,tam,tad,acc. sg. m.,1,karma,3
+1,taTA,taTA,adv.,3,kriyaviseranam,2
+2,upavizwam,tad,acc. sg. n.,13,karmasamanaxikaranam,3
+3,dfzwvA,dfS,abs.,4,purvakalah,12
+4,tayoH,tad,loc. du. n.,5,sambanxah,5 ####### nom_loc_sambanxah #######
+5,ekaH,eka,nom. sg. m.,14,viseranam,7
+6,svaBAzAyAm,BAzA,loc. sg. f.,17,axikaranam,12
+7,mUrKam,mUrKa,acc. sg. m.,19,karma,11
+8,uktvA,vac,abs.,23,samucciwam,10
+9,anyaH,anya,nom. sg. m.,22,karwa,12
+10,ca,ca,conj.,15,purvakalah,13
+11,ASizwam,SAs,acc. sg. n.,0,karma,12
+12,uktvA,vac,abs.,18,samucciwam,10
+13,Akzipat,kzip,impft. [6] ac. sg. 3,2,,
+
+0,saMyuktaparivAre,parivAra,loc. sg. m.,1,axikaranam,3
+1,pratisadasyam,sadasya,g. sg. f.,5,viseranam,2
+2,vicAraDArAyAH,DArA,g. sg. f.,9,rartisambanxah,3
+3,BinnaBinnatvAt,Binna,abl. sg. n.,14,apaxanam,12
+4,parasparam,paraspara,adv.,17,kriyaviseranam,7
+5,maDye,maDya,loc. sg. m.,18,sambanxah,6
+6,maDye,maDya,loc. sg. m.,24,sambanxah,7 ####### nom_loc_sambanxah #######
+7,kalahaH,kalaha,nom. sg. m.,30,samucciwam,9
+8,asahayogaH,yoga,nom. sg. m.,32,samucciwam,9
+9,ca,ca,conj.,33,karwa,12
+10,svABAvikaH,BAvika,nom. sg. m.,60,karwqsamanaxikaranam,12
+11,eva,eva,prep.,35,sambanxah,10
+12,asti,as,pr. [2] ac. sg. 3,36,,
+
+0,tAsu,tad,loc. pl. f.,0,sambanxah,1 ####### nom_loc_sambanxah #######
+1,ekA,eka,nom. pl. f.,2,karwa,2
+2,aBAzata,BAz,impft. [1] md. sg. 3,3,,
+

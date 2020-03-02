@@ -1,0 +1,67 @@
+0,tasyAH,tad,g. sg. f.,0,rartisambanxah,1
+1,rodanam,rodana,acc. sg. n.,2,karma,2
+2,AkarRya,AkarRa,pfp. [1],4,samucciwam,5
+3,tasyAH,tad,g. sg. f.,5,rartisambanxah,4
+4,daSAm,daSA,acc. sg. f.,7,karma,6
+5,ca,ca,conj.,8,purvakalah,8
+6,dfzwvA,dfS,abs.,9,samucciwam,5
+7,nfpaH,nfpa,nom. sg. m.,10,karwa,8
+8,avadat,vad,impft. [1] ac. sg. 3,11,,
+9,ezAH,eza,nom. sg. f.,14,viseranam,10
+10,nArI,nAra,nom. sg. f.,15,karwa,13
+11,SiSoH,SiSu,g. sg. m.,16,rartisambanxah,12
+12,jananI,janana,nom. sg. f.,18,karwqsamanaxikaranam,13
+13,yat,yat,ppr. [2] ac.,19,sambanxah,8 ####### FV_IV_sambanxah #######
+
+0,yatra,yatra,loc. sg. n.,0,axikaranam,8
+1,kutaH,kutas,tasil,2,sambanxah,2
+2,kutaH,kutas,tasil,4,sambanxah,9 ####### FV_IV_sambanxah #######
+3,kiyat,tad,acc. sg. n.,5,sambanxah,4
+4,kiyat,tad,acc. sg. n.,6,sambanxah,9
+5,ca,ca,conj.,7,sambanxah,4
+6,tena,tad,nom. sg. m,11,karwa,8
+7,fRam,fRa,acc. sg. m.,12,karma,8
+8,gfhItam,grah,pp.,17,karwa,9
+9,AsIt,as,aor. [5] ac. sg. 3,19,,
+
+0,pravfdDam,vfdDa,pp.,2,sambanxah,11 ####### FV_IV_sambanxah #######
+1,yat,yad,nom. sg. n.,28,viseranam,2
+2,vEram,vara,nom. sg. n.,6,karwa,0
+3,mama,asmad,g. sg. *,7,viseranam,5
+4,Kalu,Kalu,adv.,8,sambanxah,0
+5,SiSoH,SiSu,g. sg. m.,9,rartisambanxah,2
+6,eva,eva,prep.,11,sambanxah,5
+7,kuruBiH,kuru,i. pl. m.,12,sambanxah,5
+8,na,na,part.,13,sambanxah,11
+9,tatra,tatra,loc. sg. m.,15,axikaranam,16
+10,AryaH,Arya,nom. sg. m.,16,karwa,11
+11,Bavati,BU,pr. [1] ac. sg. 3,34,samucciwam,16
+12,hetuH,hetu,nom. sg. m.,18,karwqsamanaxikaranam,17
+13,na,na,part.,19,sambanxah,14
+14,Bavati,BU,pr. [1] ac. sg. 3,35,samucciwam,17
+15,kirIwI,tad,nom. sg. m.,21,karwa,14
+16,na,na,part.,22,sambanxah,19
+17,ca,ca,conj.,23,,
+18,yuvAm,yuzmad,nom. du. *,25,karwa,19
+19,Bavati,BU,pr. [1] ac. sg. 3,36,samucciwam,17
+
+0,alpAt,alpa,abl. sg. m.,0,viseranam,1
+1,kAlAt,kAla,abl. sg. m.,3,upapaxasambanxah,2
+2,paScAt,paSca,loc. sg. m.,5,axikaranam,5
+3,saH,tad,nom. sg. m.,7,viseranam,4
+4,nfpaH,nfpa,nom. sg. m.,8,karwa,5
+5,avadat,vad,impft. [1] ac. sg. 3,9,,
+6,he,he,ind.,10,sambanxah,17
+7,rAja-puruza,puruza,voc. sg. m.,11,samboxyah,17
+8,asinA,as,i. sg. m.,12,karanam,12
+9,SiSum,SiSu,acc. sg. m.,13,karma,12
+10,dvayoH,suBaga,loc. du. f.,19,viseranam,11
+11,KaRqayoH,KaRqa,loc. du. f.,24,axikaranam,17
+12,ekam,eka,acc. sg. m.,26,purvakalah,17
+13,ekam,eka,acc. du. f.,31,viseranam,15
+14,KaRqam,KaRqa,acc. du. f.,34,viseranam,15
+15,nArIByAm,nAra,acc. du. f.,37,karma,17
+16,yacCa,yam,imp. [1] ac. sg. 2,38,sampraxanam,17
+17,yat,yad,acc. sg. n.,64,karma,5
+18,kftvA,kf,abs.,40,sambanxah,5 ####### FV_IV_sambanxah #######
+

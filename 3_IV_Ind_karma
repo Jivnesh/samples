@@ -1,0 +1,37 @@
+0,SiKariindraM,indra,acc. sg. m.,0,upapaxasambanxah,1
+1,samayA,samayA,conj.,1,axikaranam,14
+2,avanO,avani,loc. sg. f.,2,axikaranam,8
+3,GanamadaBramarARi,Bramara,acc. pl. n.,4,viseranam,4
+4,kuwajAni,tad,acc. pl. n.,5,samucciwam,7
+5,vanOGanamadaBraM,aBra,acc. sg. n.,6,viseranam,6
+6,gaganaM,gagana,acc. sg. n.,8,samucciwam,7
+7,ca,ca,conj.,10,karma,8 ####### IV_Ind_karma #######
+8,vIkzya,Ikz,abs.,11,purvakalah,14
+9,SiKiBiH,SiKin,inst. pl. m.,13,karwa,14
+10,gItaninadasya,ninada,g. sg. m.,14,upapaxasambanxah,11
+11,samayA,samayA,conj.,15,axikaranam,14
+12,girA,gir,inst. sg. f.,18,karanam,14
+13,uccEH,ucca,conj.,20,kriyaviseranam,14
+14,arARi,raR,impft. md. sg. 3,22,,
+
+0,itaH,itas,abl. sg. n.,0,apaxanam,8
+1,mahAtmA,Atman,nom. sg. *,23,karwa,8
+2,SrezWinaH,SrezWin,g. sg. m.,4,rartisambanxah,3
+3,putrARAm,putra,g. pl. m.,6,rartisambanxah,4
+4,saNKyAm,tad,acc. sg. f.,8,samucciwam,6
+5,DanarASisaNKyAm,tad,acc. sg. f.,12,samucciwam,6
+6,ca,ca,conj.,13,karma,8 ####### IV_Ind_karma #######
+7,muKyalipikAt,kAs,abl. sg. f.,16,apaxanam,8
+8,jYAtavAn,jYA,ppa.,17,,
+
+0,SaNKaH,SaNKa,nom. sg. m.,0,karwa,9
+1,tam,tad,acc. sg. m.,1,karma,9
+2,yaTAviDi,yaTA,adv.,7,kriyaviseranam,9
+3,nadyAm,nadI,loc. sg. f.,8,axikaranam,7
+4,devAn,deva,acc. pl. m.,9,samucciwam,6
+5,pitFn,pitf,acc. pl. m.,10,samucciwam,6
+6,ca,ca,conj.,11,karma,8 ####### IV_Ind_karma #######
+7,snAtvA,snA,abs.,12,purvakalah,9
+8,tarpayitum,tfp,ca. inf.,13,prayojanam,9
+9,AjYAptavAn,Ap,pp.,15,,
+

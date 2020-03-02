@@ -1,0 +1,102 @@
+0,BImatyaH,BI,nom. pl. f.,2,viseranam,3
+1,priyakaraDAryamARahastAH,hastA,nom. pl. f.,3,viseranam,3
+2,satyaH,as,nom. sg. n.,5,viseranam,1
+3,yozitaH,yozit,nom. pl. f.,7,karwa,7
+4,yAvat,yAvat,conj.,10,sambanxah,7
+5,kaTamapi,api,conj.,12,kriyaviseranam,7
+6,na,na,conj.,14,sambanxah,7
+7,Askandan,skand,impft . ps. pl. 3,1,samucciwam,18
+8,tAvat,tAvat,conj.,15,sambanxah,16
+9,tat,tad,nom. sg. n.,17,viseranam,10
+10,ambu,ambu,nom. sg. n.,19,karwa,16
+11,amUH,adas,acc. pl. f.,20,karma,16
+12,saNkrAntapratimatayA,man,inst. sg. f.,23,karanam,16
+13,OtsukyAt,Otsukya,abl. sg. n.,0,hewuh,14 ####### Ind_abl_hewuh #######
+14,tvaritam,tvaritam,conj.,29,kriyaviseranam,16
+15,antaH,antar,conj.,31,axikaranam,16
+16,daDO,DA,pft. ac. sg. 3,34,samucciwam,18
+17,iva,iva,conj.,36,sambanxah,16
+18,ca,ca,conj.,37,,
+
+0,tezAM,tad,g. pl. m.,1,rartisambanxah,1
+1,bAhyaH,bAhya,nom. sg. m.,2,viseranam,3
+2,yaH,yad,nom. sg. m.,3,sambanxah,4
+3,rAgaH,rAga,nom. sg. m.,4,karma,6
+4,saH,tad,nom. sg. m.,5,viseranam,3
+5,jalEH,jala,inst. pl. n.,7,karwa,6
+6,nirAsi,As,impft. md. sg. 3,8,samucciwam,24
+7,Kalu,Kalu,conj.,9,sambanxah,6
+8,citte,citta,loc. sg. n.,46,axikaranam,14
+9,yaH,yad,nom. sg. m.,12,sambanxah,10
+10,saH,tad,nom. sg. m.,13,karwa,14
+11,tu,tu,conj.,14,sambanxah,10
+12,tadavasTaH,avasTA,nom. sg. m.,16,karwqsamanaxikaranam,14
+13,eva,eva,conj.,17,sambanxah,12
+14,AsIt,as,impft . ac. sg. 3,19,samucciwam,24
+15,hi,hi,conj.,20,sambanxah,23
+16,sarvaH,sarva,nom. sg. m.,21,karwa,23
+17,DIrARAm,DIra,g. pl. m.,25,rartisambanxah,18
+18,antaHpAtitvAt,tva,abl. sg. n.,30,hewuh,19 ####### Ind_abl_hewuh #######
+19,eva,eva,conj.,31,sambanxah,23
+20,parasya,para,g. sg. m.,32,rartisambanxah,21
+21,aBiBavanIyatAM,yat,nom. sg. f.,34,karma,23
+22,na,na,conj.,35,sambanxah,23
+23,vrajati,vraj,pr. ac. sg. 3,36,samucciwam,24
+24,ca,ca,conj.,37,,
+
+0,mahAiBaH,iBa,nom. sg. m.,0,karwa,8
+1,jalaDeH,jalaDi,g. sg. m.,1,rartisambanxah,2
+2,mahati,rAjan,loc. sg. m.,4,viseranam,3
+3,UrmO,Urmi,loc. sg. m.,6,axikaranam,8
+4,pratibimbitaaNgam,aNga,acc. sg. m.,9,viseranam,6
+5,aBimuKaApatitam,patita,acc. sg. m.,12,viseranam,6
+6,AtmAnam,Atman,acc. sg. m.,14,karma,8
+7,eva,eva,conj.,15,sambanxah,6
+8,nirIkzya,Ikz,abs.,16,purvakalah,14
+9,anyanAgaaBiyuktaH,yukta,nom. sg. m.,42,prawiyogi,10
+10,iva,iva,conj.,18,anuyogi,11
+11,apaBIH,tad,nom. sg. m.,20,karwa,14
+12,kroDAt,kroDa,abl. sg. m.,21,hewuh,13 ####### Ind_abl_hewuh #######
+13,atitUrRam,tUrRa,conj.,26,viseranam,14
+14,aDAvat,DAv,impft . ac. sg. 3,28,samucciwam,17
+15,aho,aho,conj.,29,sambanxah,16
+16,yuktam,yuj,nom. sg. n.,51,samucciwam,17
+17,ca,ca,conj.,33,,
+
+0,hare,hara,voc. sg. m.,5,samboxyah,15
+1,janaH,jana,nom. sg. m.,8,karwa,9
+2,mfgARAm,mfga,g. pl. m.,10,prawiyogi,3
+3,iva,iva,conj.,11,anuyogi,4
+4,kaMsAdimahIBftAM,mahIBft,g. pl. m.,16,rartisambanxah,5
+5,vaDAt,vaDa,abl. sg. m.,17,hewuh,6 ####### Ind_abl_hewuh #######
+6,yat,yat,conj.,19,sambanxah,9
+7,tava,yuzmad,g. sg. n.,20,rartisambanxah,8
+8,stavaM,stava,acc. sg. m.,21,karma,9
+9,karoti,kf,pr. ac. sg. 3,22,samucciwam,16
+10,sA,tad,nom. sg. f.,23,viseranam,11
+11,stutikriyA,kriyA,nom. sg. f.,114,karwa,15
+12,hiraRyAkzapuraHsarAsuradvipadizaH,iza,g. sg. m.,34,rartisambanxah,14
+13,pratyuta,pratyuta,conj.,35,sambanxah,15
+14,tiraskriyA,tiraskriyA,nom. sg. f.,36,karwa,15
+15,Bavati,BU,pr. ac. sg. 3,37,samucciwam,16
+16,ca,ca,conj.,38,,
+
+0,amI,adas,nom. pl. m.,0,karwa,3
+1,sAwopam,tad,acc. sg. m.,1,karma,3
+2,aniSaM,aniSa,conj.,4,viseranam,3
+3,nadantaH,nad,nom. pl. m.,5,bavalakranasapwami_samanakalah,7
+4,yEH,yad,inst. pl. m.,7,karwa,7
+5,urvIM,urvI,acc. sg. f.,8,karma,7
+6,samantataH,samantataH,conj.,9,apaxanam,7
+7,plAvayizyanti,Ric,fut. ac. pl. 3,10,samucciwam,17
+8,tAni,tad,acc. pl. n.,11,viseranam,9
+9,amBAMsi,amBas,acc. pl. n.,13,karma,13
+10,payoDeH,payoDi,g. sg. m.,15,rartisambanxah,11
+11,ekadeSAt,ekadeSa,abl. sg. m.,20,hewuh,12 ####### Ind_abl_hewuh #######
+12,niBftaM,niBfta,conj.,23,viseranam,13
+13,pibataH,pA,acc. pl. m.,24,bavalakranasapwami_samanakalah,16
+14,meGAn,meGa,acc. pl. m.,25,karma,16
+15,saH,tad,nom. sg. m.,26,karwa,16
+16,dadarSa,dfS,pft. ac. sg. 3,27,samucciwam,17
+17,ca,ca,conj.,29,,
+

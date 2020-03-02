@@ -1,0 +1,98 @@
+0,BavAn,Bava,nom. sg. m.,1,karwa,4
+1,DarmAcaraRaSIlaH,SIla,nom. sg. m.,4,samucciwam,3
+2,kftaparameSvarasAkzAtkAraH,sAkzAtkAra,nom. sg. m.,63,samucciwam,3
+3,ca,ca,conj.,13,karwqsamanaxikaranam,4 ####### FV_Ind_karwqsamanaxikaranam #######
+4,vartate,BU,pr. [1] md. sg. 3,14,,
+
+0,ayam,dam,nom. sg. m.,0,karwa,3
+1,svapnaH,svapna,nom. sg. m.,1,sambanxah,2
+2,vA,vA,conj.,2,karwqsamanaxikaranam,9 ####### FV_Ind_karwqsamanaxikaranam #######
+3,Bavatu,BU,imp. [1] ac. sg. 3,3,samucciwam,18
+4,vismftasya,tad,g. sg. n.,5,viseranam,5
+5,satyasya,satya,g. sg. n.,7,rartisambanxah,7
+6,aMSataH,aMSa,adv.,8,kriyaviseranam,7
+7,smaraRam,smaraRa,nom. sg. n.,10,sambanxah,2
+8,vA,vA,conj.,11,sambanxah,18
+9,Bavatu,BU,imp. [1] ac. sg. 3,12,samucciwam,18
+10,mama,asmad,g. sg. *,13,upapaxasambanxah,11
+11,antikam,tad,loc. sg. m.,15,axikaranam,12
+12,AgacCa,gam,imp. [1] ac. sg. 2,16,samucciwam,18
+13,mama,asmad,g. sg. *,17,rartisambanxah,15
+14,BAle,BAla,loc. sg. n.,20,axikaranam,17
+15,tava,yuzmad,g. sg. *,21,rartisambanxah,16
+16,dakziRahastam,hasta,acc. sg. m.,23,karma,17
+17,niDehi,DA,imp. [3] ac. sg. 2,24,samucciwam,18
+18,ca,ca,conj.,25,,
+
+0,kaH,kim,nom. sg. m.,0,karwa,6
+1,DarmajYaH,jYa,nom. sg. m.,2,samucciwam,5
+2,kftajYaH,jYa,nom. sg. m.,5,samucciwam,5
+3,satyavAkyaH,vAkya,nom. sg. m.,7,samucciwam,5
+4,dfQavrataH,vrata,nom. sg. m.,9,samucciwam,5
+5,ca,ca,conj.,10,karwqsamanaxikaranam,6 ####### FV_Ind_karwqsamanaxikaranam #######
+6,asti,as,pr. [2] ac. sg. 3,11,,
+
+0,rAmaH,rAma,nom. sg. m.,0,karwa,13
+1,DarmajYaH,jYa,nom. sg. m.,2,samucciwam,5
+2,satyasanDaH,tad,nom. sg. m.,3,samucciwam,5
+3,prajAnAm,prajA,g. pl. f.,4,rartisambanxah,4
+4,hite,hita,loc. sg. n.,15,axikaranam,6
+5,ca,ca,conj.,17,karwqsamanaxikaranam,13 ####### FV_Ind_karwqsamanaxikaranam #######
+6,rataH,rata,nom. sg. m.,18,samucciwam,5
+7,yaSasvI,yaSasvin,nom. sg. m.,19,viseranam,8
+8,jYAnasampannaH,pad,nom. sg. m.,21,samucciwam,12
+9,SuciH,Suci,nom. sg. f.,23,samucciwam,12
+10,vaSyaH,vaSya,nom. sg. m.,24,viseranam,11
+11,samADimAn,samADi,nom. sg. m.,25,samucciwam,12
+12,ca,ca,conj.,26,karwqsamanaxikaranam,13 ####### FV_Ind_karwqsamanaxikaranam #######
+13,asti,as,pr. [2] ac. sg. 3,27,,
+
+0,prAtaH,tad,loc. sg. m.,0,axikaranam,5
+1,tu,tu,conj.,1,sambanxah,0
+2,BojanaM,Bojana,acc. sg. n.,2,karma,3
+3,kftvA,kf,conj.,4,purvakalah,5
+4,saH,tad,nom. sg. m.,5,karwa,5
+5,nirgataH,ca,conj.,6,karwqsamanaxikaranam,6 ####### FV_Ind_karwqsamanaxikaranam #######
+6,AsIt,as,impft . ac. sg. 3,8,,
+7,eva,eva,conj.,9,sambanxah,6
+
+0,BagavAn,rAjan,voc. sg. m.,3,samboxyah,12
+1,nityam,nitya,adv.,2,kriyaviseranam,4
+2,yaTecCam,icCA,adv.,4,kriyaviseranam,4
+3,gorasam,rasa,acc. sg. m.,6,karma,4
+4,sevamAnaH,mAna,nom. sg. m.,42,viseranam,6
+5,api,api,conj.,8,sambanxah,4
+6,BavAn,BU,nom. sg. m.,11,karwa,12
+7,SarIreRa,SarIra,i. sg. m.,12,karanam,12
+8,SyAmaH,SyAma,nom. sg. m.,14,samucciwam,10
+9,kfSaH,kfSa,nom. sg. m.,15,samucciwam,10
+10,ca,ca,conj.,16,karwqsamanaxikaranam,12 ####### FV_Ind_karwqsamanaxikaranam #######
+11,kaTam,kaTam,adv.,17,kriyaviseranam,12
+12,asti,as,pr. [2] ac. sg. 3,18,,
+
+0,sutanu,sutanu,voc. sg. f.,49,samboxyah,6
+1,rurudizA,tad,nom. sg. f.,2,karwa,6
+2,te,yuzmad,g. sg. n.,9,rartisambanxah,3
+3,vadanAmburuhaSriyaH,SrI,g. sg. f.,14,rartisambanxah,4
+4,alaNkaraRAya,karaRa,dat. sg. n.,18,prayojanam,6
+5,satyam,satya,conj.,21,karwqsamanaxikaranam,6 ####### FV_Ind_karwqsamanaxikaranam #######
+6,Bavati,BU,pr. ac. sg. 3,22,,
+7,tadapi,api,conj.,25,sambanxah,10
+8,samprati,samprati,conj.,27,axikaranam,10
+9,maDO,maDu,loc. sg. m.,28,karwa,10
+10,sannihite,hita,loc. sg. m.,80,purvakalah,15
+11,sati,as,nom. sg. n.,36,viseranam,10
+12,aSruRaH,aSru,g. sg. n.,37,rartisambanxah,13
+13,aDigamam,gama,nom. sg. n.,40,viseranam,14
+14,amaNgalaM,amaNgala,nom. sg. n.,44,karwa,15
+15,Bavati,BU,pr. ac. sg. 3,45,prawiyogi,16
+16,iti,iti,conj.,46,anuyogi,17
+17,Dik,Dik,conj.,47,sambanxah,6
+
+0,saH,tad,nom. sg. m.,0,karwa,5
+1,vAcA,vAcA,nom. sg. f.,1,upapaxasambanxah,3
+2,karkaSaH,karkaSa,nom. sg. m.,3,samucciwam,4
+3,ugraprakftiH,prakfti,nom. sg. f.,5,samucciwam,4
+4,ca,ca,conj.,8,karwqsamanaxikaranam,5 ####### FV_Ind_karwqsamanaxikaranam #######
+5,AsIt,as,aor. [5] ac. sg. 3,7,,
+

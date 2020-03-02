@@ -1,0 +1,26 @@
+0,SrUyate,Sru,pr. ps. sg. 3,0,prawiyogi,1
+1,yat,yad,acc. sg. n.,23,anuyogi,4 ####### inst_acc_anuyogi #######
+2,kenacit,kim,i. sg. m.,3,viseranam,4
+3,tu,tu,conj.,5,sambanxah,2
+4,jIvAnurAgiRA,anurAgin,i. sg. m.,59,karwa,10
+5,nyAyAlaye,Alaya,loc. sg. m.,47,axikaranam,10
+6,etasmin,etad,loc. sg. m.,13,viseranam,7
+7,sambanDe,sambanDa,loc. sg. m.,14,axikaranam,10
+8,yAcikA,yAcaka,acc. pl. f.,15,karma,10
+9,api,api,conj.,17,sambanxah,8
+10,prastutA,stuta,pp.,21,,
+11,iti,iti,part.,22,sambanxah,10
+
+0,banDaH,banDa,voc. sg. m.,0,samboxyah,4
+1,mayA,asmad,nom. sg. *,1,karwa,4
+2,tat,tad,acc. sg. n.,2,karma,4
+3,eva,eva,prep.,4,sambanxah,4
+4,Acaritam,car,acc. sg. n.,7,prawiyogi,5
+5,yat,yad,acc. sg. n.,21,anuyogi,7 ####### inst_acc_anuyogi #######
+6,ekena,eka,i. sg. n.,10,viseranam,7
+7,prativeSinA,tad,i. sg. n.,12,karwa,11
+8,anyena,anya,i. sg. m.,13,viseranam,9
+9,prativeSinA,tad,i. sg. n.,16,prawiyogi,10
+10,saha,saha,prep.,17,anuyogi,7
+11,AcaraRIyam,car,pfp. [2],20,,
+

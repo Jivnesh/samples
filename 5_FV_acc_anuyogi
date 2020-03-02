@@ -1,0 +1,61 @@
+0,aham,asmad,nom. sg. *,0,karwa,6
+1,AtmIyAm,AtmIya,acc. sg. f.,1,viseranam,2
+2,vedanAm,vedanA,acc. sg. f.,2,karma,6
+3,svakIye,svakIya,loc. sg. m.,5,viseranam,4
+4,BAzaRe,BAzaRa,loc. sg. n.,13,axikaranam,5
+5,vyaktAm,tad,acc. sg. f.,14,karmasamanaxikaranam,6
+6,kftavAn,kf,nom. sg. m.,15,prawiyogi,7
+7,yat,yad,acc. sg. n.,40,anuyogi,12 ####### FV_acc_anuyogi #######
+8,saH,tad,nom. sg. m.,17,karwa,12
+9,kIdfSaH,kIdfSa,nom. sg. m.,18,viseranam,12
+10,sanAtanaDarmAvalambI,avalambin,nom. sg. m.,71,karwqsamanaxikaranam,12
+11,hinduH,tad,nom. sg. m.,33,karwqsamanaxikaranam,12
+12,asti,as,pr. [2] ac. sg. 3,34,,
+
+0,putraH,putra,nom. sg. m.,0,karwa,4
+1,kaTAvAcakasya,vAcaka,g. sg. m.,3,rartisambanxah,3
+2,idam,idam,acc. sg. n.,23,viseranam,3
+3,vAkyam,vAkya,acc. sg. n.,5,karma,4
+4,smftvA,smf,abs.,8,prawiyogi,5
+5,yat,yad,acc. sg. n.,30,anuyogi,9 ####### FV_acc_anuyogi #######
+6,BUmim,deva,nom. pl. f.,11,karwa,9
+7,BUmim,BUmi,acc. sg. f.,10,karma,9
+8,na,na,part.,14,sambanxah,9
+9,spfSati,spfS,pr. [1] ac. sg. 3,13,samucciwam,11
+10,na,na,part.,12,sambanxah,15
+11,ca,ca,conj.,15,,
+12,akziRI,dvi,acc. du. n.,17,karma,15
+13,api,api,conj.,18,sambanxah,12
+14,manuzyavat,manuzya,adv.,21,kriyaviseranam,15
+15,nimIlati,mIl,pr. [1] ac. sg. 3,22,samucciwam,11
+
+0,svagfham,gfha,nom. sg. n.,2,karwa,3
+1,tu,tu,conj.,3,sambanxah,0
+2,tat,tad,acc. sg. n.,4,anuyogi,3 ####### FV_acc_anuyogi #######
+3,Bavati,BU,pr. [1] ac. sg. 3,25,,
+4,yataH,ya,tasil,7,sambanxah,2
+5,kadA,kadA,loc. sg. m.,10,axikaranam,7
+6,api,ap,conj.,9,sambanxah,5
+7,nirgamanam,gam,nom. sg. n.,12,karwa,9
+8,na,na,part.,13,sambanxah,9
+9,Bavati,BU,pr. [1] ac. sg. 3,16,prawiyogi,4
+10,iti,iti,part.,15,sambanxah,3
+
+0,kuru,kf,imp. [8] ac. sg. 2,0,prawiyogi,2
+1,idAnIm,idAnIm,loc. sg. m.,1,axikaranam,0
+2,yat,yad,acc. sg. n.,4,anuyogi,3 ####### FV_acc_anuyogi #######
+3,icCasi,iz,pr. [6] ac. sg. 2,3,,
+
+0,rucim,ruci,acc. sg. f.,0,karma,3
+1,anyasya,anya,g. sg. m.,1,rartisambanxah,0
+2,na,na,part.,3,sambanxah,3
+3,DyAtvA,DyA,abs.,4,purvakalah,5
+4,svArTAt,svArTa,abl. sg. m.,5,hewuh,5
+5,vijYApyate,jYA,ca. pr. ps. sg. 3,7,prawiyogi,7
+6,tu,tu,conj.,8,sambanxah,5
+7,yat,yad,conj.,9,sambanxah,9
+8,upahAsAya,upahAsa,dat. sg. m.,10,prayojanam,11
+9,tat,tad,acc. sg. n.,11,anuyogi,11 ####### FV_acc_anuyogi #######
+10,nUnam,nUnam,adv.,13,kriyaviseranam,11
+11,jAyate,jan,pr. [4] md. sg. 3,14,,
+

@@ -1,0 +1,39 @@
+0,paScAt,paSca,loc. sg. m.,1,axikaranam,1
+1,pfzwaH,pfzwa,nom. sg. m.,3,viseranam,2
+2,saH,tad,nom. sg. m.,4,karwa,3
+3,kaTitavAn,kaT,nom. sg. m.,5,prawiyogi,4 ####### acc_nom_prawiyogi #######
+4,yat,yad,acc. sg. n.,24,anuyogi,5
+5,vigatacatvAriMSadvarzeByaH,varza,abl. pl. m.,9,apaxanam,11
+6,aham,asmad,nom. sg. *,13,karwa,11
+7,rAmAyaRasya,rAmAyaRa,g. sg. n.,14,rartisambanxah,9
+8,nityam,nitya,adv.,17,kriyaviseranam,9
+9,pArAyaRam,pArAyaRa,acc. sg. n.,18,karma,10
+10,kurvan,kf,nom. sg. m.,20,karwqsamanaxikaranam,11
+11,asmi,as,pr. [2] ac. sg. 1,21,,
+
+0,aham,asmad,nom. sg. *,0,karwa,6
+1,AtmIyAm,AtmIya,acc. sg. f.,1,viseranam,2
+2,vedanAm,vedanA,acc. sg. f.,2,karma,6
+3,svakIye,svakIya,loc. sg. m.,5,viseranam,4
+4,BAzaRe,BAzaRa,loc. sg. n.,13,axikaranam,5
+5,vyaktAm,tad,acc. sg. f.,14,karmasamanaxikaranam,6
+6,kftavAn,kf,nom. sg. m.,15,prawiyogi,7 ####### acc_nom_prawiyogi #######
+7,yat,yad,acc. sg. n.,40,anuyogi,12
+8,saH,tad,nom. sg. m.,17,karwa,12
+9,kIdfSaH,kIdfSa,nom. sg. m.,18,viseranam,12
+10,sanAtanaDarmAvalambI,avalambin,nom. sg. m.,71,karwqsamanaxikaranam,12
+11,hinduH,tad,nom. sg. m.,33,karwqsamanaxikaranam,12
+12,asti,as,pr. [2] ac. sg. 3,34,,
+
+0,anena,idam,i. sg. m.,1,karanam,1
+1,aBiruzwaH,tad,nom. sg. m.,3,viseranam,2
+2,pitA,tad,nom. sg. m.,4,karwa,4
+3,asmAn,asmad,acc. pl. *,5,karma,4
+4,aBiSaptavAn,tad,nom. sg. m.,6,prawiyogi,5 ####### acc_nom_prawiyogi #######
+5,yat,yad,acc. sg. n.,17,anuyogi,6
+6,yUyam,yuzmad,nom. pl. *,8,karwa,10
+7,api,api,conj.,9,sambanxah,6
+8,gfDrAH,gfDra,nom. pl. m.,11,karwqsamanaxikaranam,10
+9,eva,eva,prep.,14,sambanxah,8
+10,Bavata,BU,imp. [1] ac. pl. 2,15,,
+

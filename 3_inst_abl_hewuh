@@ -1,0 +1,61 @@
+0,nataBruvA,BrU,inst. sg. f.,2,karwa,3
+1,AnABeH,nABi,abl. sg. f.,0,sambanxah,3
+2,sarasi,saras,loc. sg. n.,3,axikaranam,3
+3,avagAQe,gAh,pp. . sg. ,9,bavalakranasapwami_samanakalah,11
+4,sati,as,nom. sg. n.,11,sambanxah,3
+5,aTa,aTa,conj.,12,sambanxah,11
+6,payasaH,payas,g. sg. n.,13,rartisambanxah,7
+7,cApalyAt,cApalya,abl. sg. n.,15,hewuh,8 ####### inst_abl_hewuh #######
+8,taraNgahastEH,hasta,inst. pl. m.,16,karwa,11
+9,ucCrAyi,ucCrAyin,nom. sg. n.,17,viseranam,10
+10,stanayugam,yuga,nom. sg. n.,19,karma,11
+11,aDyarohi,ruh,impft. ac. sg. 3,21,samucciwam,17
+12,aTavA,aTavA,conj.,23,sambanxah,16
+13,labDasparSAnAm,sparSa,g. pl. m.,24,rartisambanxah,14
+14,kutaH,kutas,conj.,26,hewuh,15
+15,vyavasTA,vyavasTA,nom. sg. f.,70,karwa,16
+16,Bavati,BU,pr. ac. sg. 3,29,samucciwam,17
+17,ca,ca,conj.,30,,
+
+0,maDuvratAnAM,vrata,g. pl. m.,0,rartisambanxah,1
+1,pawale,pawala,loc. sg. n.,3,karwa,3
+2,aBimuKam,aBimuKa,conj.,6,axikaranam,3
+3,upayAti,yA,nom. sg. n.,7,purvakalah,9
+4,sati,as,nom. sg. n.,9,sambanxah,3
+5,tvam,yuzmad,nom. sg. n.,10,karwa,9
+6,kiYcit,ca,conj.,11,karma,9
+7,mA,mA,conj.,24,sambanxah,9
+8,sma,sma,conj.,13,sambanxah,9
+9,aBidaDAH,Acakz,impft . ac. sg. 2,14,samucciwam,16
+10,maDusuraBimuKAbjaganDalabDeH,labDi,abl. sg. f.,15,hewuh,11 ####### inst_abl_hewuh #######
+11,anena,idam,inst. sg. n.,17,karwa,15
+12,aDitvat,van,conj.,19,axikaranam,15
+13,aDikaM,aDika,nom. sg. n.,22,kriyaviseranam,15
+14,mA,asmad,conj.,12,sambanxah,15
+15,nipAti,pat,impft. ac. sg. 3,23,samucciwam,16
+16,ca,ca,conj.,25,,
+
+0,lolaUrmO,Urmi,loc. sg. m.,1,viseranam,1
+1,payasi,payas,loc. sg. n.,2,axikaranam,9
+2,mahotpalaM,mahotpala,nom. sg. n.,3,karwa,21
+3,kAntAnAM,kAntA,g. pl. f.,6,rartisambanxah,4
+4,muKarucA,ruc,inst. sg. f.,9,karwa,9
+5,aham,asmad,nom. sg. n.,10,karma,9
+6,ekam,eka,acc. sg. m.,11,viseranam,5
+7,eva,eva,conj.,14,sambanxah,6
+8,na,na,conj.,15,sambanxah,9
+9,apAstam,as,pp. . sg. ,18,prawiyogi,10
+10,kintu,ca,conj.,19,anuyogi,16
+11,tAsAm,tad,g. pl. f.,20,rartisambanxah,12
+12,akzRoH,akzi,g. du. n.,22,rartisambanxah,13
+13,SoBABiH,SoBA,inst. pl. f.,23,karwa,16
+14,kuvalayam,kuvalaya,nom. sg. n.,25,karma,16
+15,api,api,conj.,26,sambanxah,14
+16,apAstam,as,pp. . sg. ,30,prawiyogi,17
+17,iti,iti,conj.,31,anuyogi,18
+18,saMharzAt,saMharza,abl. sg. m.,32,hewuh,19 ####### inst_abl_hewuh #######
+19,alivirutEH,viruta,inst. pl. n.,34,karanam,21
+20,gAyat,tad,nom. sg. n.,36,bavalakranasapwami_samanakalah,21
+21,nanarta,nft,pft. ac. sg. 3,38,,
+22,iva,iva,conj.,39,sambanxah,21
+

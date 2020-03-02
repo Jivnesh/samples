@@ -1,0 +1,38 @@
+0,anATAH,anATa,nom. pl. m.,1,karwa,8
+1,te,yuzmad,g. sg. *.,8,viseranam,0 ####### nom_g_viseranam #######
+2,kaYcit,cit,acc. sg. m.,10,viseranam,3
+3,kAlam,kAla,loc. sg. m.,12,axikaranam,8
+4,evam,evam,conj.,15,kriyaviseranam,8
+5,eva,eva,conj.,16,sambanxah,4
+6,vinA,vinA,conj.,17,anuyogi,8
+7,AhAraM,AhAra,acc. sg. m.,21,prawiyogi,6
+8,sTitAH,sTita,pp. . pl. ,20,,
+
+0,tarpaRaM,tarpaRa,acc. sg. n.,0,karma,1
+1,kurvataH,tad,g. sg. m.,6,viseranam,4 ####### nom_g_viseranam #######
+2,eva,eva,conj.,7,sambanxah,1
+3,tasya,tad,g. sg. m.,9,rartisambanxah,4
+4,hastO,hasta,nom. du. m.,11,karwa,8
+5,pUrvavat,pUrva,conj.,13,kriyaviseranam,8
+6,eva,eva,conj.,14,sambanxah,5
+7,prakawO,prakawa,voc. du. m.,25,karwqsamanaxikaranam,8
+8,aBavatAm,BU,impft . ac. du. 3,17,,
+
+0,durDiyaH,tad,g. sg. n.,7,viseranam,1 ####### nom_g_viseranam #######
+1,janAH,jana,nom. pl. m.,8,karwa,3
+2,kIdfSAH,kIdfSa,nom. pl. m.,9,karwqsamanaxikaranam,3
+3,Bavanti,BU,pr. ac. pl. 3,10,,
+
+0,mfdutayA,mfdu,inst. sg. f.,0,viseranam,5
+1,himamArutEH,mAruta,inst. pl. m.,2,karanam,10
+2,dutayA,du,pp. . sg. ,3,viseranam,5
+3,vraRaBftA,tad,inst. sg. f.,4,viseranam,5
+4,sutanoH,sutanu,g. sg. f.,7,rartisambanxah,5
+5,aDaraleKayA,leKA,inst. sg. f.,9,karwa,10
+6,sutanoH,sutanu,g. sg. f.,12,viseranam,9 ####### nom_g_viseranam #######
+7,kalasItkftasPuritadantamarIcimayaM,maya,nom. sg. n.,14,rartisambanxah,8
+8,sPuwam,sPuwa,nom. sg. n.,17,viseranam,9
+9,AvaraRaM,vf,nom. sg. n.,20,karma,10
+10,daDe,DA,pft. md. sg. 3,22,,
+11,iva,iva,conj.,25,sambanxah,10
+

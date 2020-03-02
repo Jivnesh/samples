@@ -1,0 +1,66 @@
+0,prativeSirAjyasya,rAjya,g. sg. m.,4,rartisambanxah,1
+1,rAjAnam,rAjan,acc. sg. m.,5,sambanxah,5
+2,viduzAm,vidvas,g. pl. m.,7,rartisambanxah,3
+3,sammAnam,sammAna,acc. sg. m.,8,karma,4
+4,kurvantam,tad,acc. sg. m.,9,sambanxah,5
+5,dfzwvA,dfS,abs.,10,purvakalah,12
+6,yaSolipsoH,lipsu,g. sg. m.,70,viseranam,7
+7,tasya,tad,g. sg. m.,13,rartisambanxah,9
+8,api,api,conj.,14,sambanxah,7
+9,svarAjyapaRqitAn,paRqita,acc. pl. m.,18,karma,10
+10,sammAnayitum,man,dat. sg. n.,19,prayojanam,12 ####### IV_dat_prayojanam #######
+11,jAgaritA,icCA,acc. pl. f.,22,karma,12
+12,jAgaritA,jAgf,ca. pp.,23,,
+
+0,asya,asUya,g. sg. n.,1,rartisambanxah,1
+1,lABaH,lABa,nom. sg. m.,2,karwa,3
+2,kasmE,kim,dat. sg. n.,3,prayojanam,3 ####### IV_dat_prayojanam #######
+3,militaH,mil,pp.,5,,
+
+0,ahnaH,ahan,g. sg. n.,0,rartisambanxah,1
+1,BAnumAn,BAnu,nom. sg. m.,2,prawiyogi,2
+2,iva,iva,conj.,3,anuyogi,8
+3,svayaNkftaprasAdasya,prasAda,g. sg. m.,8,viseranam,4
+4,tasya,tad,g. sg. m.,10,rartisambanxah,5
+5,antAya,anta,dat. sg. m.,11,prayojanam,7 ####### IV_dat_prayojanam #######
+6,samayAvaDim,avaDi,acc. sg. m.,53,karma,7
+7,aprApya,Ap,abs.,21,purvakalah,12
+8,BavAn,tad,nom. sg. m.,23,karwa,12
+9,api,api,conj.,24,sambanxah,8
+10,na,na,conj.,26,sambanxah,12
+11,alam,alam,conj.,27,sambanxah,12
+12,Bavati,BU,pr. ac. sg. 3,28,,
+
+0,ekadA,ekadA,loc. sg. m.,0,axikaranam,8
+1,kaScit,kim,nom. sg. m.,1,viseranam,4
+2,aBinavaH,aBinava,nom. sg. m.,3,viseranam,4
+3,eva,eva,prep.,4,sambanxah,2
+4,vidvAn,tad,nom. sg. m.,5,karwa,8
+5,SAstrArTI,tad,nom. sg. f.,6,karwa,6
+6,BUtvA,BU,abs.,7,purvakalah,8
+7,digvijayayAtrAyE,yAtrA,dat. sg. f.,24,prayojanam,8 ####### IV_dat_prayojanam #######
+8,niHsftaH,sfta,pp.,11,,
+
+0,mahAtman,Atman,voc. sg. *,18,samboxyah,6
+1,aham,asmad,nom. sg. *,1,karwa,6
+2,AtmIyam,AtmIya,acc. sg. m.,2,viseranam,3
+3,tapaHPalam,Pala,acc. sg. m.,16,karma,5
+4,Bavate,BU,dat. sg. n.,9,prayojanam,5 ####### IV_dat_prayojanam #######
+5,samarpayitum,f,ca. inf.,10,karma,6
+6,icCAmi,z,pr. [6] ac. sg. 1,11,,
+
+0,tarhi,tarhi,adv.,0,sambanxah,6
+1,kecana,kim,nom. pl. m.,3,viseranam,2
+2,anye,anya,nom. pl. m.,7,karwa,10
+3,svam,sva,acc. sg. m.,12,viseranam,4
+4,sahacaram,cara,acc. sg. m.,17,karma,6
+5,tatra,tatra,loc. sg. n.,20,axikaranam,6
+6,anavApya,Apya,pfp. [1],27,purvakalah,10
+7,tam,tad,acc. sg. m.,28,karma,10
+8,eva,eva,prep.,29,sambanxah,7
+9,aparADinam,aparADin,acc. sg. m.,30,karmasamanaxikaranam,10
+10,matvA,man,abs.,31,purvakalah,13
+11,tasya,tad,g. sg. n.,32,rartisambanxah,12
+12,anvezaRAya,anvezaRa,dat. sg. n.,34,prayojanam,13 ####### IV_dat_prayojanam #######
+13,nirgatAH,gam,pp.,37,,
+

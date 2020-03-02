@@ -1,0 +1,45 @@
+0,kintu,ca,adv.,0,sambanxah,2
+1,mAtApitroH,pitf,g. du. m.,34,rartisambanxah,2
+2,upasTitO,devI,loc. sg. f.,3,axikaranam,5
+3,tu,tu,conj.,4,sambanxah,2
+4,tayoH,tad,g. du. n.,6,rartisambanxah,5
+5,kUjanam,kUjana,nom. sg. n.,12,karwa,8
+6,iyat,ca,adv.,14,viseranam,7
+7,aDikam,aDika,adv.,17,kriyaviseranam,8
+8,Bavati,BU,pr. [1] ac. sg. 3,40,prawiyogi,10
+9,sma,sma,part.,19,sambanxah,8
+10,yat,yad,acc. sg. n.,41,anuyogi,11 ####### acc_acc_anuyogi #######
+11,tat,tad,acc. sg. n.,21,karma,15
+12,mama,asmad,g. sg. *,23,rartisambanxah,13
+13,mitrapatnyE,patnI,dat. sg. f.,25,sampraxanam,15
+14,na,na,part.,26,sambanxah,15
+15,aBirocate,ruc,pr. [1] md. sg. 3,46,,
+16,sma,sma,part.,28,sambanxah,15
+
+0,ekavAram,vAra,loc. sg. m.,1,axikaranam,10
+1,AcAryaH,AcArya,nom. sg. m.,3,karwa,11
+2,parIkzAgrahaRam,grahaRa,acc. sg. m.,5,prawiyogi,3
+3,vinA,vinA,prep.,9,anuyogi,10
+4,eva,eva,prep.,8,sambanxah,3
+5,SikzAgrahaRasamApteH,tad,g. sg. f.,13,prawiyogi,6
+6,anantaram,antara,acc. sg. m.,15,anuyogi,8 ####### acc_acc_anuyogi #######
+7,svasya,sva,g. sg. m.,18,rartisambanxah,8
+8,Sizyatrayam,traya,acc. sg. n.,21,karma,11
+9,gfham,gfha,acc. sg. n.,23,karmasamanaxikaranam,10
+10,gantum,gantu,acc. sg. m.,25,prayojanam,11
+11,anvamanyata,man,impft. ps. sg. 3,40,,
+
+0,paRqitam,paRqita,acc. sg. m.,0,karma,3
+1,ca,ca,conj.,3,samucciwam,12
+2,sAdaram,sAdara,acc. sg. m.,4,kriyaviseranam,3
+3,praRamya,nam,abs.,7,samucciwam,5
+4,sammAnya,man,ca. abs.,8,samucciwam,5
+5,ca,ca,conj.,9,purvakalah,10
+6,saha,saha,acc. sg. n.,10,anuyogi,7 ####### acc_acc_anuyogi #######
+7,AnItam,tad,acc. sg. m.,13,viseranam,8
+8,DanaDAnyam,DAnya,acc. sg. m.,39,karma,10
+9,taccaraRAravindayoH,aravinda,loc. du. m.,86,axikaranam,10
+10,samarpitavAn,vac,pp.,23,samucciwam,12
+11,tena,tad,i. sg. n.,24,prawiyogi,6
+12,ca,ca,conj.,26,,
+

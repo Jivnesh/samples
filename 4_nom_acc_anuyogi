@@ -1,0 +1,53 @@
+0,anye,anya,nom. pl. m.,0,karwa,1
+1,vicArayanti,car,ca. pr. ac. pl. 3,5,prawiyogi,3
+2,sma,sma,part.,6,sambanxah,1
+3,yat,yad,acc. sg. n.,28,anuyogi,5 ####### nom_acc_anuyogi #######
+4,imAH,dam,nom. pl. m.,9,viseranam,5
+5,gAvaH,go,nom. pl. m.,10,karwa,10
+6,dine,dina,loc. sg. n.,14,axikaranam,10
+7,yezAm,yad,g. pl. m.,16,viseranam,8
+8,SAkaPalavikrayikARAm,vikraya,g. pl. m.,22,rartisambanxah,9
+9,sAmagrIm,sAmagrI,acc. sg. f.,23,karma,10
+10,KAdanti,KAd,pr. [1] ac. pl. 3,24,,
+11,sma,sma,part.,25,sambanxah,10
+
+0,kintu,ca,conj.,0,samucciwam,8
+1,smaraRIyam,kf,pfp. . sg. ,3,prawiyogi,2
+2,yat,yad,acc. sg. n.,16,anuyogi,3 ####### nom_acc_anuyogi #######
+3,cUzakaH,tad,nom. sg. m.,6,karwa,7
+4,punaH,ca,conj.,8,kriyaviseranam,7
+5,jIvitaH,jIvita,pp. . sg. ,9,karwqsamanaxikaranam,7
+6,na,na,conj.,10,sambanxah,7
+7,sTAsyati,zWA,fut. ac. sg. 3,11,samucciwam,8
+8,ca,ca,conj.,12,,
+
+0,ekasmin,eka,loc. sg. m.,0,viseranam,2
+1,dine,dina,loc. sg. n.,4,axikaranam,3
+2,Sayanakakze,kakza,loc. sg. m.,6,axikaranam,3
+3,dfzwam,dfzwa,acc. sg. n.,9,prawiyogi,4
+4,yat,yad,acc. sg. n.,54,anuyogi,5 ####### nom_acc_anuyogi #######
+5,cawakadampatiByAm,pati,nom. du. m.,17,karwa,16
+6,itastataH,tad,abl. pl. n.,77,apaxanam,8
+7,tfRAdikam,Ada,acc. sg. m.,21,karma,8
+8,AnIya,nI,abs.,22,purvakalah,16
+9,upari,upari,loc. sg. n.,24,axikaranam,16
+10,ekasmin,eka,loc. sg. m.,25,viseranam,11
+11,Alaye,Alaya,loc. sg. m.,27,axikaranam,16
+12,nijAvAsayogyam,yogya,acc. sg. m.,37,viseranam,15
+13,ekam,eka,acc. sg. m.,38,viseranam,15
+14,sundaram,sundara,acc. sg. m.,41,viseranam,15
+15,nIqam,nIqa,acc. sg. m.,44,karma,16
+16,nirmitam,mita,pp.,49,,
+
+0,anena,idam,i. sg. m.,1,karanam,1
+1,aBiruzwaH,tad,nom. sg. m.,3,viseranam,2
+2,pitA,tad,nom. sg. m.,4,karwa,4
+3,asmAn,asmad,acc. pl. *,5,karma,4
+4,aBiSaptavAn,tad,nom. sg. m.,6,prawiyogi,5
+5,yat,yad,acc. sg. n.,17,anuyogi,6 ####### nom_acc_anuyogi #######
+6,yUyam,yuzmad,nom. pl. *,8,karwa,10
+7,api,api,conj.,9,sambanxah,6
+8,gfDrAH,gfDra,nom. pl. m.,11,karwqsamanaxikaranam,10
+9,eva,eva,prep.,14,sambanxah,8
+10,Bavata,BU,imp. [1] ac. pl. 2,15,,
+

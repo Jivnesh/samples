@@ -1,0 +1,64 @@
+0,aDirajani,ca,conj.,2,axikaranam,3
+1,tasyAH,tad,g. sg. f.,3,rartisambanxah,2
+2,DAma,DAman,acc. sg. n.,5,karma,3
+3,jagAma,gam,pft. ac. sg. 3,8,prawiyogi,4
+4,iti,iti,conj.,9,anuyogi,5
+5,ruzA,ruz,inst. sg. f.,11,hewuh,6 ####### inst_inst_hewuh #######
+6,priyatamayA,tamA,inst. sg. f.,12,karwa,8
+7,srajA,sraj,inst. sg. f.,14,karanam,8
+8,avanadDaH,nah,pp. . sg. ,16,viseranam,9
+9,yuvA,yuvan,nom. sg. m.,17,karwa,14
+10,padam,pad,acc. sg. n.,20,karma,12
+11,api,api,conj.,21,sambanxah,10
+12,calituM,cal,conj.,23,sambanxah,14
+13,na,na,conj.,24,sambanxah,14
+14,sehe,sah,pft. md. sg. 3,25,,
+
+0,priyatayA,priya,inst. sg. f.,3,hewuh,2 ####### inst_inst_hewuh #######
+1,aGaSaNkiBiH,SaNkin,inst. pl. m.,2,viseranam,2
+2,bAnDavEH,bAnDava,inst. pl. m.,4,karwa,4
+3,tvayi,yuzmad,loc. sg. n.,5,axikaranam,4
+4,gaditAH,gad,pp. . pl. ,7,prawiyogi,5
+5,iti,iti,conj.,24,anuyogi,6
+6,kazwam,kazwa,nom. sg. n.,10,karwa,7
+7,asti,as,pr. ac. sg. 3,12,samucciwam,19
+8,asO,adas,nom. sg. m.,47,karwa,12
+9,virahavedanayA,vedanA,inst. sg. f.,18,hewuh,11
+10,acirAt,acirAt,conj.,21,viseranam,12
+11,asUn,asu,acc. pl. m.,22,karma,12
+12,tyajati,tyaj,pr. ac. sg. 3,23,prawiyogi,13
+13,iti,iti,conj.,8,anuyogi,14
+14,giraH,gir,acc. pl. f.,25,karma,18
+15,saKi,saKI,voc. sg. f.,29,samboxyah,18
+16,avitaTAH,avitaTa,acc. pl. f.,33,viseranam,14
+17,mA,mA,conj.,34,sambanxah,18
+18,vitaTAH,tanu,impft. md. sg. ,37,samucciwam,19
+19,ca,ca,conj.,38,,
+
+0,pramadayA,pramadA,inst. sg. f.,0,karwa,4
+1,kusumaavacicIzayA,tad,inst. sg. f.,3,viseranam,0
+2,rasAt,rasa,abl. sg. m.,4,hewuh,3
+3,samaBisftya,sf,abs.,5,purvakalah,6
+4,avalambitaH,lamb,pp. . sg. ,6,viseranam,6
+5,taTApi,api,conj.,81,sambanxah,4
+6,avinaman,nam,voc. sg. m.,10,bavalakranasapwami_samanakalah,12
+7,vfTAuccakEH,tad,inst. pl. m.,11,viseranam,8
+8,vanapAdapaH,pAdapa,nom. sg. m.,13,karwa,12
+9,anftayA,fta,inst. sg. f.,15,hewuh,10 ####### inst_inst_hewuh #######
+10,nftayA,fta,inst. sg. f.,16,karanam,12
+11,na,na,conj.,17,sambanxah,12
+12,rarAja,rAj,pft. ac. sg. 3,19,,
+
+0,smarasarasam,sarasa,conj.,2,sambanxah,10
+1,patyuH,pati,g. sg. m.,3,rartisambanxah,2
+2,uraHsTalena,uraHsTala,inst. sg. n.,7,hewuh,3 ####### inst_inst_hewuh #######
+3,vinimayasaNkramitANgarAgarAgEH,rAga,inst. pl. m.,8,viseranam,9
+4,atiSayaKedasampadA,sampad,inst. sg. f.,10,prawiyogi,5
+5,iva,iva,conj.,11,anuyogi,6
+6,BfSam,BfSam,conj.,14,viseranam,11
+7,itaraitaram,tara,conj.,15,sambanxah,9
+8,nizaRREH,sad,pp. . pl. ,16,viseranam,9
+9,stanayugalEH,yugala,inst. pl. n.,18,karanam,11
+10,nitambinIBiH,nitambinI,inst. pl. f.,19,karwa,11
+11,atami,tam,impft. ac. sg. 3,20,,
+

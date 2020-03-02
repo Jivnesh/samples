@@ -1,0 +1,77 @@
+0,svarge,svarga,loc. sg. m.,0,axikaranam,4
+1,svaM,sva,acc. sg. m.,6,sambanxah,2 ####### acc_acc_sambanxah #######
+2,svam,sva,acc. sg. m.,9,viseranam,3
+3,aDikAraM,aDikAra,acc. sg. m.,12,karma,4
+4,kartuM,kf,conj.,13,prayojanam,10
+5,devAH,deva,nom. pl. m.,14,samucciwam,7
+6,dAnavAH,dAnava,nom. pl. m.,15,samucciwam,7
+7,ca,ca,conj.,16,karwa,10
+8,saMGarzaM,Garza,acc. sg. m.,17,karma,9
+9,kartuM,kf,conj.,18,prayojanam,10
+10,pravfttAH,vftta,pp. . pl. ,21,,
+
+0,yatra,yatra,loc. sg. n.,0,axikaranam,8
+1,kutaH,kutas,tasil,2,sambanxah,2
+2,kutaH,kutas,tasil,4,sambanxah,9
+3,kiyat,tad,acc. sg. n.,5,sambanxah,4 ####### acc_acc_sambanxah #######
+4,kiyat,tad,acc. sg. n.,6,sambanxah,9
+5,ca,ca,conj.,7,sambanxah,4
+6,tena,tad,nom. sg. m,11,karwa,8
+7,fRam,fRa,acc. sg. m.,12,karma,8
+8,gfhItam,grah,pp.,17,karwa,9
+9,AsIt,as,aor. [5] ac. sg. 3,19,,
+
+0,ante,anta,loc. sg. m.,0,axikaranam,7
+1,DIram,DIra,acc. sg. m.,4,sambanxah,2 ####### acc_acc_sambanxah #######
+2,DIram,DIra,acc. sg. m.,10,sambanxah,4 ####### acc_acc_sambanxah #######
+3,SarIrAt,SarIra,abl. sg. m.,13,apaxanam,7
+4,sarvARi,sarva,acc. pl. n.,15,viseranam,6
+5,eva,eva,prep.,17,sambanxah,4
+6,vastrARi,vastra,acc. pl. n.,18,karma,7
+7,avatArya,tf,ca. abs.,20,purvakalah,12
+8,prakASArTam,arTa,acc. sg. m.,47,waxarwyam,11
+9,tezAm,tad,g. pl. n.,22,rartisambanxah,11
+10,kramaSaH,kramaSas,adv.,24,kriyaviseranam,12
+11,upayogam,upayoga,acc. sg. m.,25,karma,12
+12,kftavAn,kf,ppa.,26,,
+
+0,vfdDA,vfdDa,nom. sg. f.,11,karwa,4
+1,DftANgulIyakahastena,hasta,i. sg. m.,6,karanam,4
+2,vAram,vAra,acc. sg. m.,7,sambanxah,3 ####### acc_acc_sambanxah #######
+3,vAram,vAra,acc. sg. m.,8,sambanxah,4
+4,darSayati,dfS,ca. pr. ac. sg. 3,9,,
+5,sma,sma,part.,10,sambanxah,4
+
+0,KinnamanAH,manas,nom. sg. f.,2,viseranam,1
+1,sA,tad,nom. sg. f.,3,karwa,6
+2,kevalam,kevala,acc. sg. n.,5,sambanxah,3 ####### acc_acc_sambanxah #######
+3,tAm,tad,acc. sg. f.,7,karma,6
+4,idam,dam,acc. sg. n.,8,karmasamanaxikaranam,6
+5,eva,eva,prep.,9,sambanxah,4
+6,kaTitavatI,kaT,ppa.,12,,
+
+0,SrIkfzRaH,kfzRa,nom. sg. m.,1,karwa,14
+1,mandam,manda,acc. sg. m.,5,sambanxah,2 ####### acc_acc_sambanxah #######
+2,mandam,manda,acc. sg. m.,2,sambanxah,3
+3,smayamAnaH,mAna,nom. sg. m.,66,karwqsamanaxikaranam,14
+4,svakIyam,svakIya,acc. sg. m.,9,viseranam,5
+5,kAryam,kArya,acc. sg. n.,18,karma,6
+6,kartum,kf,inf.,21,prayojanam,14
+7,yaTA,yaTA,conj.,23,sambanxah,10
+8,eva,eva,prep.,25,sambanxah,7
+9,pravfttaH,vftta,nom. sg. m.,24,prawiyogi,7
+10,taTA,taTA,adv.,26,anuyogi,14
+11,eva,eva,prep.,22,sambanxah,10
+12,girinirJarataH,tva,abl. sg. n,28,apaxanam,14
+13,jalavahanam,vahana,acc. sg. m.,30,karma,14
+14,prArabDam,vac,pp.,35,,
+15,iti,iti,part.,36,sambanxah,14
+
+0,candraDaraH,DarA,nom. sg. m.,15,karwa,6
+1,cOrARAm,tad,g. pl. m.,2,rartisambanxah,2
+2,vacane,vacana,loc. sg. m.,3,axikaranam,6
+3,vAram,vAra,acc. sg. m.,9,sambanxah,4 ####### acc_acc_sambanxah #######
+4,vAram,vAra,acc. sg. m.,10,sambanxah,6
+5,mananam,manana,acc. sg. m.,11,karma,6
+6,kftavAn,kf,ppa.,14,,
+

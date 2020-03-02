@@ -1,0 +1,42 @@
+0,vahati,vah,loc. sg. m.,0,viseranam,1
+1,jale,jala,loc. sg. m.,1,axikaranam,0 ####### loc_loc_axikaranam #######
+2,kaTam,kaTam,adv.,7,kriyaviseranam,0
+3,mfttikayA,mfttikA,i. sg. f.,8,karanam,0
+4,setubanDaH,banDa,nom. sg. m.,10,karwa,0
+
+0,asArARAM,asAra,g. pl. m.,2,rartisambanxah,1
+1,nidarSanaM,nidarSana,nom. sg. n.,5,viseranam,2
+2,bahutfRaM,tfRa,nom. sg. n.,8,karwa,3
+3,Bavati,BU,pr. ac. sg. 3,9,samucciwam,12
+4,laGuH,laGu,nom. sg. m.,10,viseranam,5
+5,naraH,nara,nom. sg. m.,12,karwa,10
+6,alpe,alpa,loc. sg. m.,14,viseranam,7
+7,api,api,conj.,20,sambanxah,5
+8,paravAyO,vAyu,loc. sg. m.,25,axikaranam,9 ####### loc_loc_axikaranam #######
+9,upeyuzi,devI,loc. sg. f.,27,axikaranam,10
+10,svayaM,svayam,conj.,29,viseranam,11
+11,praRamate,nam,pr. md. sg. 3,31,samucciwam,12
+12,ca,ca,conj.,32,,
+
+0,tamasA,tamas,inst. sg. n.,2,prawiyogi,1
+1,iva,iva,conj.,3,anuyogi,3
+2,prARaBftAM,prARaBft,g. pl. m.,4,rartisambanxah,3
+3,gaRena,gaRa,inst. sg. m.,5,upapaxasambanxah,4
+4,pUrvaM,pUrvam,conj.,8,sambanxah,10
+5,nirantarAle,ala,loc. sg. m.,76,viseranam,7
+6,api,api,conj.,10,sambanxah,5
+7,paTi,rAjan,loc. sg. m.,12,axikaranam,10 ####### loc_loc_axikaranam #######
+8,samprati,samprati,conj.,13,axikaranam,10
+9,dUraM,dUra,acc. sg. m.,14,karma,10
+10,vimucyamAne,muc,loc. sg. m.,20,bavalakranasapwami_samanakalah,16
+11,tejomahadBiH,tad,inst. pl. m.,22,viseranam,13
+12,dvipEH,dvipa,inst. pl. m.,23,karwa,16
+13,dIpEH,dIpa,inst. pl. m.,24,prawiyogi,14
+14,iva,iva,conj.,25,anuyogi,12
+15,asambADam,tad,nom. sg. n.,26,karma,16
+16,ayAmbaBUve,I,pft. md. sg. 3,27,,
+
+0,SatrUn,Satru,acc. pl. m.,0,karma,2
+1,Sirassu,Siras,loc. pl. n.,1,axikaranam,2 ####### loc_loc_axikaranam #######
+2,praharati,rAjan,loc. sg. m.,2,,
+

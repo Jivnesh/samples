@@ -1,0 +1,326 @@
+0,apitu,tu,conj.,2,sambanxah,1
+1,caRqikArUpaDaraH,Dara,nom. sg. m.,23,viseranam,4
+2,eva,eva,prep.,5,sambanxah,1
+3,kaScana,kim,nom. sg. m.,6,viseranam,4
+4,DUrtaH,DUrta,nom. sg. m.,8,karwa,5
+5,asti,as,pr. [2] ac. sg. 3,9,prawiyogi,6
+6,iti,iti,part.,10,anuyogi,7
+7,niScitya,kf,abs.,11,purvakalah,14
+8,tAm,tad,acc. sg. f.,12,karma,10
+9,balAt,bala,abl. sg. n.,13,apaxanam,10
+10,nigfhya,grah,abs.,15,purvakalah,14
+11,tasyAH,tad,g. sg. f.,16,rartisambanxah,12
+12,durgatim,tad,acc. sg. f.,18,karma,13
+13,kartum,kf,inf.,19,prayojanam,14 ####### IV_IV_prayojanam #######
+14,pravfttaH,vftta,pp.,20,,
+
+0,tataH,tad,loc. sg. n.,0,axikaranam,7
+1,AtmAnam,Atman,acc. sg. *,1,karma,5
+2,eva,eva,prep.,3,sambanxah,1
+3,saH,tad,nom. sg. m.,4,karwa,5
+4,gfDrAya,gfDra,dat. sg. m.,5,sampraxanam,5
+5,dAtum,dA,inf.,9,prayojanam,7 ####### IV_IV_prayojanam #######
+6,yadA,yadA,loc. sg. n.,10,axikaranam,7
+7,pravfttaH,vft,pp.,11,samucciwam,17
+8,tadA,tadA,loc. sg. n.,13,axikaranam,13
+9,aham,asmad,nom. sg. *,12,karwa,13
+10,jIvitavyakteH,vyakti,g. sg. m.,27,rartisambanxah,11
+11,mAMsam,mAMsa,acc. sg. n.,17,karma,13
+12,na,na,part.,19,sambanxah,13
+13,BakzAmi,Bakz,pr. [1] ac. sg. 1,20,prawiyogi,14
+14,iti,iti,part.,21,anuyogi,15
+15,gfDraH,gfDra,nom. sg. m.,22,karwa,16
+16,akaTayat,kaT,impft. [10] ac. sg. 3,23,samucciwam,17
+17,ca,ca,conj.,24,,
+
+0,sA,tad,nom. sg. f.,0,viseranam,1
+1,veSyA,veSyA,nom. du. m.,6,karwa,8
+2,api,api,conj.,7,sambanxah,1
+3,rAjaprasAdam,prasAda,acc. sg. m.,10,karma,4
+4,prAptum,Ap,inf.,11,prayojanam,8 ####### IV_IV_prayojanam #######
+5,tat,tad,acc. sg. n.,12,viseranam,6
+6,Palam,Pala,acc. sg. n.,14,karma,8
+7,rAjYe,rAjan,dat. sg. m.,16,sampraxanam,8
+8,samarpitavatI,vac,pp.,19,,
+
+0,bAlagaNgADaram,aDara,acc. sg. m.,31,sambanxah,3
+1,api,api,conj.,5,sambanxah,0
+2,hastO,hasta,acc. du. m.,7,sambanxah,3
+3,prasArayitum,sf,ca. inf.,9,prayojanam,6 ####### IV_IV_prayojanam #######
+4,SikzakaH,Sikzaka,nom. sg. m.,10,karwa,6
+5,satarjanam,tarjana,adv.,13,kriyaviseranam,6
+6,AdizwavAn,Adizwa,pp.,14,,
+
+0,ekAm,eka,acc. sg. f.,0,viseranam,1
+1,bfhatIm,bfhatI,acc. sg. f.,1,viseranam,2
+2,DanapewikAm,pewaka,acc. sg. f.,3,karma,3
+3,ca,ca,conj.,4,sambanxah,6
+4,tezAm,tad,g. pl. n.,5,rartisambanxah,5
+5,AvAse,AvAsa,loc. sg. m.,7,axikaranam,10
+6,prApayitum,Ap,ca. inf.,8,prayojanam,10 ####### IV_IV_prayojanam #######
+7,svakIyam,svakIya,acc. sg. m.,10,viseranam,9
+8,ekam,eka,acc. sg. m.,13,viseranam,9
+9,karmacAriRam,cArin,acc. sg. m.,17,karma,10
+10,prezitavAn,vac,pp.,18,,
+
+0,tfzAvyAkulaH,vyAkula,nom. sg. m.,1,viseranam,1
+1,saH,tad,nom. sg. m.,2,karwa,6
+2,yadA,yadu,loc. sg. m.,3,axikaranam,6
+3,uccEH,ucca,i. pl. m.,4,sambanxah,4
+4,uccEH,ucca,i. pl. m.,6,sambanxah,5
+5,kranditum,krand,inf.,8,prayojanam,6 ####### IV_IV_prayojanam #######
+6,pravfttaH,vftta,pp.,9,samucciwam,14
+7,tadA,tadA,loc. sg. m.,10,axikaranam,13
+8,sampUrRaH,pUrRa,nom. sg. n.,11,viseranam,11
+9,eva,eva,prep.,12,sambanxah,8
+10,prakozWasTaH,sTa,nom. sg. m.,14,viseranam,11
+11,janaH,jana,nom. sg. n.,17,karwa,13
+12,asuviDAm,tad,acc. sg. f.,19,karma,13
+13,anvaBavat,BU,impft. [1] ac. sg. 3,35,samucciwam,14
+14,ca,ca,conj.,21,,
+
+0,cikitsakaH,cikitsaka,nom. sg. m.,0,karwa,5
+1,tam,tad,acc. sg. m.,1,karma,5
+2,mfgamAMsanirmitam,mita,acc. sg. n.,4,viseranam,3
+3,OzaDam,OzaDa,acc. sg. n.,8,karma,4
+4,sevitum,sev,inf.,10,prayojanam,5 ####### IV_IV_prayojanam #######
+5,parAmfzwavAn,gam,pp.,11,,
+
+0,aham,asmad,nom. sg. *,0,karwa,7
+1,cikitsAlaye,Alaya,loc. sg. m.,31,axikaranam,2
+2,upacArArTam,arTa,acc. sg. m.,18,prayojanam,3
+3,pravizwam,tad,acc. sg. n.,6,viseranam,5
+4,svasya,sva,g. sg. m.,7,rartisambanxah,5
+5,sambanDinam,sambanDin,acc. sg. m.,9,karma,7
+6,drazwum,dfS,inf.,10,prayojanam,7 ####### IV_IV_prayojanam #######
+7,gatavAn,gam,ppa.,11,,
+
+0,tasya,tad,g. sg. n.,1,rartisambanxah,1
+1,uttamatAm,uttama,acc. sg. f.,0,karma,2
+2,vicArya,car,ca. abs.,3,purvakalah,8
+3,rAjAnam,rAjan,acc. sg. m.,4,karma,4
+4,prasAdayitum,prasAda,inf.,19,prayojanam,8 ####### IV_IV_prayojanam #######
+5,DanikaH,Danika,nom. sg. m.,6,karwa,8
+6,rAjYe,rAjan,dat. sg. m.,7,sampraxanam,8
+7,tatPalam,Pala,acc. sg. n.,9,karma,8
+8,samarpitavAn,vac,pp.,11,,
+
+0,ekadine,dina,loc. sg. n.,3,axikaranam,5
+1,prativeSigrAme,grAma,loc. sg. m.,5,axikaranam,3
+2,cOryam,tad,acc. sg. n.,7,karma,3
+3,kartum,kf,inf.,8,prayojanam,5 ####### IV_IV_prayojanam #######
+4,saH,tad,nom. sg. m.,9,karwa,5
+5,prasTitaH,sTA,pp.,10,,
+
+0,SrIkfzRaH,kfzRa,nom. sg. m.,1,karwa,14
+1,mandam,manda,acc. sg. m.,5,sambanxah,2
+2,mandam,manda,acc. sg. m.,2,sambanxah,3
+3,smayamAnaH,mAna,nom. sg. m.,66,karwqsamanaxikaranam,14
+4,svakIyam,svakIya,acc. sg. m.,9,viseranam,5
+5,kAryam,kArya,acc. sg. n.,18,karma,6
+6,kartum,kf,inf.,21,prayojanam,14 ####### IV_IV_prayojanam #######
+7,yaTA,yaTA,conj.,23,sambanxah,10
+8,eva,eva,prep.,25,sambanxah,7
+9,pravfttaH,vftta,nom. sg. m.,24,prawiyogi,7
+10,taTA,taTA,adv.,26,anuyogi,14
+11,eva,eva,prep.,22,sambanxah,10
+12,girinirJarataH,tva,abl. sg. n,28,apaxanam,14
+13,jalavahanam,vahana,acc. sg. m.,30,karma,14
+14,prArabDam,vac,pp.,35,,
+15,iti,iti,part.,36,sambanxah,14
+
+0,anena,idam,i. sg. n.,0,hewuh,1
+1,ruzwaH,tad,nom. sg. m.,2,viseranam,2
+2,prativeSI,tad,nom. sg. m.,4,karwa,9
+3,mAm,asmad,acc. sg. *,5,karma,4
+4,upAgatya,gam,abs.,6,purvakalah,9
+5,mAm,asmad,acc. sg. *,7,sambanxah,7
+6,mUlyam,mUlya,acc. sg. m.,8,sambanxah,7
+7,dAtum,dA,inf.,13,prayojanam,9 ####### IV_IV_prayojanam #######
+8,bADyam,bAD,acc. sg. n.,19,karma,9
+9,kftavAn,kf,ppa.,20,,
+
+0,kintu,ca,adv.,0,sambanxah,5
+1,gamanalAlasAvaSIBUtAH,BU,nom. du. m.,75,viseranam,2
+2,te,tad,nom. du. n.,9,karwa,6
+3,gurvAjYayA,AjYA,i. sg. f.,16,karanam,6
+4,gfham,gfha,acc. sg. n.,17,karma,5
+5,gantum,gam,inf.,39,prayojanam,6 ####### IV_IV_prayojanam #######
+6,prasTitAH,sTita,pp.,22,,
+
+0,saBADyakzaH,aDyakza,nom. sg. m.,26,karwa,4
+1,sampAdakam,sampAdaka,acc. sg. n.,4,karma,3
+2,kim,kim,acc. sg. n.,6,karma,3
+3,kartum,kf,inf.,8,prayojanam,4 ####### IV_IV_prayojanam #######
+4,AdizwavAn,Adizwa,pp.,9,,
+
+0,ekaH,eka,nom. sg. m.,0,viseranam,1
+1,kumBakAraH,kumBakAra,nom. sg. m.,1,karwa,7
+2,svaputram,putra,acc. sg. m.,3,viseranam,3
+3,SyAmam,SyAma,acc. sg. m.,4,karma,7
+4,mfttikAm,mfttikA,acc. sg. f.,7,karma,5
+5,Anetum,nI,inf.,8,prayojanam,7 ####### IV_IV_prayojanam #######
+6,vane,vana,loc. sg. n.,11,axikaranam,7
+7,prezitavAn,vac,pp.,12,,
+
+0,prAptasamAcAraH,samAcAra,nom. sg. m.,1,viseranam,1
+1,tatpatiH,pati,nom. sg. m.,3,karwa,5
+2,tAm,tad,acc. sg. f.,4,karma,4
+3,svagfhe,gfha,loc. sg. n.,8,axikaranam,5
+4,Anetum,nI,inf.,9,prayojanam,5 ####### IV_IV_prayojanam #######
+5,upasTitaH,vac,pp.,10,,
+
+0,kintu,ca,adv.,0,sambanxah,14
+1,kadAcit,cit,loc. sg. m.,2,axikaranam,6
+2,pramAdena,pramAda,i. sg. m.,3,hewuh,6
+3,tat,tad,nom. sg. n.,5,karwa,6
+4,asmin,idam,loc. sg. n.,6,axikaranam,6
+5,AyAtam,yAta,nom. sg. n.,52,karwqsamanaxikaranam,6
+6,syAt,ca,adv.,9,prawiyogi,7
+7,iti,iti,part.,10,anuyogi,8
+8,vicArya,car,ca. abs.,11,purvakalah,14
+9,sA,tad,nom. sg. f.,12,karwa,14
+10,sadyaH,sadyas,loc. sg. m.,13,axikaranam,14
+11,eva,eva,prep.,14,sambanxah,10
+12,parAvartayitum,vft,ca. inf.,54,prayojanam,14 ####### IV_IV_prayojanam #######
+13,putrIm,putra,acc. sg. f.,16,karma,14
+14,prezitavatI,vac,pp.,19,,
+
+0,dvO,tad,nom. du. m.,1,viseranam,1
+1,suhfdO,suhfd,nom. du. m.,3,karwa,6
+2,vAdiprativAdirUpe,rUpa,nom. du. n.,10,karwqsamanaxikaranam,6
+3,nyAyam,nyAya,acc. sg. m.,12,karma,4
+4,prAptum,Ap,inf.,13,prayojanam,6 ####### IV_IV_prayojanam #######
+5,nyAyADISasamakze,samakza,loc. sg. m.,16,axikaranam,8
+6,upasTitO,sTita,pp.,22,samucciwam,8
+7,kaTitavantO,vac,pp.,24,samucciwam,8
+8,ca,ca,conj.,25,,
+
+0,tadA,tadA,loc. sg. m.,0,axikaranam,9
+1,dvayoH,tad,g. du. n.,6,rartisambanxah,2
+2,vivAdam,vivAda,acc. sg. m.,7,karma,3
+3,SrutvA,Sru,abs.,8,purvakalah,9
+4,mahArAjaH,rAjan,nom. pl. m.,11,karwa,9
+5,dvArapAlam,pAla,acc. sg. m.,13,karma,9
+6,tam,tad,acc. sg. m.,14,viseranam,7
+7,janam,jana,acc. sg. m.,15,karma,8
+8,upasTApayitum,sTA,ca. inf.,18,prayojanam,9 ####### IV_IV_prayojanam #######
+9,AdizwavAn,Adizwa,pp.,19,,
+
+0,pitrA,pitf,nom. sg. m.,0,karwa,17
+1,tu,tu,conj.,1,sambanxah,0
+2,AtmahatyA,tad,nom. pl. f.,6,karwa,5
+3,mahAn,mahant,nom. sg. m.,7,viseranam,4
+4,aparADaH,aparADa,nom. sg. m.,8,karwqsamanaxikaranam,5
+5,asti,as,pr. [2] ac. sg. 3,9,prawiyogi,6
+6,iti,iti,part.,10,anuyogi,7
+7,sandiSya,diS,abs.,11,purvakalah,17
+8,prAyaScittarUpe,rUpa,loc. sg. n.,16,axikaranam,17
+9,patnyA,patnI,i. sg. f.,17,prawiyogi,10
+10,saha,saha,prep.,19,anuyogi,16
+11,SvaSurAlaye,Alaya,loc. sg. m.,61,axikaranam,15
+12,kAnicit,kim,acc. pl. n.,22,viseranam,13
+13,varzARi,varza,acc. pl. n.,25,karma,15
+14,pravAsam,pravAsa,acc. sg. m.,27,karma,15
+15,kartum,kf,inf.,28,prayojanam,17 ####### IV_IV_prayojanam #######
+16,saH,tad,acc. sg. m.,29,karma,17
+17,nirdizwaH,dizwa,pp.,30,,
+
+0,aham,asmad,nom. sg. *,0,karwa,12
+1,sUtasya,sUta,g. sg. m.,27,viseranam,2
+2,aDiraTasya,tad,g. sg. m.,3,rartisambanxah,3
+3,putraH,putra,nom. sg. m.,4,viseranam,4
+4,karRaH,karRa,nom. sg. m.,5,karwqsamanaxikaranam,12
+5,gaNgAyAH,gaNgA,g. sg. f.,6,rartisambanxah,7
+6,pavitre,pavitra,loc. sg. n.,10,viseranam,7
+7,tIre,tIra,loc. sg. n.,17,axikaranam,12
+8,astam,asta,acc. sg. n.,18,karma,9
+9,yAntam,yA,acc. sg. m.,22,viseranam,10
+10,sUryam,sUrya,acc. sg. m.,23,karma,11
+11,arcayitum,fc,ca. inf.,24,prayojanam,12 ####### IV_IV_prayojanam #######
+12,upavizwaH,vac,pp.,25,,
+
+0,ekalavyaH,ekalavya,nom. sg. m.,1,karwa,4
+1,DanurvidyAm,vidyA,acc. sg. f.,3,karma,2
+2,Sikzitum,Sikz,inf.,4,prayojanam,4 ####### IV_IV_prayojanam #######
+3,kutra,kutra,loc. sg. m.,6,axikaranam,4
+4,gatavAn,gam,ppa.,7,,
+
+0,katicanadineByaH,dina,abl. pl. n.,3,apaxanam,6
+1,kzuDitam,kzuD,acc. sg. m.,7,viseranam,2
+2,tam,tad,acc. sg. m.,8,karma,6
+3,svIyam,svIya,acc. sg. m.,9,viseranam,5
+4,yaTecCam,icCA,acc. sg. m.,26,viseranam,5
+5,AhAram,AhAra,acc. sg. m.,13,karma,6
+6,nirdezwum,diS,inf.,16,prayojanam,8 ####### IV_IV_prayojanam #######
+7,saH,tad,nom. sg. m.,17,karwa,8
+8,kaTitavAn,kf,ppa.,18,,
+
+0,mahArAjaH,rAjan,voc. sg. m.,2,samboxyah,7
+1,idam,idam,acc. sg. n.,24,karma,6
+2,tu,tu,conj.,4,sambanxah,1
+3,BavatA,BU,nom. sg. n.,5,karwa,7
+4,pUrvam,pUrva,loc. sg. m.,6,axikaranam,6
+5,eva,eva,prep.,9,sambanxah,4
+6,kaTayitum,kaT,inf.,10,prayojanam,7 ####### IV_IV_prayojanam #######
+7,Sakyate,Sakya,pfp. [1],11,,
+8,sma,sma,part.,12,sambanxah,7
+
+0,svakAryam,kf,acc. sg. n.,0,karma,2
+1,samyak,samyak,adv.,1,kriyaviseranam,2
+2,nirvoQum,vah,inf.,2,prayojanam,6 ####### IV_IV_prayojanam #######
+3,aSaktaH,Sak,nom. sg. m.,4,viseranam,4
+4,praDAnamantrI,hutavaha,nom. sg. m.,6,karwa,6
+5,rAjAnam,raja,nom. sg. m.,8,karma,6
+6,niveditavAn,gam,ca. pp.,7,,
+
+0,tasya,tad,g. sg. m.,2,rartisambanxah,2
+1,imam,idam,acc. sg. m.,0,viseranam,2
+2,haWam,haWa,acc. sg. m.,3,karma,3
+3,tyAjayitum,tyaj,ca. inf.,4,prayojanam,17 ####### IV_IV_prayojanam #######
+4,indraH,indra,nom. sg. m.,5,karwa,17
+5,vfdDaH,vfdDa,nom. sg. m.,6,viseranam,6
+6,brAhmaRaH,brAhmaRa,nom. sg. m.,7,karwqsamanaxikaranam,7
+7,BUtvA,BU,abs.,8,purvakalah,17
+8,yavakrItasya,tad,g. sg. m.,11,rartisambanxah,9
+9,pArSve,pArSva,loc. sg. n.,14,axikaranam,13
+10,eva,eva,prep.,16,sambanxah,9
+11,yatra,yatra,loc. sg. n.,17,axikaranam,13
+12,gaNgA,gaNgA,nom. pl. f.,19,karwa,13
+13,vahati,vahati,ppr. [1] ac.,22,samucciwam,19
+14,sma,sma,part.,23,sambanxah,15
+15,tatra,tatra,adv.,24,kriyaviseranam,18
+16,tawe,tawa,loc. sg. m.,25,axikaranam,18
+17,Agatya,gam,abs.,27,purvakalah,18
+18,upavizwaH,vac,pp.,26,samucciwam,19
+19,ca,ca,conj.,28,,
+
+0,uccEH,ucca,i. pl. m.,0,sambanxah,1
+1,uccEH,ucca,i. pl. m.,2,sambanxah,2
+2,ca,ca,conj.,4,sambanxah,5
+3,tasmE,tad,dat. sg. n.,5,sampraxanam,5
+4,bahugAlikAH,alika,acc. pl. f.,24,karma,5
+5,dAtum,dA,inf.,14,prayojanam,6 ####### IV_IV_prayojanam #######
+6,pravfttaH,vftta,pp.,15,,
+
+0,SaNKaH,SaNKa,nom. sg. m.,0,karwa,9
+1,tam,tad,acc. sg. m.,1,karma,9
+2,yaTAviDi,yaTA,adv.,7,kriyaviseranam,9
+3,nadyAm,nadI,loc. sg. f.,8,axikaranam,7
+4,devAn,deva,acc. pl. m.,9,samucciwam,6
+5,pitFn,pitf,acc. pl. m.,10,samucciwam,6
+6,ca,ca,conj.,11,karma,8
+7,snAtvA,snA,abs.,12,purvakalah,9
+8,tarpayitum,tfp,ca. inf.,13,prayojanam,9 ####### IV_IV_prayojanam #######
+9,AjYAptavAn,Ap,pp.,15,,
+
+0,hiraRyaDanuzaH,Danus,g. sg. m.,5,viseranam,1
+1,BillarAjasya,rAjan,g. sg. m.,8,rartisambanxah,2
+2,putraH,putra,nom. sg. m.,10,viseranam,3
+3,ekalavyaH,ekalavya,nom. sg. m.,12,karwa,8
+4,DanurvidyAm,vidyA,acc. sg. f.,14,karma,5
+5,Sikzitum,Sikz,inf.,15,prayojanam,8 ####### IV_IV_prayojanam #######
+6,AcAryam,AcArya,acc. sg. n.,22,viseranam,7
+7,gurudroRam,droRa,acc. sg. m.,24,karma,8
+8,upAgataH,gam,pp.,25,,
+

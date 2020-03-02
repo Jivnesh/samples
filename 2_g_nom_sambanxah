@@ -1,0 +1,20 @@
+0,nAradaH,nArada,nom. sg. m.,0,viseranam,1
+1,vizRuH,vizRu,nom. sg. m.,1,sambanxah,2 ####### g_nom_sambanxah #######
+2,nAradasya,nArada,g. sg. m.,2,rartisambanxah,3
+3,mahAtamAH,putra,nom. pl. m.,5,,
+4,iyam,idam,prep.,6,sambanxah,3
+
+0,vAsudevena,vAsudeva,inst. sg. m.,1,karwa,4
+1,adInam,adIna,nom. sg. n.,5,viseranam,2
+2,anAdInavaM,nava,nom. sg. n.,14,karma,4
+3,yat,yad,nom. sg. n.,41,sambanxah,5 ####### g_nom_sambanxah #######
+4,IritaM,Ir,nom. sg. n.,18,samucciwam,12
+5,tasya,tad,g. sg. n.,19,viseranam,6
+6,vacasaH,vacas,g. sg. n.,21,rartisambanxah,8
+7,sapadi,sapadi,conj.,23,sambanxah,8
+8,kriyA,kriyA,nom. sg. f.,24,karwa,11
+9,kevalam,kevala,nom. sg. n.,27,viseranam,10
+10,uttaram,uttara,nom. sg. n.,33,karwqsamanaxikaranam,11
+11,asti,as,pr. ac. sg. 3,34,samucciwam,12
+12,ca,ca,conj.,35,,
+

@@ -1,0 +1,68 @@
+0,hare,hara,voc. sg. m.,5,samboxyah,15
+1,janaH,jana,nom. sg. m.,8,karwa,9
+2,mfgARAm,mfga,g. pl. m.,10,prawiyogi,3
+3,iva,iva,conj.,11,anuyogi,4 ####### g_Ind_anuyogi #######
+4,kaMsAdimahIBftAM,mahIBft,g. pl. m.,16,rartisambanxah,5
+5,vaDAt,vaDa,abl. sg. m.,17,hewuh,6
+6,yat,yat,conj.,19,sambanxah,9
+7,tava,yuzmad,g. sg. n.,20,rartisambanxah,8
+8,stavaM,stava,acc. sg. m.,21,karma,9
+9,karoti,kf,pr. ac. sg. 3,22,samucciwam,16
+10,sA,tad,nom. sg. f.,23,viseranam,11
+11,stutikriyA,kriyA,nom. sg. f.,114,karwa,15
+12,hiraRyAkzapuraHsarAsuradvipadizaH,iza,g. sg. m.,34,rartisambanxah,14
+13,pratyuta,pratyuta,conj.,35,sambanxah,15
+14,tiraskriyA,tiraskriyA,nom. sg. f.,36,karwa,15
+15,Bavati,BU,pr. ac. sg. 3,37,samucciwam,16
+16,ca,ca,conj.,38,,
+
+0,tava,yuzmad,g. sg. n.,0,rartisambanxah,1
+1,suraBiRi,suraBi,loc. sg. m.,1,viseranam,4
+2,Svasite,Svas,pp. . sg. ,7,viseranam,4
+3,navasuDAmaDure,maDura,loc. sg. m.,8,viseranam,4
+4,aDare,aDara,loc. sg. m.,15,axikaranam,7
+5,ca,ca,conj.,19,sambanxah,7
+6,tfzaM,tad,acc. sg. m.,21,karma,7
+7,daDataH,DA,nom. sg. n.,22,bavalakranasapwami_samanakalah,18
+8,aleH,ali,g. sg. m.,23,rartisambanxah,12
+9,mama,asmad,g. sg. n.,28,prawiyogi,10
+10,iva,iva,conj.,29,anuyogi,8 ####### g_Ind_anuyogi #######
+11,amU,adas,nom. du. m.,31,viseranam,13
+12,sOmanasO,manas,nom. du. m.,37,viseranam,13
+13,ganDarasO,rasa,nom. du. m.,39,karwa,18
+14,manasaH,manas,g. sg. n.,40,rartisambanxah,15
+15,mude,mud,dat. sg. f.,50,prayojanam,18
+16,na,na,conj.,54,sambanxah,15
+17,alam,alam,conj.,55,sambanxah,18
+18,BavataH,BU,pr. ac. du. 3,56,,
+
+0,tasmin,tad,loc. sg. m.,1,viseranam,1
+1,suramunO,muni,loc. sg. m.,4,prawiyogi,2
+2,iti,iti,conj.,30,anuyogi,3
+3,vAcaM,vAc,acc. sg. f.,7,karma,4
+4,vyAhftya,hf,abs.,8,purvakalah,28
+5,naBaH,naBas,acc. sg. n.,9,karma,6
+6,utpatite,Alaya,loc. sg. m.,17,purvakalah,28
+7,puraH,puras,conj.,19,sambanxah,10
+8,indoH,indu,g. sg. m.,20,upapaxasambanxah,7
+9,SriyaM,SrI,acc. sg. f.,22,karma,10
+10,biBrati,Bf,loc. sg. n.,24,bavalakranasapwami_samanakalah,28
+11,aTa,aTa,conj.,23,sambanxah,14
+12,om,api,conj.,2,prawiyogi,13
+13,iti,iti,conj.,6,anuyogi,14 ####### g_Ind_anuyogi #######
+14,uktavataH,tad,g. sg. m.,29,rartisambanxah,15
+15,cEdyaM,cEdya,acc. sg. m.,32,upapaxasambanxah,16
+16,prati,prati,conj.,33,sambanxah,28
+17,krudDasya,kruD,g. sg. m.,35,viseranam,18
+18,SArNgiRaH,SArNgin,g. sg. m.,36,rartisambanxah,19
+19,vadane,vadana,loc. sg. n.,39,axikaranam,28
+20,vyomni,vyoman,loc. sg. n.,40,prawiyogi,21
+21,iva,iva,conj.,41,anuyogi,19
+22,aniSaM,aniSa,conj.,44,kriyaviseranam,28
+23,SatrURAM,Satru,g. pl. m.,45,rartisambanxah,24
+24,vinASapiSunaH,piSuna,nom. sg. m.,47,viseranam,25
+25,ketuH,ketu,nom. sg. m.,48,karwa,28
+26,BrakuwicCalena,Cala,inst. sg. n.,51,karanam,27
+27,AspadaM,Aspada,acc. sg. n.,49,karma,28
+28,cakAra,vac,pft. ac. sg. 3,55,,
+

@@ -1,0 +1,24 @@
+0,bAhlije,rAjan,loc. sg. m.,0,viseranam,1
+1,aSve,aSva,loc. sg. m.,1,karwa,3
+2,praRatamUrDani,mUrDan,loc. sg. m.,4,viseranam,1
+3,vyAjiGrati,GrA,loc. sg. m.,5,purvakalah,11
+4,nAsAvirokapavanaullasitaM,tad,nom. sg. n.,8,viseranam,6
+5,tanIyaH,tanIyas,nom. sg. n.,9,viseranam,6
+6,rajaH,rajas,nom. sg. n.,11,karwa,11
+7,tasya,tad,g. sg. m.,15,rartisambanxah,8
+8,aNgasaNgamasuKaanuBavautsukAyAH,utsuka,abl. sg. f.,13,viseranam,9 ####### g_abl_viseranam #######
+9,pfTivyAH,pfTivI,g. sg. f.,16,rartisambanxah,10
+10,romAYcitAM,aYcita,acc. sg. f.,40,karma,11
+11,jagAma,gam,pft. ac. sg. 3,21,,
+12,iva,iva,conj.,22,sambanxah,11
+
+0,yuvakaH,yuvan,nom. sg. n.,1,karwa,8
+1,tat,tad,acc. sg. n.,3,viseranam,2
+2,Palam,Pala,acc. sg. n.,5,karma,8
+3,pUrvavat,pUrva,acc. sg. n.,8,kriyaviseranam,8
+4,eva,eva,prep.,9,sambanxah,3
+5,ekasyAH,eka,abl. sg. f.,11,viseranam,6 ####### g_abl_viseranam #######
+6,veSyAyAH,tad,g. sg. f.,15,rartisambanxah,7
+7,haste,hasta,loc. sg. m.,16,axikaranam,8
+8,vikrItavAn,vikrIta,pp.,17,,
+

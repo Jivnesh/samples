@@ -1,0 +1,71 @@
+0,devena,deva,i. sg. m.,0,karwa,1 ####### IV_inst_karwa #######
+1,pratisidDe,sidDa,abs.,7,purvakalah,6
+2,vasantotsave,utsava,acc. du. f.,54,karma,1
+3,tvam,yuzmad,nom. sg. *,9,karwa,6
+4,AmrakalikABaNgam,BaNga,acc. sg. m.,12,karma,6
+5,kimarTam,arTa,dat. sg. m.,16,prayojanam,6
+6,AraBase,as,pr. [1] md. sg. 2,17,,
+
+0,tena,tad,i. sg. n.,0,karwa,5 ####### IV_inst_karwa #######
+1,svam,sva,nom. sg. n.,4,viseranam,3
+2,sampUrRam,pUrRa,acc. sg. n.,5,viseranam,3
+3,yOvanam,vana,acc. sg. n.,18,karma,5
+4,kutra,kutra,loc. sg. n.,10,axikaranam,5
+5,yApitam,yA,ca. pp.,13,,
+
+0,samudraH,samudra,nom. sg. m.,1,karma,3
+1,tu,tu,conj.,2,sambanxah,0
+2,agastyena,agasti,i. sg. m.,3,karwa,3 ####### IV_inst_karwa #######
+3,pItaH,pA,pp.,4,,
+
+0,puraskAraloBena,loBa,i. sg. n.,12,hewuh,6
+1,rAjyasya,rAjya,g. sg. n.,4,rartisambanxah,4
+2,anyABiH,anya,i. pl. f.,6,viseranam,4
+3,api,api,conj.,7,sambanxah,2
+4,mahilABiH,mahilA,i. pl. f.,9,karwa,6 ####### IV_inst_karwa #######
+5,cezwA,cezwa,nom. sg. f.,10,karma,6
+6,kftA,kfta,pp.,11,,
+
+0,SrUyate,Sru,pr. ps. sg. 3,0,prawiyogi,1
+1,yat,yad,acc. sg. n.,23,anuyogi,4
+2,kenacit,kim,i. sg. m.,3,viseranam,4
+3,tu,tu,conj.,5,sambanxah,2
+4,jIvAnurAgiRA,anurAgin,i. sg. m.,59,karwa,10 ####### IV_inst_karwa #######
+5,nyAyAlaye,Alaya,loc. sg. m.,47,axikaranam,10
+6,etasmin,etad,loc. sg. m.,13,viseranam,7
+7,sambanDe,sambanDa,loc. sg. m.,14,axikaranam,10
+8,yAcikA,yAcaka,acc. pl. f.,15,karma,10
+9,api,api,conj.,17,sambanxah,8
+10,prastutA,stuta,pp.,21,,
+11,iti,iti,part.,22,sambanxah,10
+
+0,banDaH,banDa,voc. sg. m.,0,samboxyah,4
+1,mayA,asmad,nom. sg. *,1,karwa,4
+2,tat,tad,acc. sg. n.,2,karma,4
+3,eva,eva,prep.,4,sambanxah,4
+4,Acaritam,car,acc. sg. n.,7,prawiyogi,5
+5,yat,yad,acc. sg. n.,21,anuyogi,7
+6,ekena,eka,i. sg. n.,10,viseranam,7
+7,prativeSinA,tad,i. sg. n.,12,karwa,11 ####### IV_inst_karwa #######
+8,anyena,anya,i. sg. m.,13,viseranam,9
+9,prativeSinA,tad,i. sg. n.,16,prawiyogi,10
+10,saha,saha,prep.,17,anuyogi,7
+11,AcaraRIyam,car,pfp. [2],20,,
+
+0,punaH,punar,loc. sg. n.,1,axikaranam,4
+1,mahendreRa,indra,i. sg. m.,62,karwa,4 ####### IV_inst_karwa #######
+2,hasanasya,hasana,g. sg. m.,3,karwa,3
+3,kAraRe,kAraRa,acc. du. n.,5,karma,4
+4,pfzwe,pfzwa,pp.,21,purvakalah,9
+5,saH,tad,nom. sg. m.,22,karwa,9
+6,ekam,eka,acc. sg. m.,23,viseranam,7
+7,bfhatpipIlakadalam,kadala,acc. sg. m.,35,karma,8
+8,darSayan,dfS,nom. sg. m.,36,karwqsamanaxikaranam,9
+9,kaTitavAn,kf,ppa.,37,,
+
+0,kOtsaH,tad,nom. sg. m.,0,karma,4
+1,anena,idam,i. sg. n.,1,karwa,4 ####### IV_inst_karwa #######
+2,na,na,part.,5,sambanxah,4
+3,eva,eva,prep.,6,sambanxah,2
+4,santuzwaH,tuz,pp.,7,,
+

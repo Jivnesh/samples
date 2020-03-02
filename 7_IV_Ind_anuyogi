@@ -1,0 +1,94 @@
+0,kukkuramuKe,muKa,loc. sg. n.,27,axikaranam,3
+1,taTA,taTA,prep.,4,viseranam,2
+2,kalAlAGavam,lAGava,acc. sg. n.,6,karma,3
+3,vIkzya,Ikz,abs.,8,purvakalah,11
+4,pARqavAH,pARqava,nom. pl. m.,9,karwa,11
+5,vismitAH,smita,acc. pl. f.,10,prawiyogi,6
+6,iva,iva,part.,13,anuyogi,11 ####### IV_Ind_anuyogi #######
+7,tam,tad,acc. sg. m.,14,viseranam,8
+8,kalAkAram,tad,acc. sg. m.,15,karma,9
+9,anvizyantaH,tad,nom. pl. m.,16,karwqsamanaxikaranam,11
+10,ekalavyam,ekalavya,acc. sg. n.,20,karma,11
+11,prAptAH,Apta,pp.,23,,
+
+0,ataH,atas,adv.,0,hewuh,2
+1,kzamAm,kzamA,acc. sg. f.,1,karma,2
+2,yAce,yAc,pr. [1] md. sg. 1,3,prawiyogi,3
+3,iti,iti,part.,4,anuyogi,4 ####### IV_Ind_anuyogi #######
+4,uktvA,vac,abs.,5,purvakalah,5
+5,paNkticintane,cintana,loc. sg. n.,9,axikaranam,7
+6,tatparaH,para,nom. sg. m.,13,karwqsamanaxikaranam,7
+7,aBavat,BU,impft. [1] ac. sg. 3,14,,
+8,saH,tad,nom. sg. m.,15,karwa,7
+9,iti,iti,part.,16,sambanxah,7
+
+0,apitu,tu,conj.,2,sambanxah,1
+1,caRqikArUpaDaraH,Dara,nom. sg. m.,23,viseranam,4
+2,eva,eva,prep.,5,sambanxah,1
+3,kaScana,kim,nom. sg. m.,6,viseranam,4
+4,DUrtaH,DUrta,nom. sg. m.,8,karwa,5
+5,asti,as,pr. [2] ac. sg. 3,9,prawiyogi,6
+6,iti,iti,part.,10,anuyogi,7 ####### IV_Ind_anuyogi #######
+7,niScitya,kf,abs.,11,purvakalah,14
+8,tAm,tad,acc. sg. f.,12,karma,10
+9,balAt,bala,abl. sg. n.,13,apaxanam,10
+10,nigfhya,grah,abs.,15,purvakalah,14
+11,tasyAH,tad,g. sg. f.,16,rartisambanxah,12
+12,durgatim,tad,acc. sg. f.,18,karma,13
+13,kartum,kf,inf.,19,prayojanam,14
+14,pravfttaH,vftta,pp.,20,,
+
+0,kintu,ca,adv.,0,sambanxah,14
+1,kadAcit,cit,loc. sg. m.,2,axikaranam,6
+2,pramAdena,pramAda,i. sg. m.,3,hewuh,6
+3,tat,tad,nom. sg. n.,5,karwa,6
+4,asmin,idam,loc. sg. n.,6,axikaranam,6
+5,AyAtam,yAta,nom. sg. n.,52,karwqsamanaxikaranam,6
+6,syAt,ca,adv.,9,prawiyogi,7
+7,iti,iti,part.,10,anuyogi,8 ####### IV_Ind_anuyogi #######
+8,vicArya,car,ca. abs.,11,purvakalah,14
+9,sA,tad,nom. sg. f.,12,karwa,14
+10,sadyaH,sadyas,loc. sg. m.,13,axikaranam,14
+11,eva,eva,prep.,14,sambanxah,10
+12,parAvartayitum,vft,ca. inf.,54,prayojanam,14
+13,putrIm,putra,acc. sg. f.,16,karma,14
+14,prezitavatI,vac,pp.,19,,
+
+0,ataH,atas,acc. sg. n,0,hewuh,3
+1,miTyA,miTyA,adv.,18,kriyaviseranam,3
+2,miTyA,etad,nom. sg. m.,4,viseranam,3
+3,dehABimAnaH,aBimAna,nom. sg. m.,50,prawiyogi,4
+4,iti,iti,part.,7,anuyogi,5 ####### IV_Ind_anuyogi #######
+5,cintayan,prahas,ppr. [10] ac.,8,bavalakranasapwami_samanakalah,9
+6,vivekAnandaH,Ananda,nom. sg. m.,28,karwa,9
+7,gahanam,gahana,acc. sg. m.,11,viseranam,8
+8,kAntAram,kAntAra,acc. sg. m.,14,karma,9
+9,prAviSat,viS,impft. [6] ac. sg. 3,17,,
+
+0,pitrA,pitf,nom. sg. m.,0,karwa,17
+1,tu,tu,conj.,1,sambanxah,0
+2,AtmahatyA,tad,nom. pl. f.,6,karwa,5
+3,mahAn,mahant,nom. sg. m.,7,viseranam,4
+4,aparADaH,aparADa,nom. sg. m.,8,karwqsamanaxikaranam,5
+5,asti,as,pr. [2] ac. sg. 3,9,prawiyogi,6
+6,iti,iti,part.,10,anuyogi,7 ####### IV_Ind_anuyogi #######
+7,sandiSya,diS,abs.,11,purvakalah,17
+8,prAyaScittarUpe,rUpa,loc. sg. n.,16,axikaranam,17
+9,patnyA,patnI,i. sg. f.,17,prawiyogi,10
+10,saha,saha,prep.,19,anuyogi,16
+11,SvaSurAlaye,Alaya,loc. sg. m.,61,axikaranam,15
+12,kAnicit,kim,acc. pl. n.,22,viseranam,13
+13,varzARi,varza,acc. pl. n.,25,karma,15
+14,pravAsam,pravAsa,acc. sg. m.,27,karma,15
+15,kartum,kf,inf.,28,prayojanam,17
+16,saH,tad,acc. sg. m.,29,karma,17
+17,nirdizwaH,dizwa,pp.,30,,
+
+0,mAm,asmad,acc. sg. *,0,karma,3
+1,ca,ca,conj.,1,sambanxah,3
+2,taTAviDAm,viDA,acc. sg. f.,3,karmasamanaxikaranam,3
+3,dfzwvA,dfS,abs.,4,purvakalah,4
+4,stabDA,stabDa,acc. pl. f.,5,prawiyogi,5
+5,iva,iva,part.,8,anuyogi,6 ####### IV_Ind_anuyogi #######
+6,saYjAtA,jAta,pp.,9,,
+

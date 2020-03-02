@@ -1,0 +1,37 @@
+0,aTa,aTa,conj.,0,sambanxah,11
+1,aciradyuteH,dyuti,g. sg. f.,1,rartisambanxah,2
+2,BayAt,Baya,abl. sg. n.,3,hewuh,4
+3,kila,kila,conj.,5,sambanxah,2
+4,BavanAt,BU,nom. sg. n.,6,apaxanam,5
+5,apayAtum,yA,conj.,7,prayojanam,6 ####### nom_Ind_prayojanam #######
+6,anicCavaH,anicCu,nom. pl. f.,10,viseranam,8
+7,manmaTamanTaraBAziRaH,tad,nom. pl. f.,16,viseranam,8
+8,taruRIgaRAH,gaRa,nom. pl. f.,17,karwa,11
+9,taM,tad,acc. sg. m.,18,viseranam,10
+10,yadunarendragaRam,gaRa,acc. sg. m.,19,karma,11
+11,aramayan,Ric,impft . ac. pl. 3,20,,
+
+0,amunA,adas,inst. sg. m.,1,upapaxasambanxah,1
+1,samaM,samam,conj.,4,sambanxah,3
+2,saraH,saras,acc. sg. n.,5,karma,3
+3,avagAQuM,gAh,conj.,8,prayojanam,5 ####### nom_Ind_prayojanam #######
+4,na,na,conj.,9,sambanxah,5
+5,icCantI,iz,nom. sg. n.,12,viseranam,11
+6,saKIBiH,saKI,inst. pl. f.,13,karwa,10
+7,roDastaH,roDas,conj.,15,apaxanam,10
+8,jalaM,jala,acc. sg. n.,17,upapaxasambanxah,9
+9,prati,prati,conj.,19,sambanxah,10
+10,IritA,Ir,pp. . sg. ,22,viseranam,11
+11,navoQA,navoQA,nom. sg. f.,24,karwa,14
+12,BayacakitaIkzaRaM,IkzaRa,nom. sg. n.,26,viseranam,13
+13,voQAram,vah,nom. sg. n.,27,karma,14
+14,ASliSyat,Sliz,impft . ac. sg. 3,28,samucciwam,22
+15,yataH,yat,conj.,29,viseranam,16
+16,kAraRAt,kAraRa,abl. sg. n.,30,hewuh,17
+17,vipadi,vipad,loc. sg. f.,31,axikaranam,21
+18,atiBUmiH,BUmi,nom. sg. f.,60,karwqsamanaxikaranam,21
+19,na,na,conj.,33,sambanxah,21
+20,dUzitA,tad,nom. sg. f.,36,karwa,21
+21,Bavati,BU,pr. ac. sg. 3,37,samucciwam,22
+22,ca,ca,conj.,38,,
+

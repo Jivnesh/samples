@@ -1,0 +1,39 @@
+0,tata,tata,voc. sg. m.,6,samboxyah,1 ####### acc_voc_samboxyah #######
+1,alam,alam,acc. sg. n.,1,karma,4
+2,anayA,idam,i. sg. f.,2,viseranam,3
+3,kaTayA,kaTA,i. sg. f.,3,hewuh,1
+4,asti,as,pr. [2] ac. sg. 3,4,,
+
+0,banDaH,banDa,voc. sg. m.,0,samboxyah,4 ####### acc_voc_samboxyah #######
+1,mayA,asmad,nom. sg. *,1,karwa,4
+2,tat,tad,acc. sg. n.,2,karma,4
+3,eva,eva,prep.,4,sambanxah,4
+4,Acaritam,car,acc. sg. n.,7,prawiyogi,5
+5,yat,yad,acc. sg. n.,21,anuyogi,7
+6,ekena,eka,i. sg. n.,10,viseranam,7
+7,prativeSinA,tad,i. sg. n.,12,karwa,11
+8,anyena,anya,i. sg. m.,13,viseranam,9
+9,prativeSinA,tad,i. sg. n.,16,prawiyogi,10
+10,saha,saha,prep.,17,anuyogi,7
+11,AcaraRIyam,car,pfp. [2],20,,
+
+0,alpAt,alpa,abl. sg. m.,0,viseranam,1
+1,kAlAt,kAla,abl. sg. m.,3,upapaxasambanxah,2
+2,paScAt,paSca,loc. sg. m.,5,axikaranam,5
+3,saH,tad,nom. sg. m.,7,viseranam,4
+4,nfpaH,nfpa,nom. sg. m.,8,karwa,5
+5,avadat,vad,impft. [1] ac. sg. 3,9,,
+6,he,he,ind.,10,sambanxah,17
+7,rAja-puruza,puruza,voc. sg. m.,11,samboxyah,17 ####### acc_voc_samboxyah #######
+8,asinA,as,i. sg. m.,12,karanam,12
+9,SiSum,SiSu,acc. sg. m.,13,karma,12
+10,dvayoH,suBaga,loc. du. f.,19,viseranam,11
+11,KaRqayoH,KaRqa,loc. du. f.,24,axikaranam,17
+12,ekam,eka,acc. sg. m.,26,purvakalah,17
+13,ekam,eka,acc. du. f.,31,viseranam,15
+14,KaRqam,KaRqa,acc. du. f.,34,viseranam,15
+15,nArIByAm,nAra,acc. du. f.,37,karma,17
+16,yacCa,yam,imp. [1] ac. sg. 2,38,sampraxanam,17
+17,yat,yad,acc. sg. n.,64,karma,5
+18,kftvA,kf,abs.,40,sambanxah,5
+

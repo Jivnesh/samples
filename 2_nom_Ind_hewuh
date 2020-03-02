@@ -1,0 +1,26 @@
+0,nataBruvA,BrU,inst. sg. f.,2,karwa,3
+1,AnABeH,nABi,abl. sg. f.,0,sambanxah,3
+2,sarasi,saras,loc. sg. n.,3,axikaranam,3
+3,avagAQe,gAh,pp. . sg. ,9,bavalakranasapwami_samanakalah,11
+4,sati,as,nom. sg. n.,11,sambanxah,3
+5,aTa,aTa,conj.,12,sambanxah,11
+6,payasaH,payas,g. sg. n.,13,rartisambanxah,7
+7,cApalyAt,cApalya,abl. sg. n.,15,hewuh,8
+8,taraNgahastEH,hasta,inst. pl. m.,16,karwa,11
+9,ucCrAyi,ucCrAyin,nom. sg. n.,17,viseranam,10
+10,stanayugam,yuga,nom. sg. n.,19,karma,11
+11,aDyarohi,ruh,impft. ac. sg. 3,21,samucciwam,17
+12,aTavA,aTavA,conj.,23,sambanxah,16
+13,labDasparSAnAm,sparSa,g. pl. m.,24,rartisambanxah,14
+14,kutaH,kutas,conj.,26,hewuh,15 ####### nom_Ind_hewuh #######
+15,vyavasTA,vyavasTA,nom. sg. f.,70,karwa,16
+16,Bavati,BU,pr. ac. sg. 3,29,samucciwam,17
+17,ca,ca,conj.,30,,
+
+0,ataH,atas,conj.,0,hewuh,1 ####### nom_Ind_hewuh #######
+1,svAmI,svAmin,nom. sg. m.,1,karwa,5
+2,prajYotsAhO,utsAha,acc. du. m.,20,karma,4
+3,Atmani,Atman,loc. sg. m.,5,axikaranam,4
+4,ADAtuM,DA,inf.,6,prayojanam,5
+5,yateta,yat,pfp. md. sg. 3,7,,
+

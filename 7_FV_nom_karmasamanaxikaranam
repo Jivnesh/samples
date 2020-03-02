@@ -1,0 +1,115 @@
+0,iti,iti,conj.,0,sambanxah,1
+1,vicintayan,tad,nom. sg. m.,1,bavalakranasapwami_samanakalah,10
+2,saH,tad,nom. sg. m.,2,karwa,10
+3,ekadA,ekadA,conj.,3,axikaranam,10
+4,tO,tad,acc. du. m.,4,viseranam,5
+5,vfzaBO,vfzaBa,acc. du. m.,6,karma,10
+6,SfMgAByAm,SfNga,inst. du. n.,10,karanam,9
+7,parasparam,paraspara,nom. sg. n.,13,kriyaviseranam,9
+8,snehena,sneha,inst. sg. m.,14,kriyaviseranam,9
+9,krIqantO,tad,nom. du. m.,47,karmasamanaxikaranam,10 ####### FV_nom_karmasamanaxikaranam #######
+10,apaSyat,dfS,impft . ac. sg. 3,17,,
+
+0,ajasram,ajasram,conj.,3,kriyaviseranam,7
+1,AsPAlitavallakIguRakzataujjvalaaNguzWanaKaaMSuBinnayA,zazwi,inst. sg. f.,4,viseranam,5
+2,pravAlEH,pravAla,inst. pl. n.,6,prawiyogi,3
+3,iva,iva,conj.,7,anuyogi,4
+4,pUritaarDayA,arDa,inst. sg. f.,8,viseranam,5
+5,acCasPawikaakzamAlayA,mAlA,inst. sg. f.,10,karanam,7
+6,puraH,pur,conj.,12,kriyaviseranam,7
+7,viBAntam,BA,acc. sg. m.,16,samucciwam,13
+8,amuM,adas,acc. sg. m.,17,karma,12
+9,nAradaH,nArada,nom. sg. m.,18,karmasamanaxikaranam,12 ####### FV_nom_karmasamanaxikaranam #######
+10,iti,iti,conj.,19,sambanxah,9
+11,saH,tad,nom. sg. m.,20,karwa,12
+12,aboDi,buD,impft. md. sg. 3,21,samucciwam,13
+13,ca,ca,conj.,22,,
+
+0,naBasvataH,tad,g. sg. m.,0,hewuh,1
+1,pfTak,pfTak,conj.,2,sambanxah,3
+2,AGawwanayA,tad,inst. sg. f.,1,viseranam,3
+3,raRadBiH,raR,inst. pl. m.,4,viseranam,5
+4,viBinnaSrutimaRqalEH,maRqala,inst. pl. n.,6,viseranam,5
+5,svarEH,svara,inst. pl. m.,7,karanam,10
+6,sPuwIBavadgrAmaviSezamUrcCanAM,tad,acc. sg. f.,8,viseranam,7
+7,mahatIM,mahatI,acc. sg. f.,9,karma,9
+8,muhuH,muhur,conj.,11,sambanxah,9
+9,muhuH,muhur,conj.,10,kriyaviseranam,10
+10,avekzamARam,Ikz,acc. sg. m.,14,viseranam,11
+11,amuM,adas,acc. sg. m.,15,karma,15
+12,nAradaH,nArada,nom. sg. m.,16,karmasamanaxikaranam,15 ####### FV_nom_karmasamanaxikaranam #######
+13,iti,iti,conj.,17,sambanxah,12
+14,saH,tad,nom. sg. m.,18,karwa,15
+15,aboDi,buD,impft. md. sg. 3,19,,
+
+0,tvam,yuzmad,nom. sg. n.,0,karwa,6
+1,atiBAraBaNgurAm,BaNgurA,acc. sg. f.,2,viseranam,2
+2,amUM,adas,acc. sg. f.,3,viseranam,3
+3,DaritrIM,DaritrI,acc. sg. f.,4,karma,7
+4,laGUkarizyan,kf,nom. sg. m.,10,bavalakranasapwami_samanakalah,7
+5,kila,kila,conj.,11,sambanxah,7
+6,tridivAt,tridiva,abl. sg. n.,13,apaxanam,7
+7,avAtaraH,Acakz,impft . ac. sg. 2,14,samucciwam,14
+8,sAmpratam,sAmprata,conj.,17,sambanxah,3
+9,udUQalokatritayena,tritaya,inst. sg. n.,21,karanam,13
+10,tvayA,yuzmad,inst. sg. n.,22,karwa,13
+11,DaritrI,DaritrI,nom. sg. f.,23,karma,13
+12,guruH,guru,nom. sg. m.,24,karmasamanaxikaranam,13 ####### FV_nom_karmasamanaxikaranam #######
+13,kriyatetarAm,kf,pr. md. sg. 3,26,samucciwam,14
+14,ca,ca,conj.,27,,
+
+0,saH,tad,nom. sg. m.,0,viseranam,1
+1,viBuH,viBu,nom. sg. m.,1,karwa,5
+2,purA,purA,conj.,3,axikaranam,5
+3,tvizAM,tviz,g. pl. f.,5,rartisambanxah,4
+4,cayaH,caya,nom. sg. m.,6,karwqsamanaxikaranam,5
+5,asti,as,pr. ac. sg. 3,7,prawiyogi,6
+6,iti,iti,conj.,8,anuyogi,7
+7,avaDAritaM,Df,nom. sg. n.,11,samucciwam,25
+8,tataH,tad,conj.,12,hewuh,9
+9,viBAvitAkftiM,Akfti,acc. sg. f.,114,karma,11
+10,SarIrI,SarIrin,nom. sg. m.,15,karwa,11
+11,asti,as,pr. ac. sg. 3,16,prawiyogi,12
+12,iti,iti,conj.,17,anuyogi,13
+13,avaDAritaM,Df,nom. sg. n.,20,samucciwam,25
+14,viBaktAvayavaM,avayava,acc. sg. m.,118,karma,16
+15,pumAn,puMs,nom. sg. m.,23,karwa,16
+16,asti,as,pr. ac. sg. 3,24,prawiyogi,17
+17,iti,iti,conj.,25,anuyogi,18
+18,avaDAritaM,Df,nom. sg. n.,28,samucciwam,25
+19,amuM,adas,acc. sg. m.,29,karma,24
+20,kramAt,krama,abl. sg. m.,30,viseranam,24
+21,nAradaH,nArada,nom. sg. m.,31,karmasamanaxikaranam,24 ####### FV_nom_karmasamanaxikaranam #######
+22,iti,iti,conj.,32,sambanxah,21
+23,saH,tad,nom. sg. m.,33,karwa,24
+24,aboDi,buD,impft. md. sg. 3,34,samucciwam,25
+25,ca,ca,conj.,35,,
+
+0,upAyajYEH,jYa,inst. pl. m.,2,viseranam,2
+1,tava,yuzmad,g. sg. n.,3,rartisambanxah,2
+2,carEH,cara,inst. pl. m.,5,karwa,8
+3,ekArTAni,ekArTa,nom. pl. n.,6,karma,8
+4,rAjanyakAni,rAjanyaka,nom. pl. n.,7,viseranam,3
+5,ajAtaSAtravIM,vI,acc. sg. f.,8,viseranam,6
+6,purIm,purI,acc. sg. f.,9,karma,7
+7,upeyivAMsi,tad,nom. pl. n.,11,karmasamanaxikaranam,8 ####### FV_nom_karmasamanaxikaranam #######
+8,kartAraH,kf,per.  fut. ac. pl. 3,12,,
+
+0,aTa,aTa,conj.,0,sambanxah,16
+1,samprati,samprati,conj.,1,kriyaviseranam,16
+2,CalanAparaH,tad,nom. sg. m.,2,viseranam,4
+3,ezaH,etad,nom. sg. m.,25,viseranam,4
+4,SElUzaH,SElUza,nom. sg. m.,4,karwa,9
+5,BUmikAm,BUmikA,acc. sg. f.,5,prawiyogi,6
+6,iva,iva,conj.,6,anuyogi,8
+7,aparAm,aparA,acc. sg. f.,8,viseranam,8
+8,upapattim,upapatti,acc. sg. f.,9,karma,9
+9,avApya,Ap,abs.,10,purvakalah,16
+10,SiSupAlasaMjYayA,tad,inst. sg. f.,14,hewuh,11
+11,tirohitAtmA,Atman,nom. sg. m.,84,viseranam,12
+12,saH,tad,nom. sg. m.,16,karma,16
+13,api,api,conj.,17,sambanxah,16
+14,parEH,para,inst. pl. m.,20,karwa,16
+15,asaH,tad,nom. sg. m.,21,karmasamanaxikaranam,16 ####### FV_nom_karmasamanaxikaranam #######
+16,pratIyate,I,pr. md. sg. 3,24,,
+

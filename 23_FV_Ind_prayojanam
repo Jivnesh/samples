@@ -1,0 +1,222 @@
+0,aTa,aTa,conj.,0,sambanxah,7
+1,saH,tad,nom. sg. m.,1,karwa,7
+2,anugiram,gir,conj.,4,axikaranam,7
+3,ftuBiH,ftu,inst. pl. m.,5,karwa,4
+4,vitAyamAnAM,tan,acc. sg. f.,6,viseranam,5
+5,vanaantalakzmIM,lakzmI,acc. sg. f.,7,karma,7
+6,vilokayituM,loka,conj.,8,prayojanam,7 ####### FV_Ind_prayojanam #######
+7,niragamat,gam,impft. ac. sg. 3,9,,
+
+0,saruzA,ruza,inst. sg. f.,3,viseranam,1
+1,yayA,yad,inst. sg. f.,4,karwa,5
+2,priyatamena,priyatama,inst. sg. m.,6,upapaxasambanxah,3
+3,saha,saha,conj.,8,sambanxah,5
+4,na,na,conj.,35,sambanxah,5
+5,sTitaM,sTA,pp. . sg. ,12,samucciwam,20
+6,sA,tad,nom. sg. f.,14,viseranam,9
+7,aNganA,aNganA,nom. sg. f.,13,viseranam,9
+8,sahasA,sahas,inst. sg. m.,29,hewuh,9
+9,kftavepaTuH,vepaTu,nom. sg. f.,18,karwa,19
+10,satI,as,nom. sg. f.,25,viseranam,9
+11,taM,tad,acc. sg. m.,20,karma,15
+12,sahasA,sahasA,nom. sg. f.,24,karwa,15
+13,satI,as,nom. sg. f.,19,viseranam,12
+14,sahasA,sahasA,conj.,17,viseranam,15
+15,pariraBya,kf,abs.,32,purvakalah,19
+16,kzaRaM,ca,conj.,33,viseranam,17
+17,SlaTayituM,ca,conj.,34,prayojanam,19 ####### FV_Ind_prayojanam #######
+18,na,na,conj.,9,sambanxah,19
+19,akzamata,kzam,impft . md. sg. 3,36,samucciwam,20
+20,ca,ca,conj.,37,,
+
+0,tvAm,yuzmad,acc. sg. *.,0,karma,4
+1,punaH,ca,conj.,2,sambanxah,4
+2,mama,asmad,g. sg. *.,3,rartisambanxah,3
+3,bAhupASena,tad,inst. sg. m.,5,karanam,4
+4,prAptum,Ap,conj.,6,prayojanam,7 ####### FV_Ind_prayojanam #######
+5,na,na,conj.,7,sambanxah,7
+6,aham,asmad,nom. sg. *.,8,karwa,7
+7,AgatA,gam,pp. . sg. ,9,,
+
+0,yadi,yadi,conj.,0,samucciwam,7
+1,ahaM,asmad,nom. sg. *.,1,samucciwam,7
+2,tatra,tatra,conj.,2,axikaranam,5
+3,kAYcit,cit,acc. sg. f.,4,viseranam,4
+4,sahAyatAM,sahAya,acc. sg. f.,5,karma,5
+5,kartuM,kf,conj.,6,prayojanam,6 ####### FV_Ind_prayojanam #######
+6,SaknuyAm,Sak,opt. ac. sg. 1,7,samucciwam,7
+7,ca,ca,conj.,8,,
+
+0,iti,iti,conj.,0,sambanxah,23
+1,puzpEH,puzpa,inst. pl. n.,2,karanam,6
+2,eva,eva,conj.,3,sambanxah,1
+3,atiBareRa,Bara,inst. sg. m.,7,hewuh,4
+4,nagAn,naga,acc. pl. m.,8,karma,6
+5,avAcaH,avAc,acc. pl. m.,9,karmasamanaxikaranam,6
+6,kurvantam,kf,nom. sg. n.,14,bavalakranasapwami_samanakalah,23
+7,alinAM,alin,g. pl. m.,15,rartisambanxah,8
+8,gAnavAcaH,vAc,g. sg. f.,18,rartisambanxah,10
+9,na,na,conj.,20,sambanxah,10
+10,virAmaM,virAma,acc. sg. m.,21,karma,11
+11,kurvantaM,kf,nom. sg. n.,22,bavalakranasapwami_samanakalah,23
+12,ca,ca,conj.,23,sambanxah,11
+13,samastam,samasta,acc. sg. m.,26,viseranam,14
+14,ftum,ftu,acc. sg. m.,27,karma,16
+15,anusAnu,sAnu,conj.,31,axikaranam,16
+16,biBrati,Bf,nom. sg. n.,32,purvakalah,23
+17,iha,iha,conj.,33,viseranam,18
+18,girO,giri,loc. sg. m.,36,axikaranam,23
+19,vihartuM,hf,conj.,37,prayojanam,23 ####### FV_Ind_prayojanam #######
+20,SrImAn,SrI,nom. sg. m.,38,viseranam,21
+21,saH,tad,nom. sg. m.,39,karma,23
+22,mayUragirA,gir,inst. sg. f.,41,karwa,23
+23,acodi,cud,impft. md. sg. 3,40,,
+
+0,svarRakAraH,kAra,nom. sg. m.,7,karwa,4
+1,ABUzaRAni,uzaRa,acc. pl. n.,24,karma,2
+2,racayitum,api,conj.,2,prayojanam,4 ####### FV_Ind_prayojanam #######
+3,svarRam,svarRa,acc. sg. n.,3,karma,4
+4,Anayat,nI,impft . ac. sg. 3,5,,
+
+0,tam,tad,acc. sg. m.,0,karma,2
+1,api,api,conj.,1,sambanxah,0
+2,nivArayantI,vAra,nom. sg. f.,5,viseranam,3
+3,paricArikA,paricArikA,nom. sg. f.,6,karwa,5
+4,pratIkzituM,Ikz,conj.,7,prayojanam,5 ####### FV_Ind_prayojanam #######
+5,kaTitavatI,vac,pp. . sg. ,10,,
+
+0,tadA,tadA,conj.,0,axikaranam,4
+1,vfdDA,vfdDA,nom. sg. f.,3,karwa,5
+2,BikzukaM,Bikzuka,acc. sg. m.,4,karma,5
+3,kiM,kim,nom. sg. n.,6,karma,4
+4,kartuM,kf,conj.,7,prayojanam,5 ####### FV_Ind_prayojanam #######
+5,kaTitavatI,vac,pp. . sg. ,10,,
+
+0,svarge,svarga,loc. sg. m.,0,axikaranam,4
+1,svaM,sva,acc. sg. m.,6,sambanxah,2
+2,svam,sva,acc. sg. m.,9,viseranam,3
+3,aDikAraM,aDikAra,acc. sg. m.,12,karma,4
+4,kartuM,kf,conj.,13,prayojanam,10 ####### FV_Ind_prayojanam #######
+5,devAH,deva,nom. pl. m.,14,samucciwam,7
+6,dAnavAH,dAnava,nom. pl. m.,15,samucciwam,7
+7,ca,ca,conj.,16,karwa,10
+8,saMGarzaM,Garza,acc. sg. m.,17,karma,9
+9,kartuM,kf,conj.,18,prayojanam,10 ####### FV_Ind_prayojanam #######
+10,pravfttAH,vftta,pp. . pl. ,21,,
+
+0,tava,yuzmad,g. sg. *.,0,rartisambanxah,2
+1,pAlanam,pAlana,acc. sg. n.,2,samucciwam,3
+2,pozaRam,pozaRa,nom. sg. n.,6,samucciwam,3
+3,api,api,conj.,7,karma,5
+4,samyak,samyak,conj.,9,kriyaviseranam,5
+5,kartum,kf,conj.,10,prayojanam,7 ####### FV_Ind_prayojanam #######
+6,na,na,conj.,11,sambanxah,7
+7,Sakyate,Sak,pr. md. sg. 3,12,,
+
+0,gAmBIryaM,gAmBIrya,acc. sg. n.,1,karma,1
+1,daDat,DA,nom. sg. n.,6,bavalakranasapwami_samanakalah,7
+2,api,api,conj.,7,sambanxah,1
+3,rantum,ram,conj.,9,prayojanam,13 ####### FV_Ind_prayojanam #######
+4,aNganABiH,aNganA,inst. pl. f.,10,karwa,7
+5,jaGanaviGawwanena,viGawwana,inst. sg. n.,11,hewuh,6
+6,saNkzoBaM,tad,acc. sg. m.,12,karma,7
+7,nItaH,nI,pp. . sg. ,13,viseranam,10
+8,vikasitavArijAnanaH,Anana,nom. sg. m.,91,viseranam,10
+9,asO,adas,nom. sg. m.,41,viseranam,10
+10,amBoDiH,amBoDi,nom. sg. m.,21,karwa,13
+11,sapadi,sapadi,conj.,22,viseranam,13
+12,maryAdAM,maryAdA,acc. sg. f.,23,karma,13
+13,vilaNGayAmbaBUva,laNG,impft . ps. sg. 3,27,,
+
+0,tadIyAM,tad,acc. sg. f.,0,viseranam,1
+1,sahizRutAM,tad,acc. sg. f.,11,karma,5
+2,ca,ca,conj.,2,sambanxah,1
+3,bahu,bahu,nom. sg. n.,4,sambanxah,4
+4,bahu,bahu,nom. sg. n.,6,sambanxah,5
+5,kIrtayituM,ca,conj.,7,prayojanam,6 ####### FV_Ind_prayojanam #######
+6,pravfttaH,vftta,pp. . sg. ,8,,
+
+0,SaradaNganA,aNganA,nom. sg. f.,2,karwa,9
+1,anilEH,anila,inst. pl. m.,3,karanam,9
+2,vilulitAM,tad,acc. sg. f.,4,viseranam,4
+3,navasaroruhakeSarasamBavAM,samBava,acc. sg. f.,5,viseranam,4
+4,DUliM,DUli,acc. sg. f.,6,karma,9
+5,parihAsaviDitsayA,viDitsA,inst. sg. f.,9,hewuh,6
+6,harivaDUH,vaDU,acc. sg. f.,12,karma,7
+7,vikaritum,ca,conj.,13,prayojanam,9 ####### FV_Ind_prayojanam #######
+8,iva,iva,conj.,14,sambanxah,9
+9,udakzipat,kzip,impft . ps. sg. 3,15,,
+
+0,ahamahamikayA,tad,inst. sg. f.,0,karanam,3
+1,guroH,guru,g. sg. m.,1,rartisambanxah,2
+2,prARAn,prARa,acc. pl. m.,3,karma,3
+3,rakzitum,rakz,conj.,4,prayojanam,11 ####### FV_Ind_prayojanam #######
+4,sarve,sarva,nom. pl. m.,5,viseranam,6
+5,api,api,conj.,10,sambanxah,4
+6,SizyAH,Sizya,nom. pl. m.,29,karwa,11
+7,tatkAlam,tatkAla,loc. sg. m.,18,axikaranam,11
+8,eva,eva,conj.,19,sambanxah,7
+9,sPowam,sPowa,acc. sg. m.,20,karma,10
+10,cUzitum,cUz,conj.,21,prayojanam,11 ####### FV_Ind_prayojanam #######
+11,pravfttAH,vftta,pp. . pl. ,24,,
+
+0,kiYcit,cit,acc. sg. n.,20,viseranam,1
+1,suBAzitaM,suBAzita,acc. sg. n.,2,karma,3
+2,ca,ca,conj.,4,sambanxah,3
+3,SrAvayituM,Sru,conj.,5,prayojanam,5 ####### FV_Ind_prayojanam #######
+4,taM,tad,acc. sg. m.,6,karma,5
+5,kaTitavAn,vac,pp. . sg. ,7,,
+
+0,tadA,tadA,conj.,0,axikaranam,7
+1,vAlI,vAli,acc. du. m.,1,karwa,7
+2,tArAm,tArA,acc. sg. f.,4,karma,3
+3,anumAnya,mAn,conj.,5,purvakalah,6
+4,sugrIveRa,sugrIva,inst. sg. m.,6,upapaxasambanxah,5
+5,saha,saha,conj.,8,sambanxah,6
+6,yodDuM,yuD,conj.,9,prayojanam,7 ####### FV_Ind_prayojanam #######
+7,samAgataH,gam,pp. . sg. ,10,,
+
+0,patraM,tad,acc. sg. n.,1,karma,2
+1,ca,ca,conj.,2,sambanxah,3
+2,paWituM,paW,conj.,3,prayojanam,3 ####### FV_Ind_prayojanam #######
+3,pravfttaH,vftta,pp. . sg. ,4,,
+
+0,aMsamAtre,mAtra,loc. sg. n.,4,axikaranam,3
+1,payasi,payas,loc. sg. n.,10,axikaranam,3
+2,taddaGnam,tad,acc. sg. m.,14,viseranam,3
+3,tizWantaM,sTA,nom. sg. n.,15,viseranam,4
+4,pumAMsam,puMs,acc. sg. m.,16,karma,5
+5,vIkzya,Ikz,conj.,17,purvakalah,16
+6,AtmanaH,Atman,g. sg. m.,21,rartisambanxah,8
+7,api,api,conj.,23,sambanxah,6
+8,tat,tad,acc. sg. n.,25,karma,9
+9,avayatI,Ric,nom. sg. n.,29,bavalakranasapwami_samanakalah,16
+10,kila,kila,conj.,30,sambanxah,11
+11,sutanuH,sutanu,nom. sg. f.,32,viseranam,13
+12,mOgDyAt,tva,abl. sg. n.,33,hewuh,13
+13,aBIH,aBI,nom. sg. f.,35,karwa,16
+14,satI,as,nom. sg. n.,36,viseranam,13
+15,aByetum,i,conj.,38,prayojanam,16 ####### FV_Ind_prayojanam #######
+16,iyeza,iz,pft. ac. sg. 3,41,,
+
+0,mantrI,mantrin,nom. sg. m.,0,karwa,6
+1,tatkAlaM,tatkAla,loc. sg. m.,5,axikaranam,4
+2,vyADam,vyADa,acc. sg. m.,6,karma,6
+3,mfgAn,mfga,acc. pl. m.,8,karma,4
+4,nigfhya,api,conj.,10,purvakalah,5
+5,Anetum,nI,conj.,7,prayojanam,6 ####### FV_Ind_prayojanam #######
+6,AdiSat,diS,impft . ac. sg. 3,9,,
+
+0,rAjapuruzAH,rAjan,nom. pl. m.,1,karwa,4
+1,tam,tad,acc. sg. m.,2,karma,3
+2,tataH,mahA,conj.,3,apaxanam,3
+3,apasartum,sf,conj.,4,prayojanam,4 ####### FV_Ind_prayojanam #######
+4,AdiSan,diS,impft . ac. pl. 3,5,,
+
+0,idAnIM,idAnIm,conj.,0,axikaranam,5
+1,sA,tad,nom. sg. f.,1,karwa,5
+2,vfkaM,vfka,acc. sg. m.,2,karma,4
+3,latAM,latA,acc. sg. f.,3,karmasamanaxikaranam,4
+4,nigrahItuM,grah,conj.,4,prayojanam,5 ####### FV_Ind_prayojanam #######
+5,kaTitavatI,vac,pp. . sg. ,7,,
+

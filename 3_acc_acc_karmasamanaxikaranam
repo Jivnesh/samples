@@ -1,0 +1,36 @@
+0,ekavAram,vAra,loc. sg. m.,1,axikaranam,10
+1,AcAryaH,AcArya,nom. sg. m.,3,karwa,11
+2,parIkzAgrahaRam,grahaRa,acc. sg. m.,5,prawiyogi,3
+3,vinA,vinA,prep.,9,anuyogi,10
+4,eva,eva,prep.,8,sambanxah,3
+5,SikzAgrahaRasamApteH,tad,g. sg. f.,13,prawiyogi,6
+6,anantaram,antara,acc. sg. m.,15,anuyogi,8
+7,svasya,sva,g. sg. m.,18,rartisambanxah,8
+8,Sizyatrayam,traya,acc. sg. n.,21,karma,11
+9,gfham,gfha,acc. sg. n.,23,karmasamanaxikaranam,10 ####### acc_acc_karmasamanaxikaranam #######
+10,gantum,gantu,acc. sg. m.,25,prayojanam,11
+11,anvamanyata,man,impft. ps. sg. 3,40,,
+
+0,tatra,tatra,loc. sg. n.,0,axikaranam,3
+1,dIpam,dIpa,acc. sg. m.,1,karma,3
+2,prajvalantam,jval,acc. sg. m.,2,karmasamanaxikaranam,1 ####### acc_acc_karmasamanaxikaranam #######
+3,dfzwvA,dfS,abs.,3,purvakalah,8
+4,patnIm,patnI,acc. sg. f.,4,karma,5
+5,Bartsayan,Barts,ppr. [10] ac.,5,samucciwam,7
+6,Akzipan,kzip,ppr. [6] ac. ,6,samucciwam,7
+7,ca,ca,conj.,7,bavalakranasapwami_samanakalah,8
+8,akaTayat,kaT,impft. [10] ac. sg. 3,8,,
+
+0,vfdDA,vfdDa,nom. pl. f.,1,karwa,11
+1,api,api,prep.,4,sambanxah,0
+2,Atmavat,tad,acc. sg. n.,6,kriyaviseranam,6
+3,eva,eva,prep.,7,sambanxah,2
+4,patim,pat,acc. sg. m.,8,karma,6
+5,vfdDam,vfdDa,acc. sg. n.,9,karmasamanaxikaranam,6 ####### acc_acc_karmasamanaxikaranam #######
+6,drazwum,dfS,acc. sg. n.,12,karma,7
+7,icCantI,tad,nom. sg. f.,15,karwqsamanaxikaranam,11
+8,tasya,tad,g. sg. n.,16,viseranam,9
+9,SirasaH,Siras,g. sg. n.,18,rartisambanxah,10
+10,bAlAn,bAla,acc. pl. m.,20,karma,11
+11,uccAwitavatI,aw,pp.,21,,
+

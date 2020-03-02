@@ -1,0 +1,41 @@
+0,Atmavat,tad,nom. sg. n.,1,kriyaviseranam,7
+1,sarvajIveRu,dvija,loc. pl. m.,5,samucciwam,3 ####### Ind_loc_samucciwam #######
+2,vastuzu,vastu,loc. pl. m.,7,samucciwam,3 ####### Ind_loc_samucciwam #######
+3,ca,ca,conj.,8,axikaranam,7
+4,vyavahartA,hf,per. fut. ac. sg. 3,9,viseranam,5
+5,janaH,jana,nom. sg. n.,12,karwa,7
+6,jAtu,jAtu,loc. sg. m.,13,axikaranam,7
+7,tudate,tud,pr. [6] md. sg. 3,14,,
+8,nEva,eva,prep.,32,sambanxah,7
+9,kaYcana,kim,nom. sg. m.,17,viseranam,5
+
+0,BavadIyadarSanaM,darSana,acc. sg. m.,47,karwa,5
+1,SarIraBAjAM,tad,g. pl. m.,4,rartisambanxah,2
+2,kAlatritaye,tritaya,loc. sg. n.,10,axikaranam,5
+3,api,api,conj.,11,sambanxah,2
+4,yogyatAM,yogyatA,acc. sg. f.,13,karma,5
+5,vyanakti,aYj,pr. ac. sg. 3,14,samucciwam,19
+6,BavadIyadarSanaM,dfS,nom. sg. n.,17,karwa,9
+7,samprati,samprati,conj.,18,viseranam,9
+8,aGaM,aGa,acc. sg. n.,20,karma,9
+9,harati,hf,loc. sg. m.,22,samucciwam,19 ####### Ind_loc_samucciwam #######
+10,BavadIyadarSanaM,dfS,nom. sg. n.,25,karwa,14
+11,EzyataH,iR,g. sg. m.,26,viseranam,12
+12,SuBasya,SuBa,g. sg. n.,28,rartisambanxah,13
+13,hetuH,hetu,nom. sg. m.,29,karwqsamanaxikaranam,14
+14,Bavati,BU,pr. ac. sg. 3,30,samucciwam,19
+15,BavadIyadarSanaM,dfS,nom. sg. n.,33,karma,18
+16,pUrvAcaritEH,carita,inst. pl. n.,36,karwa,18
+17,SuBEH,SuBa,inst. pl. n.,38,viseranam,16
+18,kftam,kf,nom. sg. n.,41,samucciwam,19
+19,ca,ca,conj.,42,,
+
+0,svArTinaH,arTin,nom. pl. m.,32,viseranam,1
+1,SAsakAH,SAsaka,nom. pl. m.,4,karwa,7
+2,tasyAH,tad,g. sg. f.,5,rartisambanxah,5
+3,suKe,suKa,loc. sg. m.,7,samucciwam,5 ####### Ind_loc_samucciwam #######
+4,SAntyAm,rAjan,loc. sg. m.,15,samucciwam,5 ####### Ind_loc_samucciwam #######
+5,ca,ca,conj.,16,axikaranam,7
+6,bADakAH,bADaka,nom. pl. m.,17,karwqsamanaxikaranam,7
+7,Bavanti,BU,pr. [1] ac. pl. 3,18,,
+

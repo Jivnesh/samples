@@ -1,0 +1,69 @@
+0,niSSaNkam,SaNkA,adv.,1,kriyaviseranam,1
+1,dIyate,dA,pr. ps. sg. 3,3,karma,3 ####### FV_FV_karma #######
+2,lokEH,loka,i. pl. m.,4,karwa,1
+3,paSya,paS,imp. [4] ac. sg. 2,5,,
+4,Basmacaye,caya,loc. sg. m.,7,axikaranam,1
+5,padam,pada,acc. sg. m.,8,karma,1
+
+0,rAjapuruzaH,puruza,nom. sg. m.,1,karwa,6
+1,SiSum,SiSu,acc. sg. m.,2,karma,6
+2,nfpasya,nfpa,g. sg. m.,3,upapaxasambanxah,3
+3,samakzam,samakza,loc. sg. m.,6,axikaranam,6
+4,BUmO,BUmi,loc. sg. f.,7,axikaranam,6
+5,nikzipya,kzip,abs.,8,purvakalah,6
+6,avadat,vad,impft. [1] ac. sg. 3,9,,
+7,mahArAja,rAja,imp. [1] ac. sg. 2,11,samboxyah,16
+8,dve,dvi,nom. du. f.,15,viseranam,9
+9,nAryO,nAra,nom. du. f.,17,karwa,16
+10,SiSoH,SiSu,g. sg. m.,18,rartisambanxah,11
+11,kAraRena,kAraRa,i. sg. n.,20,hewuh,16
+12,parasparam,paraspara,adv.,23,kriyaviseranam,16
+13,kalaham,kalaha,acc. sg. m.,24,samucciwam,15
+14,vivAdam,vivAda,acc. sg. m.,25,samucciwam,15
+15,ca,ca,conj.,26,karma,16
+16,kurutaH,kf,pr. [8] ac. du. 3,56,karma,6 ####### FV_FV_karma #######
+17,yat,yad,conj.,28,sambanxah,6
+
+0,vAnarAH,vAnara,nom. pl. m.,0,karwa,2
+1,anukArakAH,anukAraka,nom. pl. m.,3,karwqsamanaxikaranam,0
+2,Bavanti,BU,pr. ac. pl. 3,4,karma,5 ####### FV_FV_karma #######
+3,iti,iti,conj.,5,sambanxah,5
+4,saH,tad,nom. sg. m.,6,karwa,5
+5,aboDat,buD,impft . ac. sg. 3,7,,
+
+0,haMsyaH,haMsI,nom. pl. f.,0,karwa,2
+1,alasaM,alasa,acc. sg. m.,1,karma,2
+2,gacCantIH,gam,nom. sg. n.,2,viseranam,4
+3,tAH,tad,acc. pl. f.,3,viseranam,4
+4,tanvIH,tanvI,acc. pl. f.,5,karma,5
+5,avekzya,Ikz,conj.,6,purvakalah,9
+6,vismayinyaH,tad,nom. pl. f.,7,rartisambanxah,7
+7,gatAni,gam,pp. . pl. ,9,karma,9 ####### FV_FV_karma #######
+8,na,na,conj.,10,sambanxah,9
+9,vidaDire,DA,pft. ps. pl. 3,11,samucciwam,22
+10,taTAhi,api,conj.,13,sambanxah,21
+11,apareRa,apara,inst. sg. m.,15,karwa,12
+12,jitaM,ji,pp. . sg. ,18,viseranam,13
+13,svaguRaM,guRa,acc. sg. m.,19,karma,14
+14,budDvA,buD,conj.,20,purvakalah,21
+15,vA,vA,conj.,21,sambanxah,14
+16,kaH,kim,nom. sg. m.,22,viseranam,18
+17,eva,eva,conj.,23,sambanxah,15
+18,apatrapaH,tad,nom. sg. m.,33,karwa,21
+19,san,as,nom. sg. n.,34,viseranam,18
+20,kAmam,kAma,acc. sg. m.,35,karma,21
+21,AvizkurvIta,kf,opt. ps. sg. 3,38,samucciwam,22
+22,ca,ca,conj.,39,,
+
+0,saH,tad,nom. sg. m.,0,karwa,5
+1,taTA,taTA,conj.,1,kriyaviseranam,3
+2,PalaM,Pala,acc. sg. n.,2,viseranam,3
+3,BakzantaM,Bakza,acc. sg. m.,10,viseranam,4
+4,liKitaM,liKita,pp. . sg. ,7,karma,5 ####### FV_FV_karma #######
+5,pfzwavAn,pfzwa,pp. . sg. ,9,,
+
+0,pApAH,tad,nom. pl. f.,2,karwa,3
+1,na,na,conj.,3,sambanxah,3
+2,vacanIyaM,vacanIya,pfp. . sg. ,6,karma,3 ####### FV_FV_karma #######
+3,Ikzante,Ikz,pr. md. pl. 3,7,,
+

@@ -1,0 +1,54 @@
+0,katipayEH,katipaya,inst. pl. m.,5,viseranam,2
+1,eva,eva,conj.,6,sambanxah,0
+2,varREH,varRa,inst. pl. m.,3,karanam,7
+3,katipayEH,katipaya,inst. pl. m.,1,viseranam,5
+4,eva,eva,conj.,2,sambanxah,3
+5,svarEH,svara,inst. pl. m.,7,prawiyogi,6
+6,iva,iva,conj.,14,anuyogi,2
+7,graTitasya,graTita,g. sg. n.,9,viseranam,8
+8,vANmayasya,vANmaya,g. sg. n.,13,rartisambanxah,9
+9,geyasya,geya,g. sg. n.,23,prawiyogi,10 ####### Ind_g_prawiyogi #######
+10,iva,iva,conj.,8,anuyogi,13
+11,vicitratA,vicitratA,nom. sg. f.,16,karwa,13
+12,anantA,anantA,nom. sg. f.,18,viseranam,13
+13,Bavati,BU,pr. ac. sg. 3,19,,
+14,aho,aho,conj.,20,sambanxah,13
+
+0,hare,hara,voc. sg. m.,5,samboxyah,15
+1,janaH,jana,nom. sg. m.,8,karwa,9
+2,mfgARAm,mfga,g. pl. m.,10,prawiyogi,3 ####### Ind_g_prawiyogi #######
+3,iva,iva,conj.,11,anuyogi,4
+4,kaMsAdimahIBftAM,mahIBft,g. pl. m.,16,rartisambanxah,5
+5,vaDAt,vaDa,abl. sg. m.,17,hewuh,6
+6,yat,yat,conj.,19,sambanxah,9
+7,tava,yuzmad,g. sg. n.,20,rartisambanxah,8
+8,stavaM,stava,acc. sg. m.,21,karma,9
+9,karoti,kf,pr. ac. sg. 3,22,samucciwam,16
+10,sA,tad,nom. sg. f.,23,viseranam,11
+11,stutikriyA,kriyA,nom. sg. f.,114,karwa,15
+12,hiraRyAkzapuraHsarAsuradvipadizaH,iza,g. sg. m.,34,rartisambanxah,14
+13,pratyuta,pratyuta,conj.,35,sambanxah,15
+14,tiraskriyA,tiraskriyA,nom. sg. f.,36,karwa,15
+15,Bavati,BU,pr. ac. sg. 3,37,samucciwam,16
+16,ca,ca,conj.,38,,
+
+0,tava,yuzmad,g. sg. n.,0,rartisambanxah,1
+1,suraBiRi,suraBi,loc. sg. m.,1,viseranam,4
+2,Svasite,Svas,pp. . sg. ,7,viseranam,4
+3,navasuDAmaDure,maDura,loc. sg. m.,8,viseranam,4
+4,aDare,aDara,loc. sg. m.,15,axikaranam,7
+5,ca,ca,conj.,19,sambanxah,7
+6,tfzaM,tad,acc. sg. m.,21,karma,7
+7,daDataH,DA,nom. sg. n.,22,bavalakranasapwami_samanakalah,18
+8,aleH,ali,g. sg. m.,23,rartisambanxah,12
+9,mama,asmad,g. sg. n.,28,prawiyogi,10 ####### Ind_g_prawiyogi #######
+10,iva,iva,conj.,29,anuyogi,8
+11,amU,adas,nom. du. m.,31,viseranam,13
+12,sOmanasO,manas,nom. du. m.,37,viseranam,13
+13,ganDarasO,rasa,nom. du. m.,39,karwa,18
+14,manasaH,manas,g. sg. n.,40,rartisambanxah,15
+15,mude,mud,dat. sg. f.,50,prayojanam,18
+16,na,na,conj.,54,sambanxah,15
+17,alam,alam,conj.,55,sambanxah,18
+18,BavataH,BU,pr. ac. du. 3,56,,
+

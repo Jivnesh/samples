@@ -1,0 +1,73 @@
+0,rAmaH,rAma,nom. sg. m.,0,karwa,6
+1,samudravacanAt,vacana,abl. sg. m.,3,hewuh,6
+2,eva,eva,prep.,5,sambanxah,1 ####### abl_Ind_sambanxah #######
+3,ca,ca,conj.,6,,
+4,nalam,nala,acc. sg. m.,7,sambanxah,6
+5,setum,setu,acc. sg. m.,10,sambanxah,6
+6,akArayat,kf,ca. impft. ac. sg. 3,11,samucciwam,3
+7,darSayAmAsa,dfS,ca. imp. ac. pl. 1,12,samucciwam,3
+
+0,sA,tad,nom. sg. f.,0,karwa,3
+1,dUrataH,dUra,abl. sg. n.,1,apaxanam,3
+2,api,api,conj.,2,sambanxah,1 ####### abl_Ind_sambanxah #######
+3,SrUyate,Sru,pr. ps. sg. 3,4,,
+4,sma,sma,part.,5,sambanxah,3
+
+0,tataH,tad,abl. pl. n.,19,apaxanam,3
+1,ca,ca,conj.,1,sambanxah,0 ####### abl_Ind_sambanxah #######
+2,leKanAya,hita,dat. sg. n.,2,sampraxanam,5
+3,prakASABAvaH,BAva,nom. sg. m.,4,karwa,5
+4,kazwam,kazwa,pp.,7,karma,5
+5,dadAti,dA,pr. [3] ac. sg. 3,8,,
+6,sma,sma,part.,9,sambanxah,5
+
+0,aTa,aTa,conj.,0,sambanxah,11
+1,aciradyuteH,dyuti,g. sg. f.,1,rartisambanxah,2
+2,BayAt,Baya,abl. sg. n.,3,hewuh,4
+3,kila,kila,conj.,5,sambanxah,2 ####### abl_Ind_sambanxah #######
+4,BavanAt,BU,nom. sg. n.,6,apaxanam,5
+5,apayAtum,yA,conj.,7,prayojanam,6
+6,anicCavaH,anicCu,nom. pl. f.,10,viseranam,8
+7,manmaTamanTaraBAziRaH,tad,nom. pl. f.,16,viseranam,8
+8,taruRIgaRAH,gaRa,nom. pl. f.,17,karwa,11
+9,taM,tad,acc. sg. m.,18,viseranam,10
+10,yadunarendragaRam,gaRa,acc. sg. m.,19,karma,11
+11,aramayan,Ric,impft . ac. pl. 3,20,,
+
+0,jIvitasya,jIvita,pp. . sg. ,1,rartisambanxah,1
+1,hetoH,hetu,abl. sg. m.,3,hewuh,5
+2,api,api,conj.,4,sambanxah,1 ####### abl_Ind_sambanxah #######
+3,Darmam,Darma,acc. sg. m.,6,karma,5
+4,na,na,conj.,9,sambanxah,5
+5,tyajet,tyaj,opt. ac. sg. 3,10,,
+
+0,mahAkAlaH,mahAkAla,nom. sg. m.,2,karwa,7
+1,na,na,conj.,3,sambanxah,7
+2,kasya,kim,g. sg. m.,5,rartisambanxah,4
+3,api,api,conj.,6,sambanxah,2
+4,mftyO,mftyu,loc. sg. m.,8,axikaranam,7
+5,hetuH,tvad,abl. sg. m.,9,karwqsamanaxikaranam,7
+6,hi,hi,conj.,10,sambanxah,5 ####### abl_Ind_sambanxah #######
+7,jAyate,jan,pr. md. sg. 3,11,,
+
+0,karmavaSAt,vaSa,abl. sg. m.,1,apaxanam,5
+1,eva,eva,prep.,3,sambanxah,0 ####### abl_Ind_sambanxah #######
+2,te,yuzmad,acc. du. n.,10,karwa,5
+3,imAm,idam,acc. sg. f.,11,viseranam,4
+4,yonim,yoni,acc. sg. f.,12,karma,5
+5,prAptavantaH,prApta,pp.,13,,
+
+0,sA,tad,nom. sg. f.,0,karwa,12
+1,pArSvataH,pArSva,abl. sg. n.,1,apaxanam,7
+2,eva,eva,prep.,2,sambanxah,1 ####### abl_Ind_sambanxah #######
+3,ekAm,eka,acc. sg. f.,3,viseranam,6
+4,bfhatIm,bfhatI,acc. sg. f.,4,viseranam,6
+5,sTUlAm,sTUla,acc. sg. f.,5,viseranam,6
+6,latAm,latA,acc. sg. f.,6,karma,7
+7,utpAwya,kf,ca. abs.,7,purvakalah,12
+8,rajjuvat,rajju,acc. sg. n.,9,kriyaviseranam,10
+9,kUpe,kUpa,loc. sg. m.,10,axikaranam,10
+10,lambayitvA,lamb,abs.,12,purvakalah,12
+11,vfkam,vfka,acc. sg. m.,13,karma,12
+12,kaTitavatI,kaT,ppa.,16,,
+

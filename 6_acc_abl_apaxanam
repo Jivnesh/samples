@@ -1,0 +1,57 @@
+0,SItAtapavarzAByaH,varza,abl. pl. f.,13,apaxanam,1 ####### acc_abl_apaxanam #######
+1,surakzArTam,arTa,acc. sg. m.,15,prayojanam,5
+2,Sirasi,Siras,loc. sg. n.,6,axikaranam,5
+3,uktaH,ukta,nom. sg. m.,7,viseranam,4
+4,vetrakawaH,kawa,nom. sg. m.,9,karma,5
+5,DAryate,Df,ca. pr. ps. sg. 3,10,,
+
+0,kaRWe,kaRWa,loc. sg. m.,0,axikaranam,1
+1,pASayojanAt,yojana,abl. sg. m.,2,upapaxasambanxah,2
+2,pUrvam,pUrva,loc. sg. m.,4,axikaranam,6
+3,tataH,tad,abl. pl. n.,22,apaxanam,4 ####### acc_abl_apaxanam #######
+4,antimA,antima,acc. pl. f.,9,viseranam,5
+5,icCA,icCA,acc. pl. f.,11,karma,6
+6,pfzwA,pfzwa,pp.,13,,
+
+0,parantu,tu,conj.,3,sambanxah,7
+1,saH,tad,nom. sg. m.,4,viseranam,2
+2,kOtsaH,tad,nom. sg. m.,5,karwa,7
+3,tataH,tad,abl. pl. n.,21,apaxanam,4 ####### acc_abl_apaxanam #######
+4,apekzitAH,apekz,acc. pl. f.,8,karma,6
+5,eva,eva,prep.,9,sambanxah,4
+6,grahItum,grah,inf.,10,prayojanam,7
+7,icCati,iz,pr. [6] ac. sg. 3,11,,
+8,sma,sma,part.,12,sambanxah,7
+
+0,pApAt,pApa,abl. sg. m.,0,apaxanam,1
+1,viramatu,ram,imp. [1] ac. sg. 3,2,samucciwam,6
+2,nityam,nitya,adv.,5,kriyaviseranam,1
+3,mA,mAs,nom. sg. m.,6,sambanxah,5
+4,aDyayanAt,aDyayana,abl. sg. n.,7,apaxanam,5 ####### acc_abl_apaxanam #######
+5,parAjayatAm,parAjaya,acc. sg. f.,8,samucciwam,6
+6,ca,ca,conj.,9,,
+
+0,SriyaH,SrI,g. sg. f.,2,rartisambanxah,1
+1,patiH,pati,nom. sg. m.,4,viseranam,2
+2,jagannivAsaH,jagannivAsa,nom. sg. m.,6,viseranam,3
+3,hariH,hari,nom. sg. m.,9,karwa,13
+4,jagat,tad,nom. sg. n.,12,karma,5
+5,SAsituM,SAs,inf.,13,prayojanam,8
+6,SrImati,rAjan,loc. sg. m.,15,viseranam,7
+7,vasudevasadmani,sadman,loc. sg. m.,16,axikaranam,8
+8,vasan,vas,nom. sg. m.,17,viseranam,3
+9,ambarAt,ambara,abl. sg. n.,18,apaxanam,10 ####### acc_abl_apaxanam #######
+10,avatarantaM,tad,acc. sg. m.,41,viseranam,11
+11,hiraRyagarBANgaBuvaM,BU,acc. sg. f.,25,viseranam,12
+12,muniM,muni,acc. sg. m.,26,karma,13
+13,dadarSa,dfS,pft. ac. sg. 1,29,,
+
+0,kaPakAsAByAm,kAsa,abl. du. m.,1,apaxanam,1 ####### acc_abl_apaxanam #######
+1,pIqitam,pIqita,acc. sg. m.,9,viseranam,2
+2,tam,tad,acc. sg. m.,10,karma,5
+3,putravaDUH,vaDU,nom. sg. f.,13,karwa,7
+4,aDikam,aDika,adv.,17,kriyaviseranam,5
+5,sevitum,sev,inf.,18,prayojanam,7
+6,SrAntA,Sram,nom. pl. f.,21,karwqsamanaxikaranam,7
+7,ajAyata,jan,impft. [4] md. sg. 3,22,,
+

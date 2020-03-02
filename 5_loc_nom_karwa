@@ -1,0 +1,51 @@
+0,BavadIyadarSanaM,darSana,acc. sg. m.,47,karwa,5
+1,SarIraBAjAM,tad,g. pl. m.,4,rartisambanxah,2
+2,kAlatritaye,tritaya,loc. sg. n.,10,axikaranam,5
+3,api,api,conj.,11,sambanxah,2
+4,yogyatAM,yogyatA,acc. sg. f.,13,karma,5
+5,vyanakti,aYj,pr. ac. sg. 3,14,samucciwam,19
+6,BavadIyadarSanaM,dfS,nom. sg. n.,17,karwa,9 ####### loc_nom_karwa #######
+7,samprati,samprati,conj.,18,viseranam,9
+8,aGaM,aGa,acc. sg. n.,20,karma,9
+9,harati,hf,loc. sg. m.,22,samucciwam,19
+10,BavadIyadarSanaM,dfS,nom. sg. n.,25,karwa,14
+11,EzyataH,iR,g. sg. m.,26,viseranam,12
+12,SuBasya,SuBa,g. sg. n.,28,rartisambanxah,13
+13,hetuH,hetu,nom. sg. m.,29,karwqsamanaxikaranam,14
+14,Bavati,BU,pr. ac. sg. 3,30,samucciwam,19
+15,BavadIyadarSanaM,dfS,nom. sg. n.,33,karma,18
+16,pUrvAcaritEH,carita,inst. pl. n.,36,karwa,18
+17,SuBEH,SuBa,inst. pl. n.,38,viseranam,16
+18,kftam,kf,nom. sg. n.,41,samucciwam,19
+19,ca,ca,conj.,42,,
+
+0,anayA,idam,i. sg. f.,0,viseranam,1
+1,kalayA,kala,i. sg. f.,1,karanam,4
+2,tvayA,tu,nom. sg. n.,4,karwa,3 ####### loc_nom_karwa #######
+3,upari,upari,loc. sg. n.,6,axikaranam,4
+4,carcitAH,carca,acc. pl. f.,9,viseranam,7
+5,samastAH,asta,acc. pl. f.,10,viseranam,7
+6,api,api,conj.,13,sambanxah,5
+7,granTAH,granTa,nom. pl. m.,15,karma,10
+8,BagavatA,Baga,i. sg. m.,17,viseranam,9
+9,vedavyAsena,vyAsa,i. sg. m.,19,karwa,11
+10,viracayya,kf,abs.,20,purvakalah,12
+11,lipibadDAH,diS,acc. pl. f.,24,karmasamanaxikaranam,12
+12,kftAH,kf,pp.,27,,
+
+0,praSaMsA,praSaMsA,nom. sg. f.,0,karwa,1 ####### loc_nom_karwa #######
+1,pragatO,devI,loc. sg. f.,1,axikaranam,3
+2,pUrRavirAmam,virAma,acc. sg. m.,3,karma,3
+3,yojayati,yuj,ca. pr. ac. sg. 3,4,,
+
+0,vahati,vah,loc. sg. m.,0,viseranam,1
+1,jale,jala,loc. sg. m.,1,axikaranam,0
+2,kaTam,kaTam,adv.,7,kriyaviseranam,0
+3,mfttikayA,mfttikA,i. sg. f.,8,karanam,0
+4,setubanDaH,banDa,nom. sg. m.,10,karwa,0 ####### loc_nom_karwa #######
+
+0,antakAle,kAla,nom. du. n.,36,karwa,1 ####### loc_nom_karwa #######
+1,samAyAte,yAta,loc. sg. n.,96,purvakalah,3
+2,hfdayam,hfdaya,nom. sg. n.,8,karwa,3
+3,parivartate,vft,pr. [1] md. sg. 3,64,,
+
